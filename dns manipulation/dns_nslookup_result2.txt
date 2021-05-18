@@ -1,0 +1,10103 @@
+0
+khantv.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	khantv.org
+Address: 95.215.225.16
+
+1
+khantv.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	khantv.pw
+Address: 170.178.168.203
+
+2
+khatrimaza.biz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	khatrimaza.biz
+Address: 103.224.182.238
+
+3
+khatrimaza.co.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	khatrimaza.co.in
+Address: 103.224.182.238
+
+4
+khatriuploads.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	khatriuploads.pw
+Address: 185.53.178.50
+
+5
+khu18.biz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	khu18.biz
+Address: 35.186.238.101
+
+6
+kickass-cd.bypassed.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass-cd.bypassed.gold
+Address: 185.53.177.14
+
+7
+kickass-cd.bypassed.works
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass-cd.bypassed.works
+Address: 185.53.177.14
+
+8
+kickass-cd.immunicity.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass-cd.immunicity.gold
+Address: 185.53.177.52
+
+9
+kickass-cd.pbproxy.red
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass-cd.pbproxy.red
+Address: 103.224.182.238
+
+10
+kickass.bypassed.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.bypassed.gold
+Address: 185.53.177.14
+
+11
+kickass.bypassed.plus
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.bypassed.plus
+Address: 103.224.182.251
+
+12
+kickass.cd
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.cd
+Address: 172.67.157.200
+Name:	kickass.cd
+Address: 104.21.14.49
+Name:	kickass.cd
+Address: 2606:4700:3033::6815:e31
+Name:	kickass.cd
+Address: 2606:4700:3030::ac43:9dc8
+
+13
+kickass.immunicity.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.immunicity.gold
+Address: 185.53.177.52
+
+14
+kickass.immunicity.team
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.immunicity.team
+Address: 103.224.182.250
+
+15
+kickass.soy
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.soy
+Address: 104.21.86.8
+Name:	kickass.soy
+Address: 172.67.213.185
+Name:	kickass.soy
+Address: 2606:4700:3031::ac43:d5b9
+Name:	kickass.soy
+Address: 2606:4700:3030::6815:5608
+
+16
+kickass.st
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.st
+Address: 172.67.145.160
+Name:	kickass.st
+Address: 104.21.79.122
+Name:	kickass.st
+Address: 2606:4700:3032::ac43:91a0
+Name:	kickass.st
+Address: 2606:4700:3035::6815:4f7a
+
+17
+kickass.to
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.to
+Address: 66.212.148.115
+** server can't find kickass.to: SERVFAIL
+
+18
+kickass.ukbypass.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.ukbypass.info
+Address: 103.224.212.222
+
+19
+kickass.ukbypass.online
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.ukbypass.online
+Address: 185.53.177.50
+
+20
+kickass.ukbypass.pro
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.ukbypass.pro
+Address: 103.224.212.222
+
+21
+kickass.ukbypass.us
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.ukbypass.us
+Address: 103.224.182.250
+
+22
+kickass.ukunblock.download
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.ukunblock.download
+Address: 37.48.65.152
+
+23
+kickass.ukunblock.men
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.ukunblock.men
+Address: 185.53.177.71
+
+24
+kickass.ukunblock.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.ukunblock.pw
+Address: 209.99.40.222
+
+25
+kickass.ukunblock.win
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.ukunblock.win
+Address: 103.224.182.253
+
+26
+kickass.unblockall.xyz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unblockall.xyz
+Address: 103.224.182.238
+
+27
+kickass.unblocked.at
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unblocked.at
+Address: 104.21.6.92
+Name:	kickass.unblocked.at
+Address: 172.67.154.215
+Name:	kickass.unblocked.at
+Address: 2606:4700:3032::ac43:9ad7
+Name:	kickass.unblocked.at
+Address: 2606:4700:3032::6815:65c
+
+28
+kickass.unblocked.bet
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unblocked.bet
+Address: 104.21.38.221
+Name:	kickass.unblocked.bet
+Address: 172.67.139.105
+Name:	kickass.unblocked.bet
+Address: 2606:4700:3036::ac43:8b69
+Name:	kickass.unblocked.bet
+Address: 2606:4700:3033::6815:26dd
+
+29
+kickass.unblocked.cam
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unblocked.cam
+Address: 104.21.4.172
+Name:	kickass.unblocked.cam
+Address: 172.67.132.75
+Name:	kickass.unblocked.cam
+Address: 2606:4700:3037::ac43:844b
+Name:	kickass.unblocked.cam
+Address: 2606:4700:3036::6815:4ac
+
+30
+kickass.unblocked.cat
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unblocked.cat
+Address: 104.21.49.227
+Name:	kickass.unblocked.cat
+Address: 172.67.153.3
+Name:	kickass.unblocked.cat
+Address: 2606:4700:3033::ac43:9903
+Name:	kickass.unblocked.cat
+Address: 2606:4700:3037::6815:31e3
+
+31
+kickass.unblocked.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unblocked.live
+Address: 104.21.34.195
+Name:	kickass.unblocked.live
+Address: 172.67.164.53
+Name:	kickass.unblocked.live
+Address: 2606:4700:3037::ac43:a435
+Name:	kickass.unblocked.live
+Address: 2606:4700:3034::6815:22c3
+
+32
+kickass.unblocked.onl
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unblocked.onl
+Address: 172.67.203.219
+Name:	kickass.unblocked.onl
+Address: 104.21.85.82
+Name:	kickass.unblocked.onl
+Address: 2606:4700:3036::ac43:cbdb
+Name:	kickass.unblocked.onl
+Address: 2606:4700:3035::6815:5552
+
+33
+kickass.unblocked.team
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unblocked.team
+Address: 162.210.199.65
+
+34
+kickass.unblocked.tw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unblocked.tw
+Address: 185.53.177.10
+
+35
+kickass.unblocked.vip
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unblocked.vip
+Address: 104.21.41.196
+Name:	kickass.unblocked.vip
+Address: 172.67.166.214
+Name:	kickass.unblocked.vip
+Address: 2606:4700:3034::6815:29c4
+Name:	kickass.unblocked.vip
+Address: 2606:4700:3037::ac43:a6d6
+
+36
+kickass.unlockpro.bid
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unlockpro.bid
+Address: 185.53.177.31
+
+37
+kickass.unlockpro.club
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unlockpro.club
+Address: 64.190.62.111
+
+38
+kickass.unlockpro.download
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unlockpro.download
+Address: 185.53.177.52
+
+39
+kickass.unlockpro.party
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unlockpro.party
+Address: 185.53.177.52
+
+40
+kickass.unlockpro.racing
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unlockpro.racing
+Address: 103.224.182.250
+
+41
+kickass.unlockpro.win
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unlockpro.win
+Address: 103.224.182.250
+
+42
+kickass.unlockproject.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unlockproject.co
+Address: 185.53.177.72
+
+43
+kickass.unlockproject.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unlockproject.info
+Address: 185.53.177.70
+
+44
+kickass.unlockproject.space
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unlockproject.space
+Address: 103.224.182.250
+
+45
+kickass.unlockproject.win
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.unlockproject.win
+Address: 103.224.182.250
+
+46
+kickass.usbypass.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.usbypass.info
+Address: 75.2.18.233
+
+47
+kickass.usbypass.online
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.usbypass.online
+Address: 185.53.178.54
+
+48
+kickass.usunblock.men
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass.usunblock.men
+Address: 170.178.168.203
+
+49
+kickass1.bypassed.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass1.bypassed.gold
+Address: 185.53.177.14
+
+50
+kickass1.immunicity.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass1.immunicity.gold
+Address: 185.53.177.52
+
+51
+kickass2.bypassed.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass2.bypassed.gold
+Address: 185.53.177.14
+
+52
+kickass2.immunicity.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass2.immunicity.gold
+Address: 185.53.177.52
+
+53
+kickass2.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass2.org
+Address: 104.21.83.27
+Name:	kickass2.org
+Address: 172.67.210.229
+Name:	kickass2.org
+Address: 2606:4700:3037::6815:531b
+Name:	kickass2.org
+Address: 2606:4700:3032::ac43:d2e5
+
+54
+kickass5-cd.unblocked.lol
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickass5-cd.unblocked.lol
+Address: 199.59.242.150
+
+55
+kickasstop.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+kickasstop.net	canonical name = pltraffic8.com.
+Name:	pltraffic8.com
+Address: 69.16.230.42
+
+56
+kickasstorrent.email
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickasstorrent.email
+Address: 170.178.168.203
+
+57
+kickasstorrents.email
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickasstorrents.email
+Address: 103.224.182.250
+
+58
+kickasstorrents.to
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickasstorrents.to
+Address: 172.67.36.146
+Name:	kickasstorrents.to
+Address: 104.22.32.168
+Name:	kickasstorrents.to
+Address: 104.22.33.168
+Name:	kickasstorrents.to
+Address: 2606:4700:10::ac43:2492
+Name:	kickasstorrents.to
+Address: 2606:4700:10::6816:20a8
+Name:	kickasstorrents.to
+Address: 2606:4700:10::6816:21a8
+
+59
+kickasstorrentsam.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickasstorrentsam.com
+Address: 69.16.230.42
+Name:	kickasstorrentsam.com
+Address: 2600:3c02:1::2d4f:f40e
+
+60
+kickassunblock.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kickassunblock.net
+Address: 67.227.226.241
+Name:	kickassunblock.net
+Address: 2600:3c02:1::2d4f:f40e
+
+61
+kingboss.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find kingboss.in: NXDOMAIN
+
+62
+kingvid.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kingvid.tv
+Address: 5.79.68.107
+
+63
+kirtu.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kirtu.com
+Address: 104.21.234.86
+Name:	kirtu.com
+Address: 104.21.234.87
+
+64
+knaben.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	knaben.co
+Address: 172.67.173.98
+Name:	knaben.co
+Address: 104.21.63.247
+Name:	knaben.co
+Address: 2606:4700:3033::ac43:ad62
+Name:	knaben.co
+Address: 2606:4700:3035::6815:3ff7
+
+65
+kproxy.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kproxy.com
+Address: 167.114.102.230
+Name:	kproxy.com
+Address: 192.95.4.124
+Name:	kproxy.com
+Address: 167.114.118.4
+Name:	kproxy.com
+Address: 149.202.98.190
+Name:	kproxy.com
+Address: 192.95.4.125
+Name:	kproxy.com
+Address: 192.95.12.100
+Name:	kproxy.com
+Address: 192.95.12.101
+Name:	kproxy.com
+Address: 149.202.98.191
+Name:	kproxy.com
+Address: 37.187.147.158
+
+66
+kqjf3r1ubj.1fichier.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kqjf3r1ubj.1fichier.com
+Address: 5.39.224.140
+Name:	kqjf3r1ubj.1fichier.com
+Address: 2a00:fb40:a:1::140
+
+67
+kumpulmovieindo.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	kumpulmovieindo.co
+Address: 103.224.182.250
+
+68
+lahorecinema.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	lahorecinema.com
+Address: 52.58.78.16
+Name:	lahorecinema.com
+Address: 2a05:d014:9da:8c10:306e:3e07:a16f:a552
+
+69
+lampza.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	lampza.com
+Address: 185.53.178.72
+
+70
+lankantv.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	lankantv.net
+Address: 67.227.226.240
+Name:	lankantv.net
+Address: 2600:3c02:1::2d4f:f40e
+
+71
+largeporntube.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	largeporntube.com
+Address: 104.21.233.254
+Name:	largeporntube.com
+Address: 104.21.233.253
+Name:	largeporntube.com
+Address: 2606:4700:3038::6815:e9fd
+Name:	largeporntube.com
+Address: 2606:4700:3038::6815:e9fe
+
+72
+latestindianmoviesonlines.blogspot.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+latestindianmoviesonlines.blogspot.in	canonical name = blogspot.l.googleusercontent.com.
+Name:	blogspot.l.googleusercontent.com
+Address: 216.58.200.33
+
+73
+latestmovieslive.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	latestmovieslive.net
+Address: 199.59.242.153
+
+74
+latestonlinemovie.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	latestonlinemovie.info
+Address: 67.227.226.240
+Name:	latestonlinemovie.info
+Address: 2600:3c02:1::2d4f:f40e
+
+75
+legalporno.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	legalporno.com
+Address: 185.120.71.24
+Name:	legalporno.com
+Address: 185.120.71.26
+Name:	legalporno.com
+Address: 185.120.71.25
+
+76
+lemuploads.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	lemuploads.com
+Address: 207.244.67.215
+
+77
+letwatch.to
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	letwatch.to
+Address: 199.59.242.153
+
+78
+letwatch.us
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	letwatch.us
+Address: 72.52.178.23
+Name:	letwatch.us
+Address: 2600:3c02:1::2d4f:f40e
+
+79
+lewd-babes.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	lewd-babes.com
+Address: 162.251.108.41
+Name:	lewd-babes.com
+Address: 2605:6280:1:30::1c
+
+80
+life-sport.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	life-sport.org
+Address: 104.21.38.253
+Name:	life-sport.org
+Address: 172.67.141.153
+Name:	life-sport.org
+Address: 2606:4700:3037::ac43:8d99
+Name:	life-sport.org
+Address: 2606:4700:3034::6815:26fd
+
+81
+likewap.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	likewap.net
+Address: 185.107.56.198
+
+82
+likewap.site
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	likewap.site
+Address: 103.224.182.250
+
+83
+likewapmovies.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	likewapmovies.com
+Address: 147.255.130.246
+
+84
+limetor.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetor.co
+Address: 207.244.67.215
+
+85
+limetor.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetor.com
+Address: 104.21.37.216
+Name:	limetor.com
+Address: 172.67.213.153
+Name:	limetor.com
+Address: 2606:4700:3036::ac43:d599
+Name:	limetor.com
+Address: 2606:4700:3037::6815:25d8
+
+86
+limetorrents.bypassed.bid
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.bid
+Address: 103.224.182.250
+
+87
+limetorrents.bypassed.cc
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.cc
+Address: 37.48.65.145
+
+88
+limetorrents.bypassed.date
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.date
+Address: 185.53.178.10
+
+89
+limetorrents.bypassed.download
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.download
+Address: 103.224.182.250
+
+90
+limetorrents.bypassed.faith
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.faith
+Address: 103.224.182.250
+
+91
+limetorrents.bypassed.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.gold
+Address: 185.53.177.14
+
+92
+limetorrents.bypassed.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.info
+Address: 185.53.177.54
+
+93
+limetorrents.bypassed.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.live
+Address: 103.224.182.250
+
+94
+limetorrents.bypassed.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.me
+Address: 103.224.182.250
+
+95
+limetorrents.bypassed.men
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.men
+Address: 103.224.182.250
+
+96
+limetorrents.bypassed.party
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.party
+Address: 185.53.178.11
+
+97
+limetorrents.bypassed.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.pw
+Address: 103.224.182.250
+
+98
+limetorrents.bypassed.red
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.red
+Address: 103.224.182.250
+
+99
+limetorrents.bypassed.run
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.run
+Address: 103.224.182.250
+
+100
+limetorrents.bypassed.site
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.site
+Address: 185.53.178.54
+
+101
+limetorrents.bypassed.today
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.today
+Address: 185.53.177.73
+
+102
+limetorrents.bypassed.top
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.top
+Address: 103.224.182.250
+
+103
+limetorrents.bypassed.win
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.win
+Address: 103.224.182.250
+
+104
+limetorrents.bypassed.works
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.bypassed.works
+Address: 185.53.177.14
+
+105
+limetorrents.cc
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.cc
+Address: 172.67.132.217
+Name:	limetorrents.cc
+Address: 104.21.5.30
+Name:	limetorrents.cc
+Address: 2606:4700:3036::ac43:84d9
+Name:	limetorrents.cc
+Address: 2606:4700:3034::6815:51e
+
+106
+limetorrents.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.co
+Address: 104.21.30.128
+Name:	limetorrents.co
+Address: 172.67.172.237
+Name:	limetorrents.co
+Address: 2606:4700:3032::ac43:aced
+Name:	limetorrents.co
+Address: 2606:4700:3031::6815:1e80
+
+107
+limetorrents.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.com
+Address: 172.67.177.109
+Name:	limetorrents.com
+Address: 104.21.91.180
+Name:	limetorrents.com
+Address: 2606:4700:3035::6815:5bb4
+Name:	limetorrents.com
+Address: 2606:4700:3031::ac43:b16d
+
+108
+limetorrents.filessoo.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.filessoo.com
+Address: 103.224.212.221
+
+109
+limetorrents.immunicity.cc
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.immunicity.cc
+Address: 103.224.212.219
+
+110
+limetorrents.immunicity.fyi
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.immunicity.fyi
+Address: 185.53.177.51
+
+111
+limetorrents.immunicity.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.immunicity.gold
+Address: 185.53.177.52
+
+112
+limetorrents.immunicity.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.immunicity.live
+Address: 185.53.177.50
+
+113
+limetorrents.immunicity.ltd
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.immunicity.ltd
+Address: 103.224.182.250
+
+114
+limetorrents.immunicity.men
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.immunicity.men
+Address: 185.53.178.50
+
+115
+limetorrents.immunicity.party
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.immunicity.party
+Address: 185.53.178.13
+
+116
+limetorrents.immunicity.red
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.immunicity.red
+Address: 185.53.177.52
+
+117
+limetorrents.immunicity.run
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.immunicity.run
+Address: 103.224.182.250
+
+118
+limetorrents.immunicity.today
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.immunicity.today
+Address: 103.224.182.250
+
+119
+limetorrents.immunicity.world
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.immunicity.world
+Address: 185.53.177.53
+
+120
+limetorrents.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.info
+Address: 172.67.72.203
+Name:	limetorrents.info
+Address: 104.26.1.249
+Name:	limetorrents.info
+Address: 104.26.0.249
+Name:	limetorrents.info
+Address: 2606:4700:20::681a:f9
+Name:	limetorrents.info
+Address: 2606:4700:20::ac43:48cb
+Name:	limetorrents.info
+Address: 2606:4700:20::681a:1f9
+
+121
+limetorrents.openlibrary.online
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find limetorrents.openlibrary.online: NXDOMAIN
+
+122
+limetorrents.ukbypass.win
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.ukbypass.win
+Address: 70.32.1.32
+
+123
+limetorrents.unblockall.xyz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblockall.xyz
+Address: 103.224.182.238
+
+124
+limetorrents.unblocked.at
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.at
+Address: 104.21.6.92
+Name:	limetorrents.unblocked.at
+Address: 172.67.154.215
+Name:	limetorrents.unblocked.at
+Address: 2606:4700:3032::6815:65c
+Name:	limetorrents.unblocked.at
+Address: 2606:4700:3032::ac43:9ad7
+
+125
+limetorrents.unblocked.bet
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.bet
+Address: 172.67.139.105
+Name:	limetorrents.unblocked.bet
+Address: 104.21.38.221
+Name:	limetorrents.unblocked.bet
+Address: 2606:4700:3036::ac43:8b69
+Name:	limetorrents.unblocked.bet
+Address: 2606:4700:3033::6815:26dd
+
+126
+limetorrents.unblocked.cam
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.cam
+Address: 172.67.132.75
+Name:	limetorrents.unblocked.cam
+Address: 104.21.4.172
+Name:	limetorrents.unblocked.cam
+Address: 2606:4700:3036::6815:4ac
+Name:	limetorrents.unblocked.cam
+Address: 2606:4700:3037::ac43:844b
+
+127
+limetorrents.unblocked.cat
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.cat
+Address: 172.67.153.3
+Name:	limetorrents.unblocked.cat
+Address: 104.21.49.227
+Name:	limetorrents.unblocked.cat
+Address: 2606:4700:3037::6815:31e3
+Name:	limetorrents.unblocked.cat
+Address: 2606:4700:3033::ac43:9903
+
+128
+limetorrents.unblocked.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.gold
+Address: 162.210.199.87
+
+129
+limetorrents.unblocked.la
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.la
+Address: 172.67.222.251
+Name:	limetorrents.unblocked.la
+Address: 104.21.17.61
+Name:	limetorrents.unblocked.la
+Address: 2606:4700:3030::6815:113d
+Name:	limetorrents.unblocked.la
+Address: 2606:4700:3035::ac43:defb
+
+130
+limetorrents.unblocked.li
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.li
+Address: 172.67.189.165
+Name:	limetorrents.unblocked.li
+Address: 104.21.73.103
+Name:	limetorrents.unblocked.li
+Address: 2606:4700:3037::6815:4967
+Name:	limetorrents.unblocked.li
+Address: 2606:4700:3033::ac43:bda5
+
+131
+limetorrents.unblocked.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.live
+Address: 172.67.164.53
+Name:	limetorrents.unblocked.live
+Address: 104.21.34.195
+Name:	limetorrents.unblocked.live
+Address: 2606:4700:3034::6815:22c3
+Name:	limetorrents.unblocked.live
+Address: 2606:4700:3037::ac43:a435
+
+132
+limetorrents.unblocked.ltd
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find limetorrents.unblocked.ltd: NXDOMAIN
+
+133
+limetorrents.unblocked.one
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.one
+Address: 172.67.148.160
+Name:	limetorrents.unblocked.one
+Address: 104.21.95.213
+Name:	limetorrents.unblocked.one
+Address: 2606:4700:3032::6815:5fd5
+Name:	limetorrents.unblocked.one
+Address: 2606:4700:3033::ac43:94a0
+
+134
+limetorrents.unblocked.onl
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.onl
+Address: 172.67.203.219
+Name:	limetorrents.unblocked.onl
+Address: 104.21.85.82
+Name:	limetorrents.unblocked.onl
+Address: 2606:4700:3035::6815:5552
+Name:	limetorrents.unblocked.onl
+Address: 2606:4700:3036::ac43:cbdb
+
+135
+limetorrents.unblocked.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.pw
+Address: 172.67.157.185
+Name:	limetorrents.unblocked.pw
+Address: 104.21.8.171
+Name:	limetorrents.unblocked.pw
+Address: 2606:4700:3036::ac43:9db9
+Name:	limetorrents.unblocked.pw
+Address: 2606:4700:3030::6815:8ab
+
+136
+limetorrents.unblocked.run
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.run
+Address: 103.224.182.250
+
+137
+limetorrents.unblocked.today
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.today
+Address: 103.224.182.250
+
+138
+limetorrents.unblocked.tw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.tw
+Address: 185.53.177.10
+
+139
+limetorrents.unblocked.uno
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.uno
+Address: 172.67.223.48
+Name:	limetorrents.unblocked.uno
+Address: 104.21.25.58
+Name:	limetorrents.unblocked.uno
+Address: 2606:4700:3035::ac43:df30
+Name:	limetorrents.unblocked.uno
+Address: 2606:4700:3037::6815:193a
+
+140
+limetorrents.unblocked.vip
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.vip
+Address: 172.67.166.214
+Name:	limetorrents.unblocked.vip
+Address: 104.21.41.196
+Name:	limetorrents.unblocked.vip
+Address: 2606:4700:3034::6815:29c4
+Name:	limetorrents.unblocked.vip
+Address: 2606:4700:3037::ac43:a6d6
+
+141
+limetorrents.unblocked.world
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblocked.world
+Address: 185.53.178.52
+
+142
+limetorrents.unblockmy.host
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.unblockmy.host
+Address: 170.178.168.203
+
+143
+limetorrents.website
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents.website
+Address: 103.224.182.250
+
+144
+limetorrents1.bypassed.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents1.bypassed.gold
+Address: 185.53.177.14
+
+145
+limetorrents1.immunicity.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents1.immunicity.gold
+Address: 185.53.177.52
+
+146
+limetorrents2.bypassed.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents2.bypassed.gold
+Address: 185.53.177.14
+
+147
+limetorrents2.immunicity.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	limetorrents2.immunicity.gold
+Address: 185.53.177.52
+
+148
+link2download.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	link2download.net
+Address: 185.53.177.31
+
+149
+lisaannlovers11.tumblr.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	lisaannlovers11.tumblr.com
+Address: 74.114.154.22
+Name:	lisaannlovers11.tumblr.com
+Address: 74.114.154.18
+
+150
+live-24-tv.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	live-24-tv.com
+Address: 103.224.212.221
+
+151
+live-sports.crichd.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	live-sports.crichd.com
+Address: 104.21.57.43
+Name:	live-sports.crichd.com
+Address: 172.67.189.32
+Name:	live-sports.crichd.com
+Address: 2606:4700:3037::ac43:bd20
+Name:	live-sports.crichd.com
+Address: 2606:4700:3031::6815:392b
+
+152
+live.batmanstream.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+live.batmanstream.com	canonical name = batmanstream.com.
+Name:	batmanstream.com
+Address: 69.16.230.42
+Name:	batmanstream.com
+Address: 2600:3c02:1::2d4f:f40e
+
+153
+live.extracover.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	live.extracover.pw
+Address: 103.224.182.238
+
+154
+live.iplstream.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	live.iplstream.in
+Address: 45.33.2.79
+Name:	live.iplstream.in
+Address: 72.14.185.43
+Name:	live.iplstream.in
+Address: 72.14.178.174
+Name:	live.iplstream.in
+Address: 45.33.23.183
+Name:	live.iplstream.in
+Address: 198.58.118.167
+Name:	live.iplstream.in
+Address: 45.33.30.197
+Name:	live.iplstream.in
+Address: 45.33.18.44
+Name:	live.iplstream.in
+Address: 45.33.20.235
+Name:	live.iplstream.in
+Address: 173.255.194.134
+Name:	live.iplstream.in
+Address: 45.56.79.23
+Name:	live.iplstream.in
+Address: 45.79.19.196
+Name:	live.iplstream.in
+Address: 96.126.123.244
+
+155
+live.khantv.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	live.khantv.tv
+Address: 104.200.23.95
+Name:	live.khantv.tv
+Address: 104.200.22.130
+
+156
+live.livewidget.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	live.livewidget.net
+Address: 45.33.30.197
+Name:	live.livewidget.net
+Address: 45.33.18.44
+Name:	live.livewidget.net
+Address: 45.79.19.196
+Name:	live.livewidget.net
+Address: 45.33.2.79
+Name:	live.livewidget.net
+Address: 45.56.79.23
+Name:	live.livewidget.net
+Address: 198.58.118.167
+Name:	live.livewidget.net
+Address: 72.14.178.174
+Name:	live.livewidget.net
+Address: 45.33.20.235
+Name:	live.livewidget.net
+Address: 45.33.23.183
+Name:	live.livewidget.net
+Address: 72.14.185.43
+Name:	live.livewidget.net
+Address: 96.126.123.244
+Name:	live.livewidget.net
+Address: 173.255.194.134
+
+157
+live.mylivecricket.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+live.mylivecricket.tv	canonical name = mylivecricket.tv.
+Name:	mylivecricket.tv
+Address: 72.52.178.23
+Name:	mylivecricket.tv
+Address: 2600:3c02:1::2d4f:f40e
+
+158
+live.ptvsports.pk
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find live.ptvsports.pk: NXDOMAIN
+
+159
+live2all.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	live2all.co
+Address: 172.67.146.190
+Name:	live2all.co
+Address: 104.21.28.148
+Name:	live2all.co
+Address: 2606:4700:3031::ac43:92be
+Name:	live2all.co
+Address: 2606:4700:3033::6815:1c94
+
+160
+live2all.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	live2all.com
+Address: 172.67.218.98
+Name:	live2all.com
+Address: 104.21.94.17
+Name:	live2all.com
+Address: 2606:4700:3033::ac43:da62
+Name:	live2all.com
+Address: 2606:4700:3032::6815:5e11
+
+161
+live2all.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	live2all.me
+Address: 172.67.223.93
+Name:	live2all.me
+Address: 104.21.62.113
+Name:	live2all.me
+Address: 2606:4700:3033::ac43:df5d
+Name:	live2all.me
+Address: 2606:4700:3031::6815:3e71
+
+162
+live2all.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	live2all.tv
+Address: 104.21.55.150
+Name:	live2all.tv
+Address: 172.67.149.44
+Name:	live2all.tv
+Address: 2606:4700:3036::6815:3796
+Name:	live2all.tv
+Address: 2606:4700:3037::ac43:952c
+
+163
+live2sport.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	live2sport.com
+Address: 194.247.12.182
+
+164
+livecricfun.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livecricfun.in
+Address: 45.79.19.196
+Name:	livecricfun.in
+Address: 173.255.194.134
+Name:	livecricfun.in
+Address: 45.33.2.79
+Name:	livecricfun.in
+Address: 45.56.79.23
+Name:	livecricfun.in
+Address: 72.14.178.174
+Name:	livecricfun.in
+Address: 45.33.20.235
+Name:	livecricfun.in
+Address: 198.58.118.167
+Name:	livecricfun.in
+Address: 72.14.185.43
+Name:	livecricfun.in
+Address: 45.33.23.183
+Name:	livecricfun.in
+Address: 45.33.18.44
+Name:	livecricfun.in
+Address: 96.126.123.244
+Name:	livecricfun.in
+Address: 45.33.30.197
+
+165
+livecricket.is
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livecricket.is
+Address: 185.32.124.136
+
+166
+livecricket.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livecricket.live
+Address: 185.53.178.74
+
+167
+livecricketstreaming.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livecricketstreaming.net
+Address: 104.21.59.63
+Name:	livecricketstreaming.net
+Address: 172.67.216.159
+
+168
+livecricketz.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livecricketz.org
+Address: 103.224.182.245
+
+169
+livecricz.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find livecricz.com: NXDOMAIN
+
+170
+livedemo.safersurf.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livedemo.safersurf.com
+Address: 116.202.203.8
+
+171
+liveflash.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	liveflash.tv
+Address: 172.67.208.246
+Name:	liveflash.tv
+Address: 104.21.69.135
+
+172
+liveleak.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	liveleak.com
+Address: 199.80.59.132
+Name:	liveleak.com
+Address: 199.80.59.186
+
+173
+liveonlinetv247.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	liveonlinetv247.info
+Address: 111.90.140.104
+
+174
+livesportnow.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livesportnow.com
+Address: 162.0.232.234
+
+175
+livesportv.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+livesportv.com	canonical name = prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com.
+Name:	prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com
+Address: 3.14.18.91
+Name:	prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com
+Address: 3.14.206.30
+Name:	prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com
+Address: 52.15.160.167
+Name:	prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com
+Address: 2600:1f16:389:3100:e10:2feb:93c4:e5be
+Name:	prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com
+Address: 2600:1f16:389:3120:aea:69fe:9346:e735
+Name:	prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com
+Address: 2600:1f16:389:3110:be8b:64f3:f25d:725b
+
+176
+livestream.sx
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livestream.sx
+Address: 18.215.128.143
+Name:	livestream.sx
+Address: 18.213.250.117
+Name:	livestream.sx
+Address: 52.4.209.250
+
+177
+livestreami.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livestreami.com
+Address: 34.102.136.180
+
+178
+livestreamyou.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livestreamyou.com
+Address: 35.186.238.101
+
+179
+livetv-free.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livetv-free.com
+Address: 69.16.231.151
+Name:	livetv-free.com
+Address: 2600:3c02:1::2d4f:f40e
+
+180
+livetv.pk
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livetv.pk
+Address: 178.237.35.121
+
+181
+livetv.sc
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livetv.sc
+Address: 103.224.182.250
+
+182
+livetv123.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livetv123.net
+Address: 199.59.242.153
+
+183
+livetv141.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livetv141.net
+Address: 104.21.25.53
+Name:	livetv141.net
+Address: 172.67.222.184
+Name:	livetv141.net
+Address: 2606:4700:3031::6815:1935
+Name:	livetv141.net
+Address: 2606:4700:3036::ac43:deb8
+
+184
+livetvcafe.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livetvcafe.com
+Address: 184.168.131.241
+
+185
+livetvcafe.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	livetvcafe.net
+Address: 184.168.131.241
+
+186
+lockerdome.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	lockerdome.com
+Address: 104.154.142.214
+
+187
+lodynet.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	lodynet.com
+Address: 172.67.129.104
+Name:	lodynet.com
+Address: 104.21.1.140
+Name:	lodynet.com
+Address: 2606:4700:3030::6815:18c
+Name:	lodynet.com
+Address: 2606:4700:3037::ac43:8168
+
+188
+longlist.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	longlist.org
+Address: 172.67.134.181
+Name:	longlist.org
+Address: 104.21.6.101
+Name:	longlist.org
+Address: 2606:4700:3031::6815:665
+Name:	longlist.org
+Address: 2606:4700:3035::ac43:86b5
+
+189
+loudupload.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	loudupload.net
+Address: 69.16.230.42
+Name:	loudupload.net
+Address: 2600:3c02:1::2d4f:f40e
+
+190
+loytube.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	loytube.com
+Address: 104.21.20.163
+Name:	loytube.com
+Address: 172.67.193.51
+Name:	loytube.com
+Address: 2606:4700:3034::6815:14a3
+Name:	loytube.com
+Address: 2606:4700:3036::ac43:c133
+
+191
+luckyshare.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	luckyshare.net
+Address: 104.21.59.192
+Name:	luckyshare.net
+Address: 172.67.182.237
+Name:	luckyshare.net
+Address: 2606:4700:3031::ac43:b6ed
+Name:	luckyshare.net
+Address: 2606:4700:3030::6815:3bc0
+
+192
+lumfile.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	lumfile.com
+Address: 104.21.31.233
+Name:	lumfile.com
+Address: 172.67.180.190
+Name:	lumfile.com
+Address: 2606:4700:3036::ac43:b4be
+Name:	lumfile.com
+Address: 2606:4700:3031::6815:1fe9
+
+193
+m.btscene.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+m.btscene.net	canonical name = pltraffic8.com.
+Name:	pltraffic8.com
+Address: 69.16.230.42
+
+194
+m.chudaimaza.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	m.chudaimaza.com
+Address: 5.189.133.196
+
+195
+m.facebook.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+m.facebook.com	canonical name = star-mini.c10r.facebook.com.
+Name:	star-mini.c10r.facebook.com
+Address: 31.13.79.35
+Name:	star-mini.c10r.facebook.com
+Address: 2a03:2880:f12f:183:face:b00c:0:25de
+
+196
+madfortv.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	madfortv.com
+Address: 104.247.82.130
+
+197
+malayalamserials.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	malayalamserials.in
+Address: 185.53.177.52
+
+198
+mamahd.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mamahd.com
+Address: 62.182.85.103
+
+199
+mamahd.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mamahd.tv
+Address: 62.182.85.103
+
+200
+manutv.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	manutv.net
+Address: 172.67.153.34
+Name:	manutv.net
+Address: 104.21.72.160
+Name:	manutv.net
+Address: 2606:4700:3035::ac43:9922
+Name:	manutv.net
+Address: 2606:4700:3035::6815:48a0
+
+201
+mastiglobe.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mastiglobe.com
+Address: 180.215.20.50
+
+202
+mastitorrents.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mastitorrents.net
+Address: 103.224.182.245
+
+203
+mastiway.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mastiway.info
+Address: 185.107.56.199
+
+204
+masturbationaddiction.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	masturbationaddiction.net
+Address: 192.254.233.206
+
+205
+mature-beach.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mature-beach.com
+Address: 68.169.85.36
+
+206
+mature-women-tube.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mature-women-tube.net
+Address: 213.174.133.210
+
+207
+mature4.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mature4.net
+Address: 62.122.169.158
+
+208
+matureclithunter.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	matureclithunter.com
+Address: 68.169.85.101
+
+209
+matureclits.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	matureclits.net
+Address: 68.169.85.103
+
+210
+maturedummy.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	maturedummy.com
+Address: 207.244.67.139
+
+211
+matureinlove.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	matureinlove.net
+Address: 188.42.163.228
+
+212
+maturepornhub.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	maturepornhub.com
+Address: 199.59.242.153
+
+213
+maturestation.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	maturestation.com
+Address: 96.47.230.68
+
+214
+maturewitch.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	maturewitch.com
+Address: 103.224.182.251
+
+215
+max-deportv.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	max-deportv.net
+Address: 192.40.56.150
+
+216
+maxdeportv.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	maxdeportv.net
+Address: 45.141.59.71
+
+217
+mazahub.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mazahub.com
+Address: 207.244.245.116
+
+218
+meczelive.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	meczelive.tv
+Address: 104.21.46.181
+Name:	meczelive.tv
+Address: 172.67.141.35
+Name:	meczelive.tv
+Address: 2606:4700:3035::6815:2eb5
+Name:	meczelive.tv
+Address: 2606:4700:3032::ac43:8d23
+
+219
+medanmovies.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	medanmovies.com
+Address: 69.88.138.222
+
+220
+media1fire.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	media1fire.com
+Address: 69.16.230.42
+Name:	media1fire.com
+Address: 2600:3c02:1::2d4f:f40e
+
+221
+media4up.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	media4up.com
+Address: 67.227.226.241
+Name:	media4up.com
+Address: 2600:3c02:1::2d4f:f40e
+
+222
+mediafree.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mediafree.co
+Address: 69.16.231.151
+Name:	mediafree.co
+Address: 2600:3c02:1::2d4f:f40e
+
+223
+mediaonlinebd.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mediaonlinebd.com
+Address: 103.48.119.233
+
+224
+mega-teen.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mega-teen.com
+Address: 174.136.12.111
+
+225
+mega.co.nz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mega.co.nz
+Address: 66.203.125.22
+Name:	mega.co.nz
+Address: 2a0b:e46:1:100::22
+
+226
+mega.nz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mega.nz
+Address: 66.203.127.18
+Name:	mega.nz
+Address: 2a0b:e40:3::18
+
+227
+megafilesfactory.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	megafilesfactory.com
+Address: 67.227.226.240
+Name:	megafilesfactory.com
+Address: 2600:3c02:1::2d4f:f40e
+
+228
+megamp4.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	megamp4.net
+Address: 69.16.231.150
+Name:	megamp4.net
+Address: 2600:3c02:1::2d4f:f40e
+
+229
+megaproxy.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	megaproxy.com
+Address: 52.70.232.188
+
+230
+mersalaayitten.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mersalaayitten.co
+Address: 103.224.182.250
+
+231
+mersalaayitten.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mersalaayitten.net
+Address: 103.224.182.251
+
+232
+mersalaayitten.us
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mersalaayitten.us
+Address: 45.33.20.235
+Name:	mersalaayitten.us
+Address: 72.14.178.174
+Name:	mersalaayitten.us
+Address: 45.33.23.183
+Name:	mersalaayitten.us
+Address: 45.33.2.79
+Name:	mersalaayitten.us
+Address: 45.33.30.197
+Name:	mersalaayitten.us
+Address: 198.58.118.167
+Name:	mersalaayitten.us
+Address: 45.79.19.196
+Name:	mersalaayitten.us
+Address: 45.56.79.23
+Name:	mersalaayitten.us
+Address: 96.126.123.244
+Name:	mersalaayitten.us
+Address: 173.255.194.134
+Name:	mersalaayitten.us
+Address: 72.14.185.43
+Name:	mersalaayitten.us
+Address: 45.33.18.44
+
+233
+mhdtvlive.co.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mhdtvlive.co.in
+Address: 185.53.177.54
+
+234
+mhdtvlive.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mhdtvlive.com
+Address: 67.227.226.241
+Name:	mhdtvlive.com
+Address: 2600:3c02:1::2d4f:f40e
+
+235
+mhnwap.wapka.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mhnwap.wapka.me
+Address: 103.224.182.253
+
+236
+micast.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	micast.tv
+Address: 104.21.233.142
+Name:	micast.tv
+Address: 104.21.233.141
+Name:	micast.tv
+Address: 2606:4700:3038::6815:e98d
+Name:	micast.tv
+Address: 2606:4700:3038::6815:e98e
+
+237
+mightyupload.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mightyupload.com
+Address: 66.70.176.211
+
+238
+milfatwork.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	milfatwork.net
+Address: 162.254.188.72
+
+239
+milfionaire.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	milfionaire.com
+Address: 172.67.150.127
+Name:	milfionaire.com
+Address: 104.21.90.2
+Name:	milfionaire.com
+Address: 2606:4700:3035::ac43:967f
+Name:	milfionaire.com
+Address: 2606:4700:3031::6815:5a02
+
+240
+milfous.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	milfous.com
+Address: 64.190.62.111
+
+241
+milfs30.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	milfs30.com
+Address: 104.26.15.161
+Name:	milfs30.com
+Address: 172.67.69.217
+Name:	milfs30.com
+Address: 104.26.14.161
+Name:	milfs30.com
+Address: 2606:4700:20::681a:fa1
+Name:	milfs30.com
+Address: 2606:4700:20::ac43:45d9
+Name:	milfs30.com
+Address: 2606:4700:20::681a:ea1
+
+242
+milfsaffair.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	milfsaffair.com
+Address: 35.203.113.247
+
+243
+milloxtv.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	milloxtv.me
+Address: 185.53.177.12
+
+244
+mimti1.moviesmobile.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+mimti1.moviesmobile.net	canonical name = moviesmobile.net.
+Name:	moviesmobile.net
+Address: 72.52.178.23
+Name:	moviesmobile.net
+Address: 2600:3c02:1::2d4f:f40e
+
+245
+mindslostinlust.tumblr.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mindslostinlust.tumblr.com
+Address: 74.114.154.18
+Name:	mindslostinlust.tumblr.com
+Address: 74.114.154.22
+
+246
+mips.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mips.tv
+Address: 104.21.67.52
+Name:	mips.tv
+Address: 172.67.213.211
+
+247
+mirchifun.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mirchifun.info
+Address: 96.126.123.244
+Name:	mirchifun.info
+Address: 72.14.178.174
+Name:	mirchifun.info
+Address: 45.33.18.44
+Name:	mirchifun.info
+Address: 45.33.23.183
+Name:	mirchifun.info
+Address: 45.33.2.79
+Name:	mirchifun.info
+Address: 45.79.19.196
+Name:	mirchifun.info
+Address: 45.33.20.235
+Name:	mirchifun.info
+Address: 45.56.79.23
+Name:	mirchifun.info
+Address: 72.14.185.43
+Name:	mirchifun.info
+Address: 45.33.30.197
+Name:	mirchifun.info
+Address: 198.58.118.167
+Name:	mirchifun.info
+Address: 173.255.194.134
+
+248
+mirchifun.mobi
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mirchifun.mobi
+Address: 45.56.79.23
+Name:	mirchifun.mobi
+Address: 45.33.30.197
+Name:	mirchifun.mobi
+Address: 198.58.118.167
+Name:	mirchifun.mobi
+Address: 72.14.178.174
+Name:	mirchifun.mobi
+Address: 45.33.18.44
+Name:	mirchifun.mobi
+Address: 173.255.194.134
+Name:	mirchifun.mobi
+Address: 72.14.185.43
+Name:	mirchifun.mobi
+Address: 96.126.123.244
+Name:	mirchifun.mobi
+Address: 45.33.2.79
+Name:	mirchifun.mobi
+Address: 45.33.20.235
+Name:	mirchifun.mobi
+Address: 45.33.23.183
+Name:	mirchifun.mobi
+Address: 45.79.19.196
+
+249
+mirrorace.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mirrorace.com
+Address: 172.67.209.184
+Name:	mirrorace.com
+Address: 104.21.37.148
+Name:	mirrorace.com
+Address: 2606:4700:3031::ac43:d1b8
+Name:	mirrorace.com
+Address: 2606:4700:3032::6815:2594
+
+250
+mkvflims.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mkvflims.com
+Address: 185.53.177.12
+
+251
+mkvmovieshd.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mkvmovieshd.info
+Address: 103.224.182.250
+
+252
+mkvmovieshd.xyz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mkvmovieshd.xyz
+Address: 185.53.177.12
+
+253
+modovideo.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	modovideo.com
+Address: 34.98.99.30
+
+254
+momsteachsex.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	momsteachsex.com
+Address: 46.182.108.7
+
+255
+monclotube.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	monclotube.net
+Address: 67.227.226.240
+Name:	monclotube.net
+Address: 2600:3c02:1::2d4f:f40e
+
+256
+moontamil.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moontamil.com
+Address: 172.67.188.116
+Name:	moontamil.com
+Address: 104.21.8.131
+Name:	moontamil.com
+Address: 2606:4700:3037::6815:883
+Name:	moontamil.com
+Address: 2606:4700:3030::ac43:bc74
+
+257
+moshahda.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moshahda.net
+Address: 104.21.44.10
+Name:	moshahda.net
+Address: 172.67.192.201
+Name:	moshahda.net
+Address: 2606:4700:3037::6815:2c0a
+Name:	moshahda.net
+Address: 2606:4700:3033::ac43:c0c9
+
+258
+motherless.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	motherless.com
+Address: 185.107.81.234
+Name:	motherless.com
+Address: 185.107.81.233
+
+259
+mouparkstreet.blogspot.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+mouparkstreet.blogspot.in	canonical name = blogspot.l.googleusercontent.com.
+Name:	blogspot.l.googleusercontent.com
+Address: 172.217.160.65
+
+260
+movfun.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movfun.info
+Address: 91.195.240.68
+
+261
+movie-mad.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie-mad.com
+Address: 103.224.212.221
+
+262
+movie-rulz.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie-rulz.com
+Address: 96.126.123.244
+Name:	movie-rulz.com
+Address: 72.14.178.174
+Name:	movie-rulz.com
+Address: 45.56.79.23
+Name:	movie-rulz.com
+Address: 45.33.20.235
+Name:	movie-rulz.com
+Address: 45.33.2.79
+Name:	movie-rulz.com
+Address: 173.255.194.134
+Name:	movie-rulz.com
+Address: 198.58.118.167
+Name:	movie-rulz.com
+Address: 45.79.19.196
+Name:	movie-rulz.com
+Address: 45.33.30.197
+Name:	movie-rulz.com
+Address: 72.14.185.43
+Name:	movie-rulz.com
+Address: 45.33.18.44
+Name:	movie-rulz.com
+Address: 45.33.23.183
+
+263
+movie.geourdu.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie.geourdu.com
+Address: 213.186.33.2
+
+264
+movie.vidmate.mobi
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie.vidmate.mobi
+Address: 161.117.107.129
+
+265
+movie24k.cc
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie24k.cc
+Address: 185.53.177.31
+
+266
+movie24k.ch
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie24k.ch
+Address: 72.52.179.175
+Name:	movie24k.ch
+Address: 2600:3c02:1::2d4f:f40e
+
+267
+movie24k.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie24k.live
+Address: 103.224.182.250
+
+268
+movie24k.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie24k.net
+Address: 185.107.56.53
+
+269
+movie24k.to
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie24k.to
+Address: 103.224.182.250
+
+270
+movie24k.ws
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie24k.ws
+Address: 185.53.178.50
+
+271
+movie4k.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie4k.tv
+Address: 172.67.208.4
+Name:	movie4k.tv
+Address: 104.21.69.121
+Name:	movie4k.tv
+Address: 2606:4700:3035::ac43:d004
+Name:	movie4k.tv
+Address: 2606:4700:3032::6815:4579
+
+272
+movie4kto.online
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie4kto.online
+Address: 104.21.25.149
+Name:	movie4kto.online
+Address: 172.67.134.83
+Name:	movie4kto.online
+Address: 2606:4700:3036::ac43:8653
+Name:	movie4kto.online
+Address: 2606:4700:3037::6815:1995
+
+273
+movie4net.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie4net.net
+Address: 34.98.99.30
+
+274
+movie4ufree.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie4ufree.in
+Address: 185.53.177.50
+
+275
+movie4ufree.mobi
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movie4ufree.mobi
+Address: 103.224.182.250
+
+276
+moviefisher.club
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviefisher.club
+Address: 185.53.177.31
+
+277
+moviefisher.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviefisher.co
+Address: 103.224.182.250
+
+278
+moviefisher.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviefisher.in
+Address: 103.224.182.239
+
+279
+moviefull-hd.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviefull-hd.com
+Address: 72.52.178.23
+Name:	moviefull-hd.com
+Address: 2600:3c02:1::2d4f:f40e
+
+280
+moviefull.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviefull.in
+Address: 45.33.30.197
+Name:	moviefull.in
+Address: 45.33.2.79
+Name:	moviefull.in
+Address: 173.255.194.134
+Name:	moviefull.in
+Address: 198.58.118.167
+Name:	moviefull.in
+Address: 45.33.18.44
+Name:	moviefull.in
+Address: 72.14.185.43
+Name:	moviefull.in
+Address: 45.33.20.235
+Name:	moviefull.in
+Address: 72.14.178.174
+Name:	moviefull.in
+Address: 45.56.79.23
+Name:	moviefull.in
+Address: 45.33.23.183
+Name:	moviefull.in
+Address: 45.79.19.196
+Name:	moviefull.in
+Address: 96.126.123.244
+
+281
+moviehd.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviehd.org
+Address: 54.214.116.219
+** server can't find moviehd.org: SERVFAIL
+
+282
+moviemad.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviemad.net
+Address: 67.227.226.240
+Name:	moviemad.net
+Address: 2600:3c02:1::2d4f:f40e
+
+283
+moviemafia.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviemafia.in
+Address: 103.224.182.250
+
+284
+moviemp4.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviemp4.info
+Address: 103.224.212.219
+
+285
+moviemp4.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviemp4.net
+Address: 67.227.226.240
+Name:	moviemp4.net
+Address: 2600:3c02:1::2d4f:f40e
+
+286
+moviemp4hd.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviemp4hd.com
+Address: 45.79.19.196
+Name:	moviemp4hd.com
+Address: 173.255.194.134
+Name:	moviemp4hd.com
+Address: 45.33.2.79
+Name:	moviemp4hd.com
+Address: 45.33.20.235
+Name:	moviemp4hd.com
+Address: 96.126.123.244
+Name:	moviemp4hd.com
+Address: 45.56.79.23
+Name:	moviemp4hd.com
+Address: 45.33.18.44
+Name:	moviemp4hd.com
+Address: 72.14.185.43
+Name:	moviemp4hd.com
+Address: 45.33.23.183
+Name:	moviemp4hd.com
+Address: 72.14.178.174
+Name:	moviemp4hd.com
+Address: 198.58.118.167
+Name:	moviemp4hd.com
+Address: 45.33.30.197
+
+287
+movienoe.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movienoe.com
+Address: 75.2.18.233
+
+288
+movieonline.io
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movieonline.io
+Address: 184.168.131.241
+
+289
+movieort.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movieort.com
+Address: 172.67.195.68
+Name:	movieort.com
+Address: 104.21.21.4
+Name:	movieort.com
+Address: 2606:4700:3032::6815:1504
+Name:	movieort.com
+Address: 2606:4700:3032::ac43:c344
+
+290
+moviepublish.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviepublish.net
+Address: 103.224.212.220
+
+291
+movierj.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movierj.com
+Address: 34.98.99.30
+
+292
+movierulz.top
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movierulz.top
+Address: 72.52.179.174
+
+293
+movierulzmovies.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movierulzmovies.com
+Address: 173.239.8.164
+Name:	movierulzmovies.com
+Address: 173.239.5.6
+Name:	movierulzmovies.com
+Address: 213.247.47.190
+
+294
+movies-classic.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movies-classic.org
+Address: 35.186.238.101
+
+295
+movies.zippymoviez.ch
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movies.zippymoviez.ch
+Address: 103.224.182.250
+
+296
+movies24hd.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movies24hd.co
+Address: 72.14.185.43
+Name:	movies24hd.co
+Address: 45.33.2.79
+Name:	movies24hd.co
+Address: 45.33.20.235
+Name:	movies24hd.co
+Address: 45.79.19.196
+Name:	movies24hd.co
+Address: 198.58.118.167
+Name:	movies24hd.co
+Address: 45.56.79.23
+Name:	movies24hd.co
+Address: 72.14.178.174
+Name:	movies24hd.co
+Address: 45.33.18.44
+Name:	movies24hd.co
+Address: 45.33.23.183
+Name:	movies24hd.co
+Address: 45.33.30.197
+Name:	movies24hd.co
+Address: 96.126.123.244
+Name:	movies24hd.co
+Address: 173.255.194.134
+
+297
+movies2fun-me.blogspot.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+movies2fun-me.blogspot.in	canonical name = blogspot.l.googleusercontent.com.
+Name:	blogspot.l.googleusercontent.com
+Address: 172.217.160.65
+
+298
+movies2k.us
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movies2k.us
+Address: 103.224.212.219
+
+299
+movies365.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movies365.in
+Address: 185.53.177.14
+
+300
+movies365.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movies365.me
+Address: 185.107.56.192
+
+301
+movies4android.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movies4android.com
+Address: 185.53.177.31
+
+302
+movies4star.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movies4star.com
+Address: 69.16.230.42
+Name:	movies4star.com
+Address: 2600:3c02:1::2d4f:f40e
+
+303
+movies4you.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movies4you.in
+Address: 213.190.6.89
+Name:	movies4you.in
+Address: 2a02:4780:1:321:0:2969:a39b:5
+
+304
+movies5x.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movies5x.com
+Address: 95.216.161.60
+Name:	movies5x.com
+Address: 159.69.186.9
+Name:	movies5x.com
+Address: 159.69.42.212
+Name:	movies5x.com
+Address: 159.69.83.207
+
+305
+movies7.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movies7.in
+Address: 103.224.182.238
+
+306
+moviescounter.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviescounter.co
+Address: 185.53.177.73
+
+307
+moviescounter.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviescounter.com
+Address: 69.16.231.150
+Name:	moviescounter.com
+Address: 2600:3c02:1::2d4f:f40e
+
+308
+moviescrib.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviescrib.org
+Address: 67.227.226.240
+Name:	moviescrib.org
+Address: 2600:3c02:1::2d4f:f40e
+
+309
+moviesda.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesda.org
+Address: 137.59.52.234
+
+310
+moviesdaa.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesdaa.com
+Address: 67.227.226.240
+Name:	moviesdaa.com
+Address: 2600:3c02:1::2d4f:f40e
+
+311
+moviesdbz.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesdbz.com
+Address: 67.227.226.240
+Name:	moviesdbz.com
+Address: 2600:3c02:1::2d4f:f40e
+
+312
+moviesevil.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesevil.in
+Address: 45.33.20.235
+Name:	moviesevil.in
+Address: 72.14.178.174
+Name:	moviesevil.in
+Address: 45.79.19.196
+Name:	moviesevil.in
+Address: 45.33.2.79
+Name:	moviesevil.in
+Address: 198.58.118.167
+Name:	moviesevil.in
+Address: 45.33.30.197
+Name:	moviesevil.in
+Address: 45.56.79.23
+Name:	moviesevil.in
+Address: 72.14.185.43
+Name:	moviesevil.in
+Address: 45.33.18.44
+Name:	moviesevil.in
+Address: 45.33.23.183
+Name:	moviesevil.in
+Address: 173.255.194.134
+Name:	moviesevil.in
+Address: 96.126.123.244
+
+313
+moviesfreely.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesfreely.live
+Address: 91.195.240.12
+
+314
+moviesfuntime.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesfuntime.com
+Address: 103.224.212.221
+
+315
+moviesgoldonline.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesgoldonline.net
+Address: 103.224.212.222
+
+316
+moviesicker.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesicker.in
+Address: 96.126.123.244
+Name:	moviesicker.in
+Address: 45.33.18.44
+Name:	moviesicker.in
+Address: 45.33.23.183
+Name:	moviesicker.in
+Address: 198.58.118.167
+Name:	moviesicker.in
+Address: 72.14.178.174
+Name:	moviesicker.in
+Address: 45.33.2.79
+Name:	moviesicker.in
+Address: 45.56.79.23
+Name:	moviesicker.in
+Address: 173.255.194.134
+Name:	moviesicker.in
+Address: 72.14.185.43
+Name:	moviesicker.in
+Address: 45.33.20.235
+Name:	moviesicker.in
+Address: 45.33.30.197
+Name:	moviesicker.in
+Address: 45.79.19.196
+
+317
+moviesky.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesky.in
+Address: 185.53.177.54
+
+318
+moviesluv.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesluv.com
+Address: 67.227.226.240
+Name:	moviesluv.com
+Address: 2600:3c02:1::2d4f:f40e
+
+319
+moviesmaza.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesmaza.in
+Address: 185.53.178.54
+
+320
+moviesmela.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesmela.net
+Address: 91.195.240.68
+
+321
+moviesmom.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesmom.com
+Address: 72.52.179.174
+Name:	moviesmom.com
+Address: 2600:3c02:1::2d4f:f40e
+
+322
+moviesmost.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesmost.net
+Address: 67.227.226.240
+Name:	moviesmost.net
+Address: 2600:3c02:1::2d4f:f40e
+
+323
+moviespk.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviespk.in
+Address: 82.192.82.227
+
+324
+moviesplay.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesplay.in
+Address: 103.224.182.250
+
+325
+moviesplay.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesplay.net
+Address: 185.53.177.50
+
+326
+moviesquality.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesquality.com
+Address: 67.227.226.240
+Name:	moviesquality.com
+Address: 2600:3c02:1::2d4f:f40e
+
+327
+moviesraj.blogspot.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+moviesraj.blogspot.in	canonical name = blogspot.l.googleusercontent.com.
+Name:	blogspot.l.googleusercontent.com
+Address: 172.217.160.65
+
+328
+moviesstak.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesstak.co
+Address: 103.224.182.250
+
+329
+moviesvid.club
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesvid.club
+Address: 185.53.178.50
+
+330
+movieswebonline.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movieswebonline.me
+Address: 185.53.177.52
+
+331
+moviesweed.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesweed.com
+Address: 69.16.230.42
+Name:	moviesweed.com
+Address: 2600:3c02:1::2d4f:f40e
+
+332
+moviesworld.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviesworld.in
+Address: 103.224.182.238
+
+333
+movietorrent720p.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movietorrent720p.com
+Address: 202.172.28.96
+
+334
+moviexpress.xyz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviexpress.xyz
+Address: 172.67.173.121
+Name:	moviexpress.xyz
+Address: 104.21.30.173
+
+335
+moviezaddiction.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+moviezaddiction.com	canonical name = sedoparking.com.
+Name:	sedoparking.com
+Address: 91.195.240.136
+
+336
+moviezaddiction.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviezaddiction.org
+Address: 34.98.99.30
+
+337
+moviezone24.life
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviezone24.life
+Address: 185.53.177.53
+
+338
+movieztracker.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movieztracker.com
+Address: 34.102.136.180
+
+339
+moviezwap.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviezwap.info
+Address: 103.224.212.220
+
+340
+moviezwap.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviezwap.org
+Address: 172.67.195.94
+Name:	moviezwap.org
+Address: 104.21.49.232
+Name:	moviezwap.org
+Address: 2606:4700:3032::6815:31e8
+Name:	moviezwap.org
+Address: 2606:4700:3035::ac43:c35e
+
+341
+moviezworldz.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	moviezworldz.com
+Address: 185.53.177.14
+
+342
+movizland.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movizland.com
+Address: 104.21.29.136
+Name:	movizland.com
+Address: 172.67.149.56
+
+343
+movizonline.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movizonline.com
+Address: 67.227.226.240
+Name:	movizonline.com
+Address: 2600:3c02:1::2d4f:f40e
+
+344
+movizonline.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movizonline.me
+Address: 103.224.212.219
+
+345
+movzap.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	movzap.com
+Address: 185.53.177.52
+
+346
+mp4hdmovies.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mp4hdmovies.org
+Address: 45.33.2.79
+Name:	mp4hdmovies.org
+Address: 173.255.194.134
+Name:	mp4hdmovies.org
+Address: 198.58.118.167
+Name:	mp4hdmovies.org
+Address: 45.33.30.197
+Name:	mp4hdmovies.org
+Address: 72.14.185.43
+Name:	mp4hdmovies.org
+Address: 45.56.79.23
+Name:	mp4hdmovies.org
+Address: 45.33.20.235
+Name:	mp4hdmovies.org
+Address: 45.33.18.44
+Name:	mp4hdmovies.org
+Address: 45.33.23.183
+Name:	mp4hdmovies.org
+Address: 96.126.123.244
+Name:	mp4hdmovies.org
+Address: 72.14.178.174
+Name:	mp4hdmovies.org
+Address: 45.79.19.196
+
+347
+mp4mania.club
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mp4mania.club
+Address: 185.53.177.54
+
+348
+mp4mania.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mp4mania.com
+Address: 163.172.110.116
+
+349
+mp4mania.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mp4mania.live
+Address: 185.53.178.14
+
+350
+mp4mania.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mp4mania.org
+Address: 173.255.194.134
+Name:	mp4mania.org
+Address: 96.126.123.244
+Name:	mp4mania.org
+Address: 45.56.79.23
+Name:	mp4mania.org
+Address: 45.33.30.197
+Name:	mp4mania.org
+Address: 198.58.118.167
+Name:	mp4mania.org
+Address: 45.33.18.44
+Name:	mp4mania.org
+Address: 45.33.20.235
+Name:	mp4mania.org
+Address: 72.14.178.174
+Name:	mp4mania.org
+Address: 72.14.185.43
+Name:	mp4mania.org
+Address: 45.33.2.79
+Name:	mp4mania.org
+Address: 45.79.19.196
+Name:	mp4mania.org
+Address: 45.33.23.183
+
+351
+mp4movies.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mp4movies.me
+Address: 45.33.23.183
+Name:	mp4movies.me
+Address: 45.33.2.79
+Name:	mp4movies.me
+Address: 72.14.178.174
+Name:	mp4movies.me
+Address: 45.33.20.235
+Name:	mp4movies.me
+Address: 45.33.30.197
+Name:	mp4movies.me
+Address: 173.255.194.134
+Name:	mp4movies.me
+Address: 198.58.118.167
+Name:	mp4movies.me
+Address: 96.126.123.244
+Name:	mp4movies.me
+Address: 45.33.18.44
+Name:	mp4movies.me
+Address: 45.56.79.23
+Name:	mp4movies.me
+Address: 45.79.19.196
+Name:	mp4movies.me
+Address: 72.14.185.43
+
+352
+mp4moviez.mobi
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mp4moviez.mobi
+Address: 185.53.177.54
+
+353
+mp4moviez.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mp4moviez.net
+Address: 103.224.182.238
+
+354
+muchshare.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	muchshare.net
+Address: 69.16.230.42
+Name:	muchshare.net
+Address: 2600:3c02:1::2d4f:f40e
+
+355
+mulligansmilfs.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mulligansmilfs.com
+Address: 109.206.176.27
+
+356
+musicstar25.byethost7.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	musicstar25.byethost7.com
+Address: 185.27.134.213
+
+357
+musikzoo.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	musikzoo.com
+Address: 104.17.130.74
+Name:	musikzoo.com
+Address: 104.17.131.74
+
+358
+my.mylivecricket.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+my.mylivecricket.tv	canonical name = mylivecricket.tv.
+Name:	mylivecricket.tv
+Address: 72.52.178.23
+Name:	mylivecricket.tv
+Address: 2600:3c02:1::2d4f:f40e
+
+359
+my.opera.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+my.opera.com	canonical name = legacy.opera.com.
+Name:	legacy.opera.com
+Address: 185.26.182.114
+Name:	legacy.opera.com
+Address: 185.26.182.113
+
+360
+mycoolmoviez.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mycoolmoviez.in
+Address: 185.53.177.31
+
+361
+mycoolmoviez.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mycoolmoviez.net
+Address: 67.227.226.241
+Name:	mycoolmoviez.net
+Address: 2600:3c02:1::2d4f:f40e
+
+362
+mycoolmoviez.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mycoolmoviez.org
+Address: 67.227.226.240
+Name:	mycoolmoviez.org
+Address: 2600:3c02:1::2d4f:f40e
+
+363
+mycrickethighlights.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mycrickethighlights.com
+Address: 185.140.230.52
+
+364
+mydesiserials.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mydesiserials.com
+Address: 103.224.212.222
+
+365
+mygeotv.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mygeotv.com
+Address: 146.255.44.129
+
+366
+mylivecricket.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+mylivecricket.org	canonical name = ghs.google.com.
+Name:	ghs.google.com
+Address: 172.217.160.115
+
+367
+mylivecricket.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mylivecricket.tv
+Address: 72.52.178.23
+Name:	mylivecricket.tv
+Address: 2600:3c02:1::2d4f:f40e
+
+368
+mymoviebazar.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mymoviebazar.com
+Address: 67.227.226.240
+Name:	mymoviebazar.com
+Address: 2600:3c02:1::2d4f:f40e
+
+369
+mymp4movies.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mymp4movies.info
+Address: 45.88.202.115
+
+370
+myp2p.cm
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	myp2p.cm
+Address: 185.53.178.13
+
+371
+myp2p.ec
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	myp2p.ec
+Address: 185.53.178.53
+
+372
+mypornbookmarks.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mypornbookmarks.com
+Address: 18.184.9.116
+
+373
+mysmsbd.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mysmsbd.net
+Address: 103.224.212.222
+
+374
+mystarmovies.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mystarmovies.in
+Address: 103.224.182.250
+
+375
+mysupermovies.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mysupermovies.com
+Address: 185.53.177.52
+
+376
+myteluguwap.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	myteluguwap.net
+Address: 199.59.242.153
+
+377
+mytorrentz.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mytorrentz.pw
+Address: 172.67.202.151
+Name:	mytorrentz.pw
+Address: 104.21.52.182
+Name:	mytorrentz.pw
+Address: 2606:4700:3035::6815:34b6
+Name:	mytorrentz.pw
+Address: 2606:4700:3034::ac43:ca97
+
+378
+mytvlive.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	mytvlive.me
+Address: 103.224.182.250
+
+379
+myworldfree4u.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	myworldfree4u.info
+Address: 103.224.182.250
+
+380
+natok24.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	natok24.com
+Address: 162.210.196.168
+
+381
+naturalbd.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	naturalbd.com
+Address: 103.43.148.75
+Name:	naturalbd.com
+Address: 2401:c680:a:a::2
+
+382
+neolive.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	neolive.net
+Address: 67.227.226.241
+Name:	neolive.net
+Address: 2600:3c02:1::2d4f:f40e
+
+383
+newhdmovie24.biz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find newhdmovie24.biz: NXDOMAIN
+
+384
+newhdmovies.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	newhdmovies.net
+Address: 199.59.242.153
+
+385
+newhdmovies24.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	newhdmovies24.info
+Address: 185.53.177.72
+
+386
+newhdmovies24.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	newhdmovies24.net
+Address: 67.227.226.240
+Name:	newhdmovies24.net
+Address: 2600:3c02:1::2d4f:f40e
+
+387
+newhdvideo.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	newhdvideo.in
+Address: 72.14.185.43
+Name:	newhdvideo.in
+Address: 45.56.79.23
+Name:	newhdvideo.in
+Address: 45.33.20.235
+Name:	newhdvideo.in
+Address: 45.33.2.79
+Name:	newhdvideo.in
+Address: 45.79.19.196
+Name:	newhdvideo.in
+Address: 45.33.30.197
+Name:	newhdvideo.in
+Address: 72.14.178.174
+Name:	newhdvideo.in
+Address: 198.58.118.167
+Name:	newhdvideo.in
+Address: 96.126.123.244
+Name:	newhdvideo.in
+Address: 45.33.23.183
+Name:	newhdvideo.in
+Address: 45.33.18.44
+Name:	newhdvideo.in
+Address: 173.255.194.134
+
+388
+newpiratebay.co.uk
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	newpiratebay.co.uk
+Address: 45.33.30.197
+Name:	newpiratebay.co.uk
+Address: 45.33.20.235
+Name:	newpiratebay.co.uk
+Address: 45.33.23.183
+Name:	newpiratebay.co.uk
+Address: 198.58.118.167
+Name:	newpiratebay.co.uk
+Address: 45.56.79.23
+Name:	newpiratebay.co.uk
+Address: 45.79.19.196
+Name:	newpiratebay.co.uk
+Address: 45.33.18.44
+Name:	newpiratebay.co.uk
+Address: 72.14.178.174
+Name:	newpiratebay.co.uk
+Address: 72.14.185.43
+Name:	newpiratebay.co.uk
+Address: 96.126.123.244
+Name:	newpiratebay.co.uk
+Address: 45.33.2.79
+Name:	newpiratebay.co.uk
+Address: 173.255.194.134
+
+389
+newreleasemoviesonline.wikia.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+newreleasemoviesonline.wikia.com	canonical name = wikia.com.
+Name:	wikia.com
+Address: 151.101.128.194
+Name:	wikia.com
+Address: 151.101.192.194
+Name:	wikia.com
+Address: 151.101.64.194
+Name:	wikia.com
+Address: 151.101.0.194
+Name:	wikia.com
+Address: 2a04:4e42:200::194
+Name:	wikia.com
+Address: 2a04:4e42:400::194
+Name:	wikia.com
+Address: 2a04:4e42::194
+Name:	wikia.com
+Address: 2a04:4e42:600::194
+
+390
+newsfilter.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	newsfilter.org
+Address: 208.90.155.16
+
+391
+newsongbd.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	newsongbd.com
+Address: 103.224.212.219
+
+392
+newtvworld.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	newtvworld.net
+Address: 103.224.182.245
+
+393
+nitrobits.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nitrobits.com
+Address: 104.247.81.130
+
+394
+nitroflare.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nitroflare.com
+Address: 104.21.39.198
+Name:	nitroflare.com
+Address: 172.67.171.87
+Name:	nitroflare.com
+Address: 2606:4700:3031::6815:27c6
+Name:	nitroflare.com
+Address: 2606:4700:3033::ac43:ab57
+
+395
+nonvegjokes.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nonvegjokes.com
+Address: 199.59.242.153
+
+396
+nosupload.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nosupload.com
+Address: 67.227.226.240
+Name:	nosupload.com
+Address: 2600:3c02:1::2d4f:f40e
+
+397
+nosvideo.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nosvideo.com
+Address: 69.16.231.150
+Name:	nosvideo.com
+Address: 2600:3c02:1::2d4f:f40e
+
+398
+novamov.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	novamov.com
+Address: 69.16.230.42
+Name:	novamov.com
+Address: 2600:3c02:1::2d4f:f40e
+
+399
+nowdownload.ch
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nowdownload.ch
+Address: 185.53.178.52
+
+400
+nowvideo.ch
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nowvideo.ch
+Address: 185.53.178.53
+
+401
+nowwatchtvlive.cc
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nowwatchtvlive.cc
+Address: 69.16.231.150
+Name:	nowwatchtvlive.cc
+Address: 2600:3c02:1::2d4f:f40e
+
+402
+nowwatchtvlive.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nowwatchtvlive.co
+Address: 103.224.182.250
+
+403
+nowwatchtvlive.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nowwatchtvlive.com
+Address: 72.14.178.174
+Name:	nowwatchtvlive.com
+Address: 72.14.185.43
+Name:	nowwatchtvlive.com
+Address: 45.33.23.183
+Name:	nowwatchtvlive.com
+Address: 45.33.2.79
+Name:	nowwatchtvlive.com
+Address: 96.126.123.244
+Name:	nowwatchtvlive.com
+Address: 198.58.118.167
+Name:	nowwatchtvlive.com
+Address: 45.79.19.196
+Name:	nowwatchtvlive.com
+Address: 45.56.79.23
+Name:	nowwatchtvlive.com
+Address: 173.255.194.134
+Name:	nowwatchtvlive.com
+Address: 45.33.30.197
+Name:	nowwatchtvlive.com
+Address: 45.33.20.235
+Name:	nowwatchtvlive.com
+Address: 45.33.18.44
+
+404
+nudeboobshotpics.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nudeboobshotpics.com
+Address: 103.224.212.220
+
+405
+nudedares.tumblr.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nudedares.tumblr.com
+Address: 74.114.154.22
+Name:	nudedares.tumblr.com
+Address: 74.114.154.18
+
+406
+nvnworld.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	nvnworld.com
+Address: 185.53.177.12
+
+407
+o2cinemas.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	o2cinemas.com
+Address: 163.172.110.116
+
+408
+obin.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	obin.net
+Address: 208.91.197.132
+
+409
+oceanmovies.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	oceanmovies.in
+Address: 103.224.212.220
+
+410
+oceanofmovies.biz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	oceanofmovies.biz
+Address: 185.53.177.31
+
+411
+oceanofmovies.ws
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	oceanofmovies.ws
+Address: 67.227.226.240
+Name:	oceanofmovies.ws
+Address: 2600:3c02:1::2d4f:f40e
+
+412
+odia1.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find odia1.net: NXDOMAIN
+
+413
+odiapk.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	odiapk.in
+Address: 104.21.17.174
+Name:	odiapk.in
+Address: 172.67.177.186
+Name:	odiapk.in
+Address: 2606:4700:3031::ac43:b1ba
+Name:	odiapk.in
+Address: 2606:4700:3030::6815:11ae
+
+414
+odt.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	odt.net
+Address: 18.185.118.60
+
+415
+ofilmy.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+ofilmy.com	canonical name = sedoparking.com.
+Name:	sedoparking.com
+Address: 91.195.240.136
+
+416
+ok.ru
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ok.ru
+Address: 217.20.147.1
+Name:	ok.ru
+Address: 217.20.155.13
+Name:	ok.ru
+Address: 5.61.23.11
+
+417
+okjatt.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	okjatt.com
+Address: 104.21.74.213
+Name:	okjatt.com
+Address: 172.67.206.180
+Name:	okjatt.com
+Address: 2606:4700:3035::6815:4ad5
+Name:	okjatt.com
+Address: 2606:4700:3033::ac43:ceb4
+
+418
+oklivetv.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	oklivetv.com
+Address: 104.21.235.117
+Name:	oklivetv.com
+Address: 104.21.235.118
+Name:	oklivetv.com
+Address: 2606:4700:3038::6815:eb76
+Name:	oklivetv.com
+Address: 2606:4700:3038::6815:eb75
+
+419
+okpunjab.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	okpunjab.com
+Address: 99.83.153.108
+Name:	okpunjab.com
+Address: 75.2.26.18
+
+420
+olangal.pro
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	olangal.pro
+Address: 199.59.242.153
+
+421
+olderwomenarchive.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	olderwomenarchive.com
+Address: 104.21.235.89
+Name:	olderwomenarchive.com
+Address: 104.21.235.90
+Name:	olderwomenarchive.com
+Address: 2606:4700:3038::6815:eb5a
+Name:	olderwomenarchive.com
+Address: 2606:4700:3038::6815:eb59
+
+422
+oldwomanface.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	oldwomanface.com
+Address: 103.224.182.251
+
+423
+olivertv.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	olivertv.com
+Address: 172.67.163.189
+Name:	olivertv.com
+Address: 104.21.34.188
+Name:	olivertv.com
+Address: 2606:4700:3030::6815:22bc
+Name:	olivertv.com
+Address: 2606:4700:3036::ac43:a3bd
+
+424
+oload.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	oload.tv
+Address: 34.235.250.63
+
+425
+olweb.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	olweb.tv
+Address: 5.101.223.253
+Name:	olweb.tv
+Address: 2a03:90c0:11:2802::253
+
+426
+olympicstreams.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	olympicstreams.me
+Address: 45.178.5.228
+Name:	olympicstreams.me
+Address: 162.219.178.134
+
+427
+omegatorrents.cc
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	omegatorrents.cc
+Address: 69.16.230.42
+Name:	omegatorrents.cc
+Address: 2600:3c02:1::2d4f:f40e
+
+428
+oneload.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	oneload.co
+Address: 104.21.55.162
+Name:	oneload.co
+Address: 172.67.149.50
+Name:	oneload.co
+Address: 2606:4700:3035::ac43:9532
+Name:	oneload.co
+Address: 2606:4700:3030::6815:37a2
+
+429
+onislam.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onislam.net
+Address: 34.102.136.180
+
+430
+online-soccer.eu
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	online-soccer.eu
+Address: 88.198.105.170
+
+431
+online4tv.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	online4tv.com
+Address: 198.54.116.148
+
+432
+onlinecricketmatches.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinecricketmatches.com
+Address: 104.250.141.93
+
+433
+onlinefullmovie.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinefullmovie.me
+Address: 184.168.131.241
+
+434
+onlinemoviesfreee.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinemoviesfreee.com
+Address: 67.227.226.240
+Name:	onlinemoviesfreee.com
+Address: 2600:3c02:1::2d4f:f40e
+
+435
+onlinemoviesgold.one
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinemoviesgold.one
+Address: 185.53.177.11
+
+436
+onlinemoviesonweb.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinemoviesonweb.com
+Address: 103.224.182.246
+
+437
+onlinemoviesportsandtv.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinemoviesportsandtv.com
+Address: 67.225.206.250
+
+438
+onlinemoviesprime.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinemoviesprime.com
+Address: 172.67.179.11
+Name:	onlinemoviesprime.com
+Address: 104.21.51.106
+Name:	onlinemoviesprime.com
+Address: 2606:4700:3030::ac43:b30b
+Name:	onlinemoviesprime.com
+Address: 2606:4700:3037::6815:336a
+
+439
+onlinemoviewatchs.biz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinemoviewatchs.biz
+Address: 67.227.226.240
+Name:	onlinemoviewatchs.biz
+Address: 2600:3c02:1::2d4f:f40e
+
+440
+onlinemoviewatchs.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinemoviewatchs.com
+Address: 103.224.182.238
+
+441
+onlinemoviewatchs.li
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinemoviewatchs.li
+Address: 185.53.177.50
+
+442
+onlinemoviewatchs.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinemoviewatchs.tv
+Address: 103.224.182.251
+
+443
+onlinemoviewatchs.ws
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinemoviewatchs.ws
+Address: 67.227.226.240
+Name:	onlinemoviewatchs.ws
+Address: 2600:3c02:1::2d4f:f40e
+
+444
+onlinemoviewatchshd.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinemoviewatchshd.com
+Address: 103.224.212.221
+
+445
+onlinetvmania.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlinetvmania.com
+Address: 103.224.212.221
+
+446
+onlysport.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	onlysport.tv
+Address: 185.107.56.195
+
+447
+openload.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	openload.co
+Address: 34.235.250.63
+
+448
+openload.co.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	openload.co.in
+Address: 199.59.242.153
+
+449
+openload.io
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	openload.io
+Address: 72.52.178.23
+Name:	openload.io
+Address: 2600:3c02:1::2d4f:f40e
+
+450
+oppotime.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	oppotime.com
+Address: 103.224.182.250
+
+451
+orangehdmoviefree.blogspot.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+orangehdmoviefree.blogspot.in	canonical name = blogspot.l.googleusercontent.com.
+Name:	blogspot.l.googleusercontent.com
+Address: 216.58.200.33
+
+452
+orthohin.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	orthohin.net
+Address: 173.255.194.134
+Name:	orthohin.net
+Address: 45.33.2.79
+Name:	orthohin.net
+Address: 45.79.19.196
+Name:	orthohin.net
+Address: 96.126.123.244
+Name:	orthohin.net
+Address: 72.14.185.43
+Name:	orthohin.net
+Address: 45.33.30.197
+Name:	orthohin.net
+Address: 72.14.178.174
+Name:	orthohin.net
+Address: 45.56.79.23
+Name:	orthohin.net
+Address: 45.33.23.183
+Name:	orthohin.net
+Address: 45.33.20.235
+Name:	orthohin.net
+Address: 198.58.118.167
+Name:	orthohin.net
+Address: 45.33.18.44
+
+453
+owsmut.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	owsmut.com
+Address: 103.224.212.221
+
+454
+ozofiles.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ozofiles.com
+Address: 72.52.178.23
+Name:	ozofiles.com
+Address: 2600:3c02:1::2d4f:f40e
+
+455
+p2p4ever.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	p2p4ever.com
+Address: 108.187.200.146
+
+456
+p2p4u.es
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	p2p4u.es
+Address: 103.224.182.250
+
+457
+p3g.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	p3g.tv
+Address: 103.224.212.220
+
+458
+pakalertpress.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pakalertpress.com
+Address: 142.44.136.57
+
+459
+paste2.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	paste2.org
+Address: 172.67.213.196
+Name:	paste2.org
+Address: 104.21.75.48
+Name:	paste2.org
+Address: 2606:4700:3030::ac43:d5c4
+Name:	paste2.org
+Address: 2606:4700:3036::6815:4b30
+
+460
+paste4btc.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	paste4btc.com
+Address: 172.67.173.18
+Name:	paste4btc.com
+Address: 104.21.80.18
+Name:	paste4btc.com
+Address: 2606:4700:3033::6815:5012
+Name:	paste4btc.com
+Address: 2606:4700:3037::ac43:ad12
+
+461
+pastebin.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pastebin.com
+Address: 104.23.98.190
+Name:	pastebin.com
+Address: 104.23.99.190
+Name:	pastebin.com
+Address: 2606:4700:10::6817:63be
+Name:	pastebin.com
+Address: 2606:4700:10::6817:62be
+
+462
+pastee.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pastee.org
+Address: 104.21.26.45
+Name:	pastee.org
+Address: 172.67.135.96
+Name:	pastee.org
+Address: 2606:4700:3035::6815:1a2d
+Name:	pastee.org
+Address: 2606:4700:3037::ac43:8760
+
+463
+pbp.rocks
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pbp.rocks
+Address: 185.53.177.11
+
+464
+pc.crictime.is
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pc.crictime.is
+Address: 188.166.203.57
+
+465
+pc.livecricket.is
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pc.livecricket.is
+Address: 89.35.39.95
+
+466
+pc.webcric.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pc.webcric.com
+Address: 104.21.83.209
+Name:	pc.webcric.com
+Address: 172.67.181.242
+Name:	pc.webcric.com
+Address: 2606:4700:3035::ac43:b5f2
+Name:	pc.webcric.com
+Address: 2606:4700:3030::6815:53d1
+
+467
+perfecthdmovies.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	perfecthdmovies.pw
+Address: 170.178.168.203
+
+468
+picstream.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	picstream.tv
+Address: 103.224.182.251
+
+469
+pinkvisualtgp.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pinkvisualtgp.com
+Address: 159.69.186.9
+Name:	pinkvisualtgp.com
+Address: 159.69.83.207
+Name:	pinkvisualtgp.com
+Address: 95.216.161.60
+Name:	pinkvisualtgp.com
+Address: 159.69.42.212
+
+470
+pinkworld.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pinkworld.com
+Address: 99.192.173.145
+
+471
+pinkythekinky.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pinkythekinky.com
+Address: 104.200.22.130
+Name:	pinkythekinky.com
+Address: 104.200.23.95
+
+472
+pirate.trade
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirate.trade
+Address: 185.53.177.70
+
+473
+pirateaccess.xyz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirateaccess.xyz
+Address: 185.53.178.52
+
+474
+piratebay.click
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.click
+Address: 103.224.182.253
+
+475
+piratebay.red
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.red
+Address: 104.21.54.225
+Name:	piratebay.red
+Address: 172.67.142.177
+Name:	piratebay.red
+Address: 2606:4700:3033::6815:36e1
+Name:	piratebay.red
+Address: 2606:4700:3035::ac43:8eb1
+
+476
+piratebay.run
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.run
+Address: 199.59.242.153
+
+477
+piratebay.to
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.to
+Address: 104.21.75.140
+Name:	piratebay.to
+Address: 172.67.177.121
+Name:	piratebay.to
+Address: 2606:4700:3030::ac43:b179
+Name:	piratebay.to
+Address: 2606:4700:3036::6815:4b8c
+
+478
+piratebay.ukbypass.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.ukbypass.info
+Address: 103.224.212.222
+
+479
+piratebay.ukbypass.pro
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.ukbypass.pro
+Address: 103.224.212.222
+
+480
+piratebay.ukbypass.us
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.ukbypass.us
+Address: 103.224.182.250
+
+481
+piratebay.ukbypass.win
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.ukbypass.win
+Address: 170.178.168.203
+
+482
+piratebay.ukunblock.men
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.ukunblock.men
+Address: 185.53.177.71
+
+483
+piratebay.ukunblock.pro
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.ukunblock.pro
+Address: 103.224.212.220
+
+484
+piratebay.ukunblock.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.ukunblock.pw
+Address: 209.99.40.222
+
+485
+piratebay.unlockpro.bid
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockpro.bid
+Address: 185.53.177.31
+
+486
+piratebay.unlockpro.club
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockpro.club
+Address: 64.190.62.111
+
+487
+piratebay.unlockpro.download
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockpro.download
+Address: 185.53.177.52
+
+488
+piratebay.unlockpro.faith
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockpro.faith
+Address: 162.210.196.168
+
+489
+piratebay.unlockpro.party
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockpro.party
+Address: 185.53.177.52
+
+490
+piratebay.unlockpro.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockpro.pw
+Address: 185.53.178.10
+
+491
+piratebay.unlockpro.racing
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockpro.racing
+Address: 103.224.182.250
+
+492
+piratebay.unlockpro.trade
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockpro.trade
+Address: 162.210.195.123
+
+493
+piratebay.unlockpro.win
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockpro.win
+Address: 103.224.182.250
+
+494
+piratebay.unlockproj.review
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find piratebay.unlockproj.review: NXDOMAIN
+
+495
+piratebay.unlockproj.space
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockproj.space
+Address: 185.53.177.10
+
+496
+piratebay.unlockproject.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockproject.co
+Address: 185.53.177.72
+
+497
+piratebay.unlockproject.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockproject.info
+Address: 185.53.177.70
+
+498
+piratebay.unlockproject.online
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockproject.online
+Address: 103.224.182.250
+
+499
+piratebay.unlockproject.space
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockproject.space
+Address: 103.224.182.250
+
+500
+piratebay.unlockproject.win
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.unlockproject.win
+Address: 103.224.182.250
+
+501
+piratebay.usbypass.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.usbypass.info
+Address: 75.2.18.233
+
+502
+piratebay.usbypass.pro
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.usbypass.pro
+Address: 206.221.176.184
+
+503
+piratebay.usbypass.us
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.usbypass.us
+Address: 185.53.177.51
+
+504
+piratebay.usunblock.bid
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.usunblock.bid
+Address: 170.178.168.203
+
+505
+piratebay.usunblock.download
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.usunblock.download
+Address: 185.53.177.11
+
+506
+piratebay.usunblock.men
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.usunblock.men
+Address: 170.178.168.203
+
+507
+piratebay.usunblock.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.usunblock.pw
+Address: 185.53.178.10
+
+508
+piratebay.usunblock.space
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay.usunblock.space
+Address: 185.53.178.12
+
+509
+piratebay1.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebay1.com
+Address: 37.48.65.148
+
+510
+piratebayaccess.co.uk
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebayaccess.co.uk
+Address: 185.53.177.12
+
+511
+piratebayblocked.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebayblocked.com
+Address: 67.227.226.240
+Name:	piratebayblocked.com
+Address: 2600:3c02:1::2d4f:f40e
+
+512
+piratebaymirror.eu
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebaymirror.eu
+Address: 185.53.178.50
+
+513
+piratebaynew.co.uk
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebaynew.co.uk
+Address: 185.53.178.53
+
+514
+piratebayportal.co.uk
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebayportal.co.uk
+Address: 185.53.177.50
+
+515
+piratebayproxy.tf
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebayproxy.tf
+Address: 185.53.178.12
+
+516
+piratebays.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebays.co
+Address: 185.53.178.70
+
+517
+piratebays.co.uk
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	piratebays.co.uk
+Address: 185.53.177.53
+
+518
+pirateiro.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirateiro.com
+Address: 104.21.74.124
+Name:	pirateiro.com
+Address: 172.67.158.94
+Name:	pirateiro.com
+Address: 2606:4700:3033::ac43:9e5e
+Name:	pirateiro.com
+Address: 2606:4700:3037::6815:4a7c
+
+519
+pirateportal.xyz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirateportal.xyz
+Address: 150.95.55.23
+
+520
+pirateproxy.cat
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirateproxy.cat
+Address: 172.67.201.73
+Name:	pirateproxy.cat
+Address: 104.21.60.205
+Name:	pirateproxy.cat
+Address: 2606:4700:3032::6815:3ccd
+Name:	pirateproxy.cat
+Address: 2606:4700:3034::ac43:c949
+
+521
+pirateproxy.cc
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirateproxy.cc
+Address: 104.21.42.4
+Name:	pirateproxy.cc
+Address: 172.67.197.223
+Name:	pirateproxy.cc
+Address: 2606:4700:3035::ac43:c5df
+Name:	pirateproxy.cc
+Address: 2606:4700:3030::6815:2a04
+
+522
+pirateproxy.click
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirateproxy.click
+Address: 185.53.177.13
+
+523
+pirateproxy.one
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirateproxy.one
+Address: 172.67.157.93
+Name:	pirateproxy.one
+Address: 104.21.8.129
+Name:	pirateproxy.one
+Address: 2606:4700:3035::ac43:9d5d
+Name:	pirateproxy.one
+Address: 2606:4700:3034::6815:881
+
+524
+pirateproxy.party
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirateproxy.party
+Address: 103.224.182.250
+
+525
+pirateproxy.red
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirateproxy.red
+Address: 104.21.82.54
+Name:	pirateproxy.red
+Address: 172.67.196.18
+Name:	pirateproxy.red
+Address: 2606:4700:3031::ac43:c412
+Name:	pirateproxy.red
+Address: 2606:4700:3031::6815:5236
+
+526
+pirateproxy.tf
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirateproxy.tf
+Address: 72.52.179.174
+
+527
+pirateproxy.yt
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirateproxy.yt
+Address: 199.59.242.153
+
+528
+pirates.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirates.pw
+Address: 52.58.78.16
+
+529
+pirateunblocked.xyz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pirateunblocked.xyz
+Address: 103.224.182.250
+
+530
+playbolo.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	playbolo.com
+Address: 34.98.99.30
+
+531
+playboy.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	playboy.com
+Address: 216.137.37.38
+Name:	playboy.com
+Address: 216.137.37.93
+Name:	playboy.com
+Address: 216.137.37.70
+Name:	playboy.com
+Address: 216.137.37.110
+
+532
+playedto.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	playedto.me
+Address: 67.227.226.240
+Name:	playedto.me
+Address: 2600:3c02:1::2d4f:f40e
+
+533
+playit.pk
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	playit.pk
+Address: 172.67.140.46
+Name:	playit.pk
+Address: 104.21.49.10
+Name:	playit.pk
+Address: 2606:4700:3031::6815:310a
+Name:	playit.pk
+Address: 2606:4700:3033::ac43:8c2e
+
+534
+playki.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	playki.com
+Address: 72.52.178.23
+Name:	playki.com
+Address: 2600:3c02:1::2d4f:f40e
+
+535
+playmaza.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	playmaza.live
+Address: 185.53.177.53
+
+536
+playpanda.net
+;; connection timed out; no servers could be reached
+
+
+537
+playreplay.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	playreplay.net
+Address: 92.223.106.11
+Name:	playreplay.net
+Address: 92.223.103.202
+Name:	playreplay.net
+Address: 92.223.103.248
+Name:	playreplay.net
+Address: 92.223.106.14
+Name:	playreplay.net
+Address: 92.223.103.250
+Name:	playreplay.net
+Address: 92.223.103.253
+Name:	playreplay.net
+Address: 92.38.138.42
+Name:	playreplay.net
+Address: 92.223.103.193
+Name:	playreplay.net
+Address: 92.223.103.107
+Name:	playreplay.net
+Address: 92.38.138.52
+Name:	playreplay.net
+Address: 92.223.103.191
+Name:	playreplay.net
+Address: 92.223.106.12
+Name:	playreplay.net
+Address: 92.38.138.49
+Name:	playreplay.net
+Address: 92.223.106.16
+Name:	playreplay.net
+Address: 92.38.138.83
+Name:	playreplay.net
+Address: 92.223.103.58
+
+538
+plus.google.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	plus.google.com
+Address: 172.217.160.78
+
+539
+plytube.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	plytube.com
+Address: 103.224.182.250
+
+540
+popcorn-time.to
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	popcorn-time.to
+Address: 192.3.255.141
+Name:	popcorn-time.to
+Address: 185.186.246.73
+
+541
+porn.mangassex.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	porn.mangassex.com
+Address: 70.32.1.32
+
+542
+porn720.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	porn720.com
+Address: 164.132.148.110
+
+543
+pornfromczech.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pornfromczech.com
+Address: 89.221.213.59
+
+544
+pornxxxtubes.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	pornxxxtubes.com
+Address: 172.67.205.41
+Name:	pornxxxtubes.com
+Address: 104.21.61.22
+Name:	pornxxxtubes.com
+Address: 2606:4700:3031::ac43:cd29
+Name:	pornxxxtubes.com
+Address: 2606:4700:3030::6815:3d16
+
+545
+porny.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	porny.com
+Address: 199.59.242.153
+
+546
+premier-league-live.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	premier-league-live.net
+Address: 172.67.212.7
+Name:	premier-league-live.net
+Address: 104.21.23.157
+Name:	premier-league-live.net
+Address: 2606:4700:3030::6815:179d
+Name:	premier-league-live.net
+Address: 2606:4700:3032::ac43:d407
+
+547
+primamovie.us
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	primamovie.us
+Address: 198.58.118.167
+Name:	primamovie.us
+Address: 45.33.23.183
+Name:	primamovie.us
+Address: 96.126.123.244
+Name:	primamovie.us
+Address: 72.14.185.43
+Name:	primamovie.us
+Address: 45.33.18.44
+Name:	primamovie.us
+Address: 173.255.194.134
+Name:	primamovie.us
+Address: 45.33.30.197
+Name:	primamovie.us
+Address: 45.79.19.196
+Name:	primamovie.us
+Address: 45.33.20.235
+Name:	primamovie.us
+Address: 72.14.178.174
+Name:	primamovie.us
+Address: 45.33.2.79
+Name:	primamovie.us
+Address: 45.56.79.23
+
+548
+primetvweb.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	primetvweb.com
+Address: 67.227.226.240
+Name:	primetvweb.com
+Address: 2600:3c02:1::2d4f:f40e
+
+549
+primewire.ag
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	primewire.ag
+Address: 104.21.21.66
+Name:	primewire.ag
+Address: 172.67.196.206
+Name:	primewire.ag
+Address: 2606:4700:3030::ac43:c4ce
+Name:	primewire.ag
+Address: 2606:4700:3037::6815:1542
+
+550
+prntscr.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	prntscr.com
+Address: 104.23.139.12
+Name:	prntscr.com
+Address: 104.23.140.12
+
+551
+promptfile.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	promptfile.com
+Address: 45.79.19.196
+Name:	promptfile.com
+Address: 72.14.178.174
+Name:	promptfile.com
+Address: 198.58.118.167
+Name:	promptfile.com
+Address: 173.255.194.134
+Name:	promptfile.com
+Address: 45.33.23.183
+Name:	promptfile.com
+Address: 96.126.123.244
+Name:	promptfile.com
+Address: 45.56.79.23
+Name:	promptfile.com
+Address: 45.33.30.197
+Name:	promptfile.com
+Address: 45.33.2.79
+Name:	promptfile.com
+Address: 45.33.20.235
+Name:	promptfile.com
+Address: 45.33.18.44
+Name:	promptfile.com
+Address: 72.14.185.43
+
+552
+proxi.space
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	proxi.space
+Address: 198.185.159.144
+Name:	proxi.space
+Address: 198.49.23.144
+Name:	proxi.space
+Address: 198.49.23.145
+Name:	proxi.space
+Address: 198.185.159.145
+
+553
+proxyportal.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	proxyportal.org
+Address: 192.157.56.142
+
+554
+proxysite.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	proxysite.com
+Address: 3.212.137.179
+Name:	proxysite.com
+Address: 18.213.54.42
+Name:	proxysite.com
+Address: 52.21.66.161
+
+555
+proxyspotting.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	proxyspotting.in
+Address: 103.224.182.238
+
+556
+ptvsports.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ptvsports.info
+Address: 103.224.212.219
+
+557
+ptvsports.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ptvsports.tv
+Address: 172.67.133.111
+Name:	ptvsports.tv
+Address: 104.21.13.237
+Name:	ptvsports.tv
+Address: 2606:4700:3033::6815:ded
+Name:	ptvsports.tv
+Address: 2606:4700:3036::ac43:856f
+
+558
+ptvsports1.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ptvsports1.com
+Address: 67.227.226.240
+Name:	ptvsports1.com
+Address: 2600:3c02:1::2d4f:f40e
+
+559
+ptvsportslive.online
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ptvsportslive.online
+Address: 104.21.58.238
+Name:	ptvsportslive.online
+Address: 172.67.166.66
+Name:	ptvsportslive.online
+Address: 2606:4700:3034::6815:3aee
+Name:	ptvsportslive.online
+Address: 2606:4700:3033::ac43:a642
+
+560
+punjabwap.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	punjabwap.com
+Address: 35.186.238.101
+
+561
+putload.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putload.tv
+Address: 34.98.99.30
+
+562
+putlocker.bypassed.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlocker.bypassed.gold
+Address: 185.53.177.14
+
+563
+putlocker.bypassed.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlocker.bypassed.info
+Address: 185.53.177.54
+
+564
+putlocker.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlocker.com
+Address: 104.21.235.106
+Name:	putlocker.com
+Address: 104.21.235.105
+Name:	putlocker.com
+Address: 2606:4700:3038::6815:eb69
+Name:	putlocker.com
+Address: 2606:4700:3038::6815:eb6a
+
+565
+putlocker.is
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlocker.is
+Address: 103.224.182.253
+
+566
+putlocker.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlocker.live
+Address: 104.21.41.25
+Name:	putlocker.live
+Address: 172.67.159.17
+Name:	putlocker.live
+Address: 2606:4700:3030::6815:2919
+Name:	putlocker.live
+Address: 2606:4700:3037::ac43:9f11
+
+567
+putlocker.love
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlocker.love
+Address: 185.53.178.52
+
+568
+putlocker.sc
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlocker.sc
+Address: 104.21.14.242
+Name:	putlocker.sc
+Address: 172.67.160.203
+Name:	putlocker.sc
+Address: 2606:4700:3035::ac43:a0cb
+Name:	putlocker.sc
+Address: 2606:4700:3030::6815:ef2
+
+569
+putlocker.ws
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlocker.ws
+Address: 199.59.242.153
+
+570
+putlocker0k.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlocker0k.com
+Address: 103.224.182.250
+
+571
+putlocker1.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlocker1.live
+Address: 199.59.242.153
+
+572
+putlockeri.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlockeri.com
+Address: 185.53.177.53
+
+573
+putlockerisfree.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlockerisfree.live
+Address: 103.224.182.250
+
+574
+putlockershd.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	putlockershd.net
+Address: 52.0.217.44
+
+575
+qxzhibo.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	qxzhibo.com
+Address: 107.151.150.243
+
+576
+rapidpaid.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rapidpaid.com
+Address: 69.16.230.42
+Name:	rapidpaid.com
+Address: 2600:3c02:1::2d4f:f40e
+
+577
+rapidvideo.ws
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rapidvideo.ws
+Address: 185.53.178.50
+
+578
+rarbg.immunicity.fyi
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rarbg.immunicity.fyi
+Address: 185.53.177.51
+
+579
+rarbg.immunicity.today
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rarbg.immunicity.today
+Address: 103.224.182.250
+
+580
+rarbg.immunicity.world
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rarbg.immunicity.world
+Address: 185.53.177.53
+
+581
+rarbg.to
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rarbg.to
+Address: 185.37.100.122
+
+582
+rdx-hd.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rdx-hd.com
+Address: 172.67.140.192
+Name:	rdx-hd.com
+Address: 104.21.46.169
+Name:	rdx-hd.com
+Address: 2606:4700:3034::6815:2ea9
+Name:	rdx-hd.com
+Address: 2606:4700:3032::ac43:8cc0
+
+583
+rdxhd.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rdxhd.info
+Address: 103.224.182.238
+
+584
+realstreamunited.com
+;; connection timed out; no servers could be reached
+
+
+585
+realvid.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	realvid.net
+Address: 103.224.182.251
+
+586
+reddit.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	reddit.com
+Address: 151.101.1.140
+Name:	reddit.com
+Address: 151.101.129.140
+Name:	reddit.com
+Address: 151.101.193.140
+Name:	reddit.com
+Address: 151.101.65.140
+
+587
+redstreamsport.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+redstreamsport.com	canonical name = pltraffic8.com.
+Name:	pltraffic8.com
+Address: 69.16.230.42
+
+588
+rina.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rina.in
+Address: 64.190.62.111
+
+589
+ripvod.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ripvod.com
+Address: 76.76.21.21
+
+590
+riskypunjab.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	riskypunjab.com
+Address: 103.224.182.251
+
+591
+rodfile.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rodfile.com
+Address: 69.16.230.42
+Name:	rodfile.com
+Address: 2600:3c02:1::2d4f:f40e
+
+592
+rootomovie.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rootomovie.com
+Address: 172.67.177.16
+Name:	rootomovie.com
+Address: 104.21.31.139
+Name:	rootomovie.com
+Address: 2606:4700:3035::ac43:b110
+Name:	rootomovie.com
+Address: 2606:4700:3037::6815:1f8b
+
+593
+rude.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rude.com
+Address: 5.79.116.37
+
+594
+runtamil.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	runtamil.tv
+Address: 67.227.226.241
+Name:	runtamil.tv
+Address: 2600:3c02:1::2d4f:f40e
+
+595
+rutracker.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	rutracker.org
+Address: 195.82.146.214
+Name:	rutracker.org
+Address: 2a03:42e0::214
+
+596
+ryushare.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	ryushare.com
+Address: 104.21.235.90
+Name:	ryushare.com
+Address: 104.21.235.89
+
+597
+s1.myteluguwap.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	s1.myteluguwap.net
+Address: 199.59.242.153
+
+598
+s2.myteluguwap.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	s2.myteluguwap.net
+Address: 199.59.242.153
+
+599
+s247.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	s247.tv
+Address: 64.190.62.111
+
+600
+s2p.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	s2p.co
+Address: 184.168.131.241
+
+601
+safelinking.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	safelinking.net
+Address: 37.252.15.157
+
+602
+salefiles.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	salefiles.com
+Address: 67.227.226.240
+Name:	salefiles.com
+Address: 2600:3c02:1::2d4f:f40e
+
+603
+samistream.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	samistream.tv
+Address: 199.59.242.153
+
+604
+samitv.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	samitv.net
+Address: 45.33.18.44
+Name:	samitv.net
+Address: 45.56.79.23
+Name:	samitv.net
+Address: 45.33.20.235
+Name:	samitv.net
+Address: 45.33.30.197
+Name:	samitv.net
+Address: 72.14.185.43
+Name:	samitv.net
+Address: 45.33.23.183
+Name:	samitv.net
+Address: 96.126.123.244
+Name:	samitv.net
+Address: 45.79.19.196
+Name:	samitv.net
+Address: 72.14.178.174
+Name:	samitv.net
+Address: 173.255.194.134
+Name:	samitv.net
+Address: 198.58.118.167
+Name:	samitv.net
+Address: 45.33.2.79
+
+605
+sandy1.moviesmobile.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+sandy1.moviesmobile.net	canonical name = moviesmobile.net.
+Name:	moviesmobile.net
+Address: 72.52.178.23
+Name:	moviesmobile.net
+Address: 2600:3c02:1::2d4f:f40e
+
+606
+sandy3.moviesmobile.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+sandy3.moviesmobile.net	canonical name = moviesmobile.net.
+Name:	moviesmobile.net
+Address: 72.52.178.23
+Name:	moviesmobile.net
+Address: 2600:3c02:1::2d4f:f40e
+
+607
+sandy4.moviesmobile.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+sandy4.moviesmobile.net	canonical name = moviesmobile.net.
+Name:	moviesmobile.net
+Address: 72.52.178.23
+Name:	moviesmobile.net
+Address: 2600:3c02:1::2d4f:f40e
+
+608
+sarthaktv.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sarthaktv.in
+Address: 184.168.131.241
+
+609
+savitabhabhi.mobi
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	savitabhabhi.mobi
+Address: 67.227.226.240
+Name:	savitabhabhi.mobi
+Address: 2600:3c02:1::2d4f:f40e
+
+610
+sawlive.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sawlive.tv
+Address: 104.21.85.113
+Name:	sawlive.tv
+Address: 172.67.204.212
+
+611
+science-project.ru
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	science-project.ru
+Address: 31.31.196.252
+Name:	science-project.ru
+Address: 2a00:f940:2:2:1:1:0:184
+
+612
+sdmoviespoint.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sdmoviespoint.com
+Address: 103.224.182.238
+
+613
+sdmoviespoint.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sdmoviespoint.info
+Address: 82.192.82.225
+
+614
+sdwnet.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sdwnet.me
+Address: 67.227.226.240
+Name:	sdwnet.me
+Address: 2600:3c02:1::2d4f:f40e
+
+615
+sectorrents.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sectorrents.com
+Address: 103.224.212.221
+
+616
+secureupload.eu
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	secureupload.eu
+Address: 80.240.25.158
+Name:	secureupload.eu
+Address: 207.148.81.153
+Name:	secureupload.eu
+Address: 207.148.3.13
+Name:	secureupload.eu
+Address: 2a04:5b87:1:100::2
+Name:	secureupload.eu
+Address: 2a04:5b87:1:100::3
+Name:	secureupload.eu
+Address: 2a04:5b84:1:200::3
+Name:	secureupload.eu
+Address: 2a04:5b84:1:200::2
+Name:	secureupload.eu
+Address: 2a04:5b82:8:200::3
+Name:	secureupload.eu
+Address: 2a04:5b82:8:200::2
+
+617
+seedpeer.eu
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seedpeer.eu
+Address: 72.52.179.174
+
+618
+seedpeer.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seedpeer.me
+Address: 172.67.178.69
+Name:	seedpeer.me
+Address: 104.21.31.161
+Name:	seedpeer.me
+Address: 2606:4700:3035::6815:1fa1
+Name:	seedpeer.me
+Address: 2606:4700:3033::ac43:b245
+
+619
+seedpeer.ukbypass.pro
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seedpeer.ukbypass.pro
+Address: 103.224.212.222
+
+620
+seedpeer.ukunblock.download
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seedpeer.ukunblock.download
+Address: 185.107.56.55
+
+621
+seedpeer.ukunblock.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seedpeer.ukunblock.pw
+Address: 209.99.40.222
+
+622
+seedpeer.unblocked.at
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seedpeer.unblocked.at
+Address: 172.67.154.215
+Name:	seedpeer.unblocked.at
+Address: 104.21.6.92
+Name:	seedpeer.unblocked.at
+Address: 2606:4700:3032::ac43:9ad7
+Name:	seedpeer.unblocked.at
+Address: 2606:4700:3032::6815:65c
+
+623
+seedpeer.unblocked.cat
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seedpeer.unblocked.cat
+Address: 104.21.49.227
+Name:	seedpeer.unblocked.cat
+Address: 172.67.153.3
+Name:	seedpeer.unblocked.cat
+Address: 2606:4700:3037::6815:31e3
+Name:	seedpeer.unblocked.cat
+Address: 2606:4700:3033::ac43:9903
+
+624
+seedpeer.unblocked.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seedpeer.unblocked.live
+Address: 172.67.164.53
+Name:	seedpeer.unblocked.live
+Address: 104.21.34.195
+Name:	seedpeer.unblocked.live
+Address: 2606:4700:3037::ac43:a435
+Name:	seedpeer.unblocked.live
+Address: 2606:4700:3034::6815:22c3
+
+625
+seedpeer.unblocked.one
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seedpeer.unblocked.one
+Address: 104.21.95.213
+Name:	seedpeer.unblocked.one
+Address: 172.67.148.160
+Name:	seedpeer.unblocked.one
+Address: 2606:4700:3033::ac43:94a0
+Name:	seedpeer.unblocked.one
+Address: 2606:4700:3032::6815:5fd5
+
+626
+seedpeer.unblocked.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seedpeer.unblocked.tv
+Address: 104.21.85.240
+Name:	seedpeer.unblocked.tv
+Address: 172.67.212.137
+Name:	seedpeer.unblocked.tv
+Address: 2606:4700:3030::6815:55f0
+Name:	seedpeer.unblocked.tv
+Address: 2606:4700:3032::ac43:d489
+
+627
+seedpeer.unblocked.tw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seedpeer.unblocked.tw
+Address: 185.53.177.10
+
+628
+seedpeer.unblocked.vip
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seedpeer.unblocked.vip
+Address: 104.21.41.196
+Name:	seedpeer.unblocked.vip
+Address: 172.67.166.214
+Name:	seedpeer.unblocked.vip
+Address: 2606:4700:3037::ac43:a6d6
+Name:	seedpeer.unblocked.vip
+Address: 2606:4700:3034::6815:29c4
+
+629
+sendit.cloud
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sendit.cloud
+Address: 104.21.77.24
+Name:	sendit.cloud
+Address: 172.67.203.143
+Name:	sendit.cloud
+Address: 2606:4700:3032::ac43:cb8f
+Name:	sendit.cloud
+Address: 2606:4700:3033::6815:4d18
+
+630
+sendspace.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sendspace.com
+Address: 172.64.202.8
+Name:	sendspace.com
+Address: 172.64.203.8
+Name:	sendspace.com
+Address: 2606:4700:e6::ac40:cb08
+Name:	sendspace.com
+Address: 2606:4700:e6::ac40:ca08
+
+631
+serials6pm.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	serials6pm.com
+Address: 67.227.226.240
+Name:	serials6pm.com
+Address: 2600:3c02:1::2d4f:f40e
+
+632
+seventorrents.top
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seventorrents.top
+Address: 103.224.182.250
+
+633
+seventorrents.win
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	seventorrents.win
+Address: 185.53.177.12
+
+634
+sex3.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sex3.com
+Address: 88.208.55.222
+
+635
+sexpics.xxx
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sexpics.xxx
+Address: 66.37.0.139
+
+636
+sexsex.hu
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sexsex.hu
+Address: 172.67.214.234
+Name:	sexsex.hu
+Address: 104.21.91.94
+Name:	sexsex.hu
+Address: 2606:4700:3030::ac43:d6ea
+Name:	sexsex.hu
+Address: 2606:4700:3030::6815:5b5e
+
+637
+sexymaturepics.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sexymaturepics.com
+Address: 109.206.166.7
+
+638
+sexymaturethumbs.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sexymaturethumbs.com
+Address: 104.21.78.109
+Name:	sexymaturethumbs.com
+Address: 172.67.220.98
+Name:	sexymaturethumbs.com
+Address: 2606:4700:3036::ac43:dc62
+Name:	sexymaturethumbs.com
+Address: 2606:4700:3037::6815:4e6d
+
+639
+shaamtv.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	shaamtv.com
+Address: 204.197.240.105
+
+640
+shaanig.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	shaanig.org
+Address: 172.67.213.20
+Name:	shaanig.org
+Address: 104.21.69.204
+Name:	shaanig.org
+Address: 2606:4700:3030::ac43:d514
+Name:	shaanig.org
+Address: 2606:4700:3031::6815:45cc
+
+641
+shahid4u.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	shahid4u.com
+Address: 172.67.186.130
+Name:	shahid4u.com
+Address: 104.21.1.37
+Name:	shahid4u.com
+Address: 2606:4700:3035::6815:125
+Name:	shahid4u.com
+Address: 2606:4700:3032::ac43:ba82
+
+642
+share-online.biz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	share-online.biz
+Address: 51.38.98.97
+
+643
+share1.moviesmobile.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+share1.moviesmobile.net	canonical name = moviesmobile.net.
+Name:	moviesmobile.net
+Address: 72.52.178.23
+Name:	moviesmobile.net
+Address: 2600:3c02:1::2d4f:f40e
+
+644
+share2.moviesmobile.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+share2.moviesmobile.net	canonical name = moviesmobile.net.
+Name:	moviesmobile.net
+Address: 72.52.178.23
+Name:	moviesmobile.net
+Address: 2600:3c02:1::2d4f:f40e
+
+645
+share3.moviesmobile.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+share3.moviesmobile.net	canonical name = moviesmobile.net.
+Name:	moviesmobile.net
+Address: 72.52.178.23
+Name:	moviesmobile.net
+Address: 2600:3c02:1::2d4f:f40e
+
+646
+share4.moviesmobile.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+share4.moviesmobile.net	canonical name = moviesmobile.net.
+Name:	moviesmobile.net
+Address: 72.52.178.23
+Name:	moviesmobile.net
+Address: 2600:3c02:1::2d4f:f40e
+
+647
+sharebeast.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sharebeast.com
+Address: 209.126.3.228
+
+648
+shared.sx
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	shared.sx
+Address: 172.67.218.16
+Name:	shared.sx
+Address: 104.21.24.81
+Name:	shared.sx
+Address: 2606:4700:3035::ac43:da10
+Name:	shared.sx
+Address: 2606:4700:3033::6815:1851
+
+649
+shareflare.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	shareflare.net
+Address: 199.191.50.179
+
+650
+sharerepo.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sharerepo.com
+Address: 104.21.10.227
+Name:	sharerepo.com
+Address: 172.67.146.241
+Name:	sharerepo.com
+Address: 2606:4700:3032::ac43:92f1
+Name:	sharerepo.com
+Address: 2606:4700:3031::6815:ae3
+
+651
+sharesix.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sharesix.com
+Address: 104.21.234.174
+Name:	sharesix.com
+Address: 104.21.234.175
+Name:	sharesix.com
+Address: 2606:4700:3038::6815:eaae
+Name:	sharesix.com
+Address: 2606:4700:3038::6815:eaaf
+
+652
+sharespark.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sharespark.net
+Address: 69.16.230.42
+Name:	sharespark.net
+Address: 2600:3c02:1::2d4f:f40e
+
+653
+sharexvid.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sharexvid.com
+Address: 103.224.182.250
+
+654
+sheikyermami.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sheikyermami.com
+Address: 192.124.249.11
+
+655
+showsport-tv.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	showsport-tv.com
+Address: 104.21.233.125
+Name:	showsport-tv.com
+Address: 104.21.233.126
+Name:	showsport-tv.com
+Address: 2606:4700:3038::6815:e97e
+Name:	showsport-tv.com
+Address: 2606:4700:3038::6815:e97d
+
+656
+silkymoms.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	silkymoms.com
+Address: 104.21.24.112
+Name:	silkymoms.com
+Address: 172.67.218.90
+Name:	silkymoms.com
+Address: 2606:4700:3034::ac43:da5a
+Name:	silkymoms.com
+Address: 2606:4700:3030::6815:1870
+
+657
+sitenow.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sitenow.me
+Address: 207.244.67.216
+
+658
+skworldmovie.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	skworldmovie.in
+Address: 45.33.23.183
+Name:	skworldmovie.in
+Address: 72.14.178.174
+Name:	skworldmovie.in
+Address: 45.33.18.44
+Name:	skworldmovie.in
+Address: 173.255.194.134
+Name:	skworldmovie.in
+Address: 45.33.30.197
+Name:	skworldmovie.in
+Address: 72.14.185.43
+Name:	skworldmovie.in
+Address: 45.33.20.235
+Name:	skworldmovie.in
+Address: 45.79.19.196
+Name:	skworldmovie.in
+Address: 198.58.118.167
+Name:	skworldmovie.in
+Address: 96.126.123.244
+Name:	skworldmovie.in
+Address: 45.56.79.23
+Name:	skworldmovie.in
+Address: 45.33.2.79
+
+659
+skynetcom.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	skynetcom.net
+Address: 107.180.47.9
+
+660
+skytorrents.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	skytorrents.in
+Address: 185.53.178.50
+
+661
+slexy.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	slexy.org
+Address: 34.204.113.54
+
+662
+slickvid.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	slickvid.com
+Address: 208.91.197.54
+
+663
+smutty.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	smutty.com
+Address: 104.21.53.249
+Name:	smutty.com
+Address: 172.67.221.32
+Name:	smutty.com
+Address: 2606:4700:3033::6815:35f9
+Name:	smutty.com
+Address: 2606:4700:3034::ac43:dd20
+
+664
+snipplr.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	snipplr.com
+Address: 104.25.40.44
+Name:	snipplr.com
+Address: 104.25.39.44
+Name:	snipplr.com
+Address: 172.67.96.199
+Name:	snipplr.com
+Address: 2606:4700:20::6819:282c
+Name:	snipplr.com
+Address: 2606:4700:20::6819:272c
+Name:	snipplr.com
+Address: 2606:4700:20::ac43:60c7
+
+665
+snipt.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	snipt.net
+Address: 104.21.53.27
+Name:	snipt.net
+Address: 172.67.208.13
+Name:	snipt.net
+Address: 2606:4700:3033::ac43:d00d
+Name:	snipt.net
+Address: 2606:4700:3035::6815:351b
+
+666
+snowtorrent.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	snowtorrent.com
+Address: 45.79.19.196
+Name:	snowtorrent.com
+Address: 45.33.2.79
+Name:	snowtorrent.com
+Address: 45.33.30.197
+Name:	snowtorrent.com
+Address: 45.56.79.23
+Name:	snowtorrent.com
+Address: 45.33.20.235
+Name:	snowtorrent.com
+Address: 96.126.123.244
+Name:	snowtorrent.com
+Address: 72.14.178.174
+Name:	snowtorrent.com
+Address: 173.255.194.134
+Name:	snowtorrent.com
+Address: 198.58.118.167
+Name:	snowtorrent.com
+Address: 72.14.185.43
+Name:	snowtorrent.com
+Address: 45.33.18.44
+Name:	snowtorrent.com
+Address: 45.33.23.183
+
+667
+soccertoall.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	soccertoall.net
+Address: 192.185.16.45
+
+668
+socceryou.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	socceryou.com
+Address: 104.21.39.101
+Name:	socceryou.com
+Address: 172.67.144.50
+Name:	socceryou.com
+Address: 2606:4700:3030::ac43:9032
+Name:	socceryou.com
+Address: 2606:4700:3031::6815:2765
+
+669
+socceryou.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	socceryou.net
+Address: 104.21.44.47
+Name:	socceryou.net
+Address: 172.67.195.20
+Name:	socceryou.net
+Address: 2606:4700:3030::ac43:c314
+Name:	socceryou.net
+Address: 2606:4700:3031::6815:2c2f
+
+670
+sockshare.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sockshare.net
+Address: 172.67.186.238
+Name:	sockshare.net
+Address: 104.21.2.85
+Name:	sockshare.net
+Address: 2606:4700:3033::6815:255
+Name:	sockshare.net
+Address: 2606:4700:3036::ac43:baee
+
+671
+sockshare.ws
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sockshare.ws
+Address: 185.53.178.54
+
+672
+solidfiles.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	solidfiles.com
+Address: 37.221.163.212
+
+673
+soola.tk
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	soola.tk
+Address: 104.21.71.200
+Name:	soola.tk
+Address: 172.67.171.158
+Name:	soola.tk
+Address: 2606:4700:3030::6815:47c8
+Name:	soola.tk
+Address: 2606:4700:3032::ac43:ab9e
+
+674
+soundcloud.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	soundcloud.com
+Address: 13.227.166.84
+Name:	soundcloud.com
+Address: 13.227.166.116
+Name:	soundcloud.com
+Address: 13.227.166.108
+Name:	soundcloud.com
+Address: 13.227.166.73
+
+675
+sourceforge.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sourceforge.net
+Address: 216.105.38.13
+
+676
+south-indian-sex.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	south-indian-sex.com
+Address: 99.192.191.81
+
+677
+speedplay.pro
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	speedplay.pro
+Address: 103.224.212.220
+
+678
+speedplay.us
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	speedplay.us
+Address: 184.168.131.241
+
+679
+speedvid.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	speedvid.net
+Address: 69.16.230.42
+Name:	speedvid.net
+Address: 2600:3c02:1::2d4f:f40e
+
+680
+spicycine.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	spicycine.com
+Address: 185.53.177.31
+
+681
+sport-en-streaming.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sport-en-streaming.com
+Address: 172.67.129.175
+Name:	sport-en-streaming.com
+Address: 104.21.1.179
+Name:	sport-en-streaming.com
+Address: 2606:4700:3036::ac43:81af
+Name:	sport-en-streaming.com
+Address: 2606:4700:3034::6815:1b3
+
+682
+sport31.smotrisportal.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sport31.smotrisportal.com
+Address: 103.224.212.221
+
+683
+sport5online.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sport5online.com
+Address: 69.16.230.42
+Name:	sport5online.com
+Address: 2600:3c02:1::2d4f:f40e
+
+684
+sportingvideo.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportingvideo.org
+Address: 72.52.178.23
+Name:	sportingvideo.org
+Address: 2600:3c02:1::2d4f:f40e
+
+685
+sportlemon.ge
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportlemon.ge
+Address: 104.21.234.47
+Name:	sportlemon.ge
+Address: 104.21.234.46
+Name:	sportlemon.ge
+Address: 2606:4700:3038::6815:ea2e
+Name:	sportlemon.ge
+Address: 2606:4700:3038::6815:ea2f
+
+686
+sportlemon.space
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportlemon.space
+Address: 103.224.182.250
+
+687
+sportlemontv.eu
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportlemontv.eu
+Address: 185.53.177.51
+
+688
+sportlink.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportlink.pw
+Address: 185.53.178.70
+
+689
+sportlive.lt
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportlive.lt
+Address: 192.230.79.89
+Name:	sportlive.lt
+Address: 199.83.135.102
+
+690
+sportlive.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportlive.me
+Address: 67.227.226.240
+
+691
+sportp2p.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportp2p.com
+Address: 104.21.50.74
+Name:	sportp2p.com
+Address: 172.67.203.52
+Name:	sportp2p.com
+Address: 2606:4700:3031::6815:324a
+Name:	sportp2p.com
+Address: 2606:4700:3031::ac43:cb34
+
+692
+sports-live.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sports-live.tv
+Address: 67.227.226.240
+Name:	sports-live.tv
+Address: 2600:3c02:1::2d4f:f40e
+
+693
+sports-stream.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sports-stream.net
+Address: 69.16.230.42
+Name:	sports-stream.net
+Address: 2600:3c02:1::2d4f:f40e
+
+694
+sports-x.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sports-x.net
+Address: 103.224.182.251
+
+695
+sports.khantv.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sports.khantv.tv
+Address: 104.200.22.130
+Name:	sports.khantv.tv
+Address: 104.200.23.95
+
+696
+sports4u.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sports4u.info
+Address: 67.227.226.240
+Name:	sports4u.info
+Address: 2600:3c02:1::2d4f:f40e
+
+697
+sportsbun.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportsbun.com
+Address: 67.227.226.240
+Name:	sportsbun.com
+Address: 2600:3c02:1::2d4f:f40e
+
+698
+sportslive4u.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportslive4u.com
+Address: 67.227.226.240
+Name:	sportslive4u.com
+Address: 2600:3c02:1::2d4f:f40e
+
+699
+sportsntvlive.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportsntvlive.com
+Address: 72.52.178.23
+
+700
+sportstream.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportstream.tv
+Address: 37.9.175.5
+
+701
+sportstream365.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportstream365.com
+Address: 69.16.230.42
+Name:	sportstream365.com
+Address: 2600:3c02:1::2d4f:f40e
+
+702
+sportstvstream.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sportstvstream.me
+Address: 185.107.56.198
+
+703
+squirtingmastery.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	squirtingmastery.com
+Address: 34.102.136.180
+
+704
+sstream.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sstream.net
+Address: 103.224.182.253
+
+705
+stadium-live.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	stadium-live.com
+Address: 185.53.178.51
+
+706
+stagevu.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	stagevu.com
+Address: 104.21.14.144
+Name:	stagevu.com
+Address: 172.67.159.174
+Name:	stagevu.com
+Address: 2606:4700:3036::6815:e90
+Name:	stagevu.com
+Address: 2606:4700:3033::ac43:9fae
+
+707
+store.falconstudios.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	store.falconstudios.com
+Address: 3.210.31.83
+Name:	store.falconstudios.com
+Address: 34.196.216.202
+Name:	store.falconstudios.com
+Address: 3.221.171.80
+
+708
+stormfront.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	stormfront.org
+Address: 172.67.36.126
+Name:	stormfront.org
+Address: 104.22.7.143
+Name:	stormfront.org
+Address: 104.22.6.143
+Name:	stormfront.org
+Address: 2606:4700:10::6816:68f
+Name:	stormfront.org
+Address: 2606:4700:10::ac43:247e
+Name:	stormfront.org
+Address: 2606:4700:10::6816:78f
+
+709
+stream-foot.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	stream-foot.tv
+Address: 67.227.226.240
+Name:	stream-foot.tv
+Address: 2600:3c02:1::2d4f:f40e
+
+710
+stream-hd.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	stream-hd.net
+Address: 103.224.212.219
+
+711
+stream2watch.cc
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	stream2watch.cc
+Address: 172.67.133.178
+Name:	stream2watch.cc
+Address: 104.21.5.180
+Name:	stream2watch.cc
+Address: 2606:4700:3037::6815:5b4
+Name:	stream2watch.cc
+Address: 2606:4700:3032::ac43:85b2
+
+712
+streamable.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamable.com
+Address: 151.101.65.63
+Name:	streamable.com
+Address: 151.101.1.63
+Name:	streamable.com
+Address: 151.101.193.63
+Name:	streamable.com
+Address: 151.101.129.63
+
+713
+streamango.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamango.com
+Address: 34.235.250.63
+
+714
+streame.us
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streame.us
+Address: 104.200.23.95
+Name:	streame.us
+Address: 104.200.22.130
+
+715
+streamendous.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamendous.com
+Address: 104.21.24.142
+Name:	streamendous.com
+Address: 172.67.218.251
+Name:	streamendous.com
+Address: 2606:4700:3036::ac43:dafb
+Name:	streamendous.com
+Address: 2606:4700:3030::6815:188e
+
+716
+streamfoot.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamfoot.org
+Address: 162.210.195.123
+
+717
+streamgaroo.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamgaroo.com
+Address: 104.21.42.243
+Name:	streamgaroo.com
+Address: 172.67.213.110
+Name:	streamgaroo.com
+Address: 2606:4700:3031::ac43:d56e
+Name:	streamgaroo.com
+Address: 2606:4700:3036::6815:2af3
+
+718
+streamhd.eu
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamhd.eu
+Address: 95.216.208.165
+
+719
+streamify.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamify.tv
+Address: 109.237.138.44
+
+720
+streaming24.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streaming24.live
+Address: 162.213.255.54
+
+721
+streamlive.to
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamlive.to
+Address: 80.82.76.139
+
+722
+streamplay.to
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamplay.to
+Address: 172.67.194.228
+Name:	streamplay.to
+Address: 104.21.12.139
+
+723
+streamsports.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamsports.me
+Address: 5.79.68.107
+
+724
+streamthunder.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamthunder.com
+Address: 69.16.230.42
+Name:	streamthunder.com
+Address: 2600:3c02:1::2d4f:f40e
+
+725
+streamupload.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamupload.org
+Address: 51.158.152.88
+
+726
+streamwoop.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamwoop.tv
+Address: 103.224.182.238
+
+727
+streamytv.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streamytv.net
+Address: 45.33.2.79
+Name:	streamytv.net
+Address: 45.33.20.235
+Name:	streamytv.net
+Address: 45.79.19.196
+Name:	streamytv.net
+Address: 45.56.79.23
+Name:	streamytv.net
+Address: 173.255.194.134
+Name:	streamytv.net
+Address: 72.14.185.43
+Name:	streamytv.net
+Address: 45.33.23.183
+Name:	streamytv.net
+Address: 45.33.30.197
+Name:	streamytv.net
+Address: 72.14.178.174
+Name:	streamytv.net
+Address: 198.58.118.167
+Name:	streamytv.net
+Address: 45.33.18.44
+Name:	streamytv.net
+Address: 96.126.123.244
+
+728
+streema.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	streema.com
+Address: 104.26.5.100
+Name:	streema.com
+Address: 104.26.4.100
+Name:	streema.com
+Address: 172.67.71.143
+Name:	streema.com
+Address: 2606:4700:20::ac43:478f
+Name:	streema.com
+Address: 2606:4700:20::681a:464
+Name:	streema.com
+Address: 2606:4700:20::681a:564
+
+729
+stretchedpussy.tumblr.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	stretchedpussy.tumblr.com
+Address: 74.114.154.22
+Name:	stretchedpussy.tumblr.com
+Address: 74.114.154.18
+
+730
+strikeout.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	strikeout.me
+Address: 45.178.6.101
+Name:	strikeout.me
+Address: 46.28.205.20
+
+731
+strikeout.mobi
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	strikeout.mobi
+Address: 46.28.205.20
+Name:	strikeout.mobi
+Address: 45.178.6.101
+
+732
+sultanboxofficecollections.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sultanboxofficecollections.in
+Address: 185.53.177.10
+
+733
+sumotorrent.sx
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	sumotorrent.sx
+Address: 104.21.95.222
+Name:	sumotorrent.sx
+Address: 172.67.171.124
+Name:	sumotorrent.sx
+Address: 2606:4700:3036::6815:5fde
+Name:	sumotorrent.sx
+Address: 2606:4700:3030::ac43:ab7c
+
+734
+sunhd.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+sunhd.info	canonical name = sedoparking.com.
+Name:	sedoparking.com
+Address: 91.195.240.136
+
+735
+t.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	t.me
+Address: 149.154.167.99
+Name:	t.me
+Address: 2001:67c:4e8:1033:5:100:0:a
+Name:	t.me
+Address: 2001:67c:4e8:1033:3:100:0:a
+Name:	t.me
+Address: 2001:67c:4e8:1033:6:100:0:a
+Name:	t.me
+Address: 2001:67c:4e8:1033:4:100:0:a
+
+736
+t.sport-lemon.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	t.sport-lemon.tv
+Address: 37.48.65.145
+
+737
+tamil-gun.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamil-gun.com
+Address: 156.255.230.161
+
+738
+tamilgun.cam
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilgun.cam
+Address: 185.53.177.52
+
+739
+tamilgun.ooo
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilgun.ooo
+Address: 103.224.182.250
+
+740
+tamilimac.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilimac.com
+Address: 103.224.182.245
+
+741
+tamilinks.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilinks.com
+Address: 185.53.178.51
+
+742
+tamilmenu.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilmenu.in
+Address: 104.243.45.178
+
+743
+tamilmovierockers.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilmovierockers.in
+Address: 18.215.128.143
+Name:	tamilmovierockers.in
+Address: 18.213.250.117
+Name:	tamilmovierockers.in
+Address: 52.4.209.250
+
+744
+tamilmovierockers.net.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilmovierockers.net.in
+Address: 185.53.177.50
+
+745
+tamilmv7.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilmv7.com
+Address: 216.239.32.21
+
+746
+tamilrasigan.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrasigan.co
+Address: 82.192.82.225
+
+747
+tamilrasigan.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrasigan.net
+Address: 172.67.189.49
+Name:	tamilrasigan.net
+Address: 104.21.9.86
+Name:	tamilrasigan.net
+Address: 2606:4700:3034::ac43:bd31
+Name:	tamilrasigan.net
+Address: 2606:4700:3031::6815:956
+
+748
+tamilrock.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+tamilrock.co	canonical name = pr-suspensions.neuweb.biz.
+pr-suspensions.neuweb.biz	canonical name = PR-Suspensions-1630320541.us-east-1.elb.amazonaws.com.
+Name:	PR-Suspensions-1630320541.us-east-1.elb.amazonaws.com
+Address: 18.214.196.255
+Name:	PR-Suspensions-1630320541.us-east-1.elb.amazonaws.com
+Address: 54.89.39.4
+Name:	PR-Suspensions-1630320541.us-east-1.elb.amazonaws.com
+Address: 35.170.15.192
+Name:	PR-Suspensions-1630320541.us-east-1.elb.amazonaws.com
+Address: 3.81.194.60
+
+749
+tamilrockers.be
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.be
+Address: 72.52.179.174
+
+750
+tamilrockers.cc
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.cc
+Address: 69.16.230.42
+Name:	tamilrockers.cc
+Address: 2600:3c02:1::2d4f:f40e
+
+751
+tamilrockers.club
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.club
+Address: 185.53.178.52
+
+752
+tamilrockers.cm
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.cm
+Address: 185.53.178.71
+
+753
+tamilrockers.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.co
+Address: 69.16.231.151
+Name:	tamilrockers.co
+Address: 2600:3c02:1::2d4f:f40e
+
+754
+tamilrockers.cx
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.cx
+Address: 185.53.178.52
+
+755
+tamilrockers.cz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.cz
+Address: 185.53.177.70
+
+756
+tamilrockers.download
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.download
+Address: 185.53.177.14
+
+757
+tamilrockers.im
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.im
+Address: 185.53.177.74
+
+758
+tamilrockers.la
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.la
+Address: 104.21.5.132
+Name:	tamilrockers.la
+Address: 172.67.133.123
+Name:	tamilrockers.la
+Address: 2606:4700:3033::ac43:857b
+Name:	tamilrockers.la
+Address: 2606:4700:3033::6815:584
+
+759
+tamilrockers.life
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find tamilrockers.life: NXDOMAIN
+
+760
+tamilrockers.lu
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.lu
+Address: 185.53.177.51
+
+761
+tamilrockers.lv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.lv
+Address: 64.190.62.111
+
+762
+tamilrockers.mx
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.mx
+Address: 185.53.177.72
+
+763
+tamilrockers.nu
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockers.nu
+Address: 185.53.178.70
+
+764
+tamilrockers.to
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find tamilrockers.to: NXDOMAIN
+
+765
+tamilrockerss.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockerss.in
+Address: 185.53.177.53
+
+766
+tamilrockerss.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockerss.org
+Address: 37.48.65.153
+
+767
+tamilrockerstelugu.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilrockerstelugu.in
+Address: 45.33.23.183
+Name:	tamilrockerstelugu.in
+Address: 198.58.118.167
+Name:	tamilrockerstelugu.in
+Address: 45.33.2.79
+Name:	tamilrockerstelugu.in
+Address: 45.33.18.44
+Name:	tamilrockerstelugu.in
+Address: 173.255.194.134
+Name:	tamilrockerstelugu.in
+Address: 45.56.79.23
+Name:	tamilrockerstelugu.in
+Address: 45.79.19.196
+Name:	tamilrockerstelugu.in
+Address: 45.33.30.197
+Name:	tamilrockerstelugu.in
+Address: 96.126.123.244
+Name:	tamilrockerstelugu.in
+Address: 72.14.178.174
+Name:	tamilrockerstelugu.in
+Address: 45.33.20.235
+Name:	tamilrockerstelugu.in
+Address: 72.14.185.43
+
+768
+tamilserials.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilserials.tv
+Address: 34.202.122.77
+Name:	tamilserials.tv
+Address: 52.0.7.30
+Name:	tamilserials.tv
+Address: 35.169.225.248
+
+769
+tamilserialtoday.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilserialtoday.org
+Address: 69.16.231.151
+Name:	tamilserialtoday.org
+Address: 2600:3c02:1::2d4f:f40e
+
+770
+tamiltheater.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamiltheater.com
+Address: 96.47.230.69
+
+771
+tamiltvshows.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamiltvshows.net
+Address: 67.227.226.241
+Name:	tamiltvshows.net
+Address: 2600:3c02:1::2d4f:f40e
+
+772
+tamilyogi.fm
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tamilyogi.fm
+Address: 172.67.182.45
+Name:	tamilyogi.fm
+Address: 104.21.91.246
+Name:	tamilyogi.fm
+Address: 2606:4700:3033::ac43:b62d
+Name:	tamilyogi.fm
+Address: 2606:4700:3033::6815:5bf6
+
+773
+tanku.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tanku.info
+Address: 35.186.238.101
+
+774
+tazaweb.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+tazaweb.com	canonical name = pltraffic7.com.
+Name:	pltraffic7.com
+Address: 72.52.179.174
+
+775
+tdownloads.sitescrack.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+tdownloads.sitescrack.com	canonical name = sitescrack.com.
+Name:	sitescrack.com
+Address: 67.227.226.240
+Name:	sitescrack.com
+Address: 2600:3c02:1::2d4f:f40e
+
+776
+teamrockers.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	teamrockers.co
+Address: 185.53.177.10
+
+777
+teamrockers.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	teamrockers.me
+Address: 185.53.177.54
+
+778
+teamrockers.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	teamrockers.net
+Address: 67.227.226.240
+Name:	teamrockers.net
+Address: 2600:3c02:1::2d4f:f40e
+
+779
+techmediatune.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find techmediatune.com: SERVFAIL
+
+780
+telefivegb.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	telefivegb.com
+Address: 72.52.178.23
+Name:	telefivegb.com
+Address: 2600:3c02:1::2d4f:f40e
+
+781
+telegram.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	telegram.me
+Address: 149.154.167.99
+Name:	telegram.me
+Address: 2001:67c:4e8:1033:6:100:0:a
+Name:	telegram.me
+Address: 2001:67c:4e8:1033:5:100:0:a
+Name:	telegram.me
+Address: 2001:67c:4e8:1033:4:100:0:a
+
+782
+telegram.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	telegram.org
+Address: 149.154.167.99
+Name:	telegram.org
+Address: 2001:67c:4e8:1033:5:100:0:a
+Name:	telegram.org
+Address: 2001:67c:4e8:1033:2:100:0:a
+Name:	telegram.org
+Address: 2001:67c:4e8:1033:3:100:0:a
+Name:	telegram.org
+Address: 2001:67c:4e8:1033:4:100:0:a
+Name:	telegram.org
+Address: 2001:67c:4e8:1033:1:100:0:a
+Name:	telegram.org
+Address: 2001:67c:4e8:1033:6:100:0:a
+
+783
+telegraph.co.uk
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	telegraph.co.uk
+Address: 13.224.102.61
+Name:	telegraph.co.uk
+Address: 13.224.102.37
+Name:	telegraph.co.uk
+Address: 13.224.102.68
+Name:	telegraph.co.uk
+Address: 13.224.102.82
+
+784
+tellynagari.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tellynagari.com
+Address: 91.236.116.95
+
+785
+telugudon.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	telugudon.com
+Address: 67.227.226.240
+Name:	telugudon.com
+Address: 2600:3c02:1::2d4f:f40e
+
+786
+teluguking.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	teluguking.net
+Address: 103.224.182.238
+
+787
+telugumasthi.wapka.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	telugumasthi.wapka.me
+Address: 103.224.182.253
+
+788
+teluguplay.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	teluguplay.in
+Address: 35.186.197.188
+
+789
+tenvoi.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tenvoi.com
+Address: 5.39.224.140
+Name:	tenvoi.com
+Address: 2a00:fb40:a:1::140
+
+790
+terafile.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	terafile.co
+Address: 104.21.79.40
+Name:	terafile.co
+Address: 172.67.141.234
+Name:	terafile.co
+Address: 2606:4700:3036::6815:4f28
+Name:	terafile.co
+Address: 2606:4700:3030::ac43:8dea
+
+791
+terafilez.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	terafilez.com
+Address: 67.227.226.240
+Name:	terafilez.com
+Address: 2600:3c02:1::2d4f:f40e
+
+792
+termbin.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	termbin.com
+Address: 5.39.93.71
+
+793
+thebay.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thebay.tv
+Address: 69.16.230.42
+Name:	thebay.tv
+Address: 2600:3c02:1::2d4f:f40e
+
+794
+thedailynewsegypt.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thedailynewsegypt.com
+Address: 172.67.128.113
+Name:	thedailynewsegypt.com
+Address: 104.21.2.2
+Name:	thedailynewsegypt.com
+Address: 2606:4700:3030::ac43:8071
+Name:	thedailynewsegypt.com
+Address: 2606:4700:3033::6815:202
+
+795
+thedhakasports.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thedhakasports.com
+Address: 199.59.242.153
+
+796
+thefile.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thefile.me
+Address: 67.227.226.240
+Name:	thefile.me
+Address: 2600:3c02:1::2d4f:f40e
+
+797
+thefreecamsecret.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thefreecamsecret.com
+Address: 216.127.52.176
+Name:	thefreecamsecret.com
+Address: 216.127.52.175
+
+798
+thehdmovies.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thehdmovies.in
+Address: 204.11.58.71
+
+799
+thehiddenbay.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thehiddenbay.info
+Address: 103.224.182.250
+
+800
+thekat.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thekat.info
+Address: 104.21.11.195
+Name:	thekat.info
+Address: 172.67.150.58
+Name:	thekat.info
+Address: 2606:4700:3030::6815:bc3
+Name:	thekat.info
+Address: 2606:4700:3030::ac43:963a
+
+801
+thelive.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thelive.co
+Address: 52.58.78.16
+Name:	thelive.co
+Address: 2a05:d014:9da:8c10:306e:3e07:a16f:a552
+
+802
+themagnetbay.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	themagnetbay.net
+Address: 207.244.65.58
+
+803
+themobilebay.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	themobilebay.org
+Address: 69.16.230.42
+Name:	themobilebay.org
+Address: 2600:3c02:1::2d4f:f40e
+
+804
+themovie4u.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	themovie4u.com
+Address: 69.16.230.42
+Name:	themovie4u.com
+Address: 2600:3c02:1::2d4f:f40e
+
+805
+themovie4u.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	themovie4u.live
+Address: 103.224.182.250
+
+806
+themovierock.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	themovierock.net
+Address: 209.99.40.222
+
+807
+thepetitionsite.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepetitionsite.com
+Address: 38.99.122.2
+
+808
+thepiratebay-proxy.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay-proxy.com
+Address: 72.52.179.175
+Name:	thepiratebay-proxy.com
+Address: 2600:3c02:1::2d4f:f40e
+
+809
+thepiratebay.bid
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bid
+Address: 104.21.35.239
+Name:	thepiratebay.bid
+Address: 172.67.181.52
+
+810
+thepiratebay.bypassed.bid
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.bid
+Address: 103.224.182.250
+
+811
+thepiratebay.bypassed.cab
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.cab
+Address: 37.48.65.148
+
+812
+thepiratebay.bypassed.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.gold
+Address: 185.53.177.14
+
+813
+thepiratebay.bypassed.info
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.info
+Address: 185.53.177.54
+
+814
+thepiratebay.bypassed.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.live
+Address: 103.224.182.250
+
+815
+thepiratebay.bypassed.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.me
+Address: 103.224.182.250
+
+816
+thepiratebay.bypassed.men
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.men
+Address: 103.224.182.250
+
+817
+thepiratebay.bypassed.party
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.party
+Address: 185.53.178.11
+
+818
+thepiratebay.bypassed.plus
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.plus
+Address: 103.224.182.251
+
+819
+thepiratebay.bypassed.run
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.run
+Address: 103.224.182.250
+
+820
+thepiratebay.bypassed.team
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.team
+Address: 103.224.182.251
+
+821
+thepiratebay.bypassed.today
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.today
+Address: 185.53.177.73
+
+822
+thepiratebay.bypassed.works
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.bypassed.works
+Address: 185.53.177.14
+
+823
+thepiratebay.cd
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.cd
+Address: 104.21.51.229
+Name:	thepiratebay.cd
+Address: 172.67.190.159
+Name:	thepiratebay.cd
+Address: 2606:4700:3035::6815:33e5
+Name:	thepiratebay.cd
+Address: 2606:4700:3033::ac43:be9f
+
+824
+thepiratebay.cr
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.cr
+Address: 104.21.27.60
+Name:	thepiratebay.cr
+Address: 172.67.169.7
+Name:	thepiratebay.cr
+Address: 2606:4700:3037::ac43:a907
+Name:	thepiratebay.cr
+Address: 2606:4700:3037::6815:1b3c
+
+825
+thepiratebay.gr.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.gr.com
+Address: 72.34.38.11
+
+826
+thepiratebay.immunicity.fyi
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.immunicity.fyi
+Address: 185.53.177.51
+
+827
+thepiratebay.immunicity.gold
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.immunicity.gold
+Address: 185.53.177.52
+
+828
+thepiratebay.immunicity.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.immunicity.live
+Address: 185.53.177.50
+
+829
+thepiratebay.immunicity.ltd
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.immunicity.ltd
+Address: 103.224.182.250
+
+830
+thepiratebay.immunicity.team
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.immunicity.team
+Address: 103.224.182.250
+
+831
+thepiratebay.immunicity.today
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.immunicity.today
+Address: 103.224.182.250
+
+832
+thepiratebay.immunicity.works
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.immunicity.works
+Address: 185.107.56.54
+
+833
+thepiratebay.immunicity.world
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.immunicity.world
+Address: 185.53.177.53
+
+834
+thepiratebay.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.org
+Address: 162.159.136.6
+Name:	thepiratebay.org
+Address: 162.159.137.6
+Name:	thepiratebay.org
+Address: 2606:4700:7::a29f:8906
+Name:	thepiratebay.org
+Address: 2606:4700:7::a29f:8806
+
+835
+thepiratebay.rocks
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.rocks
+Address: 172.67.179.17
+Name:	thepiratebay.rocks
+Address: 104.21.43.122
+Name:	thepiratebay.rocks
+Address: 2606:4700:3037::6815:2b7a
+Name:	thepiratebay.rocks
+Address: 2606:4700:3037::ac43:b311
+
+836
+thepiratebay.to
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.to
+Address: 104.21.71.150
+Name:	thepiratebay.to
+Address: 172.67.170.182
+Name:	thepiratebay.to
+Address: 2606:4700:3034::ac43:aab6
+Name:	thepiratebay.to
+Address: 2606:4700:3032::6815:4796
+
+837
+thepiratebay.uk.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.uk.net
+Address: 103.224.182.250
+
+838
+thepiratebay.unblockall.xyz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.unblockall.xyz
+Address: 103.224.182.238
+
+839
+thepiratebay.unblocked.ltd
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find thepiratebay.unblocked.ltd: NXDOMAIN
+
+840
+thepiratebay.unblocked.run
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.unblocked.run
+Address: 103.224.182.250
+
+841
+thepiratebay.unblocked.world
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.unblocked.world
+Address: 185.53.178.52
+
+842
+thepiratebay.unblockmy.host
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebay.unblockmy.host
+Address: 70.32.1.32
+
+843
+thepiratebayz.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebayz.org
+Address: 69.16.230.42
+Name:	thepiratebayz.org
+Address: 2600:3c02:1::2d4f:f40e
+
+844
+thepiratebeach.eu
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepiratebeach.eu
+Address: 72.52.179.175
+Name:	thepiratebeach.eu
+Address: 2600:3c02:1::2d4f:f40e
+
+845
+thepirateproxybay.xyz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thepirateproxybay.xyz
+Address: 103.224.182.250
+
+846
+theporndude.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	theporndude.com
+Address: 104.19.129.100
+Name:	theporndude.com
+Address: 104.19.128.100
+
+847
+theproxybay.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	theproxybay.me
+Address: 103.224.212.222
+
+848
+thesnippetapp.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thesnippetapp.com
+Address: 172.67.148.185
+Name:	thesnippetapp.com
+Address: 104.21.29.94
+Name:	thesnippetapp.com
+Address: 2606:4700:3036::6815:1d5e
+Name:	thesnippetapp.com
+Address: 2606:4700:3034::ac43:94b9
+
+849
+thetorrent.org
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thetorrent.org
+Address: 104.21.234.134
+Name:	thetorrent.org
+Address: 104.21.234.135
+Name:	thetorrent.org
+Address: 2606:4700:3038::6815:ea87
+Name:	thetorrent.org
+Address: 2606:4700:3038::6815:ea86
+
+850
+thetvtime.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thetvtime.com
+Address: 34.102.136.180
+
+851
+thevid.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thevid.net
+Address: 67.227.226.240
+Name:	thevid.net
+Address: 2600:3c02:1::2d4f:f40e
+
+852
+thevideo.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thevideo.me
+Address: 172.67.155.23
+Name:	thevideo.me
+Address: 104.21.40.172
+Name:	thevideo.me
+Address: 2606:4700:3031::6815:28ac
+Name:	thevideo.me
+Address: 2606:4700:3030::ac43:9b17
+
+853
+thevideos.tv
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thevideos.tv
+Address: 69.16.231.151
+Name:	thevideos.tv
+Address: 2600:3c02:1::2d4f:f40e
+
+854
+thiruttu-vcd.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	thiruttu-vcd.com
+Address: 185.53.177.31
+
+855
+time4tv.co
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	time4tv.co
+Address: 185.53.177.70
+
+856
+time4tv.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	time4tv.com
+Address: 184.168.131.241
+
+857
+time4tv.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	time4tv.me
+Address: 104.21.78.71
+Name:	time4tv.me
+Address: 172.67.217.219
+Name:	time4tv.me
+Address: 2606:4700:3031::ac43:d9db
+Name:	time4tv.me
+Address: 2606:4700:3034::6815:4e47
+
+858
+timesofummah.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	timesofummah.com
+Address: 172.96.186.148
+
+859
+titorrent.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	titorrent.com
+Address: 72.14.178.174
+Name:	titorrent.com
+Address: 45.33.20.235
+Name:	titorrent.com
+Address: 72.14.185.43
+Name:	titorrent.com
+Address: 45.33.2.79
+Name:	titorrent.com
+Address: 45.79.19.196
+Name:	titorrent.com
+Address: 45.56.79.23
+Name:	titorrent.com
+Address: 45.33.18.44
+Name:	titorrent.com
+Address: 45.33.23.183
+Name:	titorrent.com
+Address: 96.126.123.244
+Name:	titorrent.com
+Address: 198.58.118.167
+Name:	titorrent.com
+Address: 173.255.194.134
+Name:	titorrent.com
+Address: 45.33.30.197
+
+860
+tnhdmovies.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tnhdmovies.in
+Address: 185.53.177.31
+
+861
+tnrockers.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tnrockers.me
+Address: 103.224.182.250
+
+862
+tny.cz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	tny.cz
+Address: 144.76.196.51
+
+863
+todaypk.ac
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	todaypk.ac
+Address: 199.59.242.153
+
+864
+todaypk.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	todaypk.com
+Address: 69.16.231.150
+Name:	todaypk.com
+Address: 2600:3c02:1::2d4f:f40e
+
+865
+todaypk.cz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	todaypk.cz
+Address: 185.53.177.13
+
+866
+todaypk.is
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	todaypk.is
+Address: 103.224.182.250
+
+867
+todaypk.la
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	todaypk.la
+Address: 75.2.18.233
+
+868
+todaypk.li
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	todaypk.li
+Address: 185.53.178.50
+
+869
+todaypk.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	todaypk.me
+Address: 185.53.177.51
+
+870
+todaypk.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	todaypk.pw
+Address: 103.224.182.250
+
+871
+todaypk.to
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	todaypk.to
+Address: 185.53.177.53
+
+872
+todaypkmovies.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	todaypkmovies.com
+Address: 69.16.230.42
+Name:	todaypkmovies.com
+Address: 2600:3c02:1::2d4f:f40e
+
+873
+toonvideos.in
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	toonvideos.in
+Address: 104.21.45.180
+Name:	toonvideos.in
+Address: 172.67.217.185
+Name:	toonvideos.in
+Address: 2606:4700:3036::6815:2db4
+Name:	toonvideos.in
+Address: 2606:4700:3036::ac43:d9b9
+
+874
+top-kickass.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+top-kickass.net	canonical name = pltraffic7.com.
+Name:	pltraffic7.com
+Address: 72.52.179.174
+
+875
+topkickass.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+topkickass.com	canonical name = pltraffic8.com.
+Name:	pltraffic8.com
+Address: 69.16.230.42
+
+876
+topmovies.cc
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	topmovies.cc
+Address: 78.110.50.131
+
+877
+toptvchannels.xyz
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+toptvchannels.xyz	canonical name = 005-1543358796.ap-northeast-1.elb.amazonaws.com.
+Name:	005-1543358796.ap-northeast-1.elb.amazonaws.com
+Address: 54.199.231.28
+Name:	005-1543358796.ap-northeast-1.elb.amazonaws.com
+Address: 52.196.104.83
+
+878
+torcache.kickassunblock.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+torcache.kickassunblock.net	canonical name = kickassunblock.net.
+Name:	kickassunblock.net
+Address: 67.227.226.241
+Name:	kickassunblock.net
+Address: 2600:3c02:1::2d4f:f40e
+
+879
+torcache.net
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torcache.net
+Address: 199.59.242.153
+
+880
+torcache.pro
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torcache.pro
+Address: 103.224.182.250
+
+881
+torlock.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torlock.com
+Address: 104.21.91.53
+Name:	torlock.com
+Address: 172.67.167.78
+Name:	torlock.com
+Address: 2606:4700:3034::6815:5b35
+Name:	torlock.com
+Address: 2606:4700:3033::ac43:a74e
+
+882
+torrable.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrable.com
+Address: 69.16.230.42
+Name:	torrable.com
+Address: 2600:3c02:1::2d4f:f40e
+
+883
+torrage.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrage.com
+Address: 172.67.217.241
+Name:	torrage.com
+Address: 104.21.70.22
+Name:	torrage.com
+Address: 2606:4700:3034::ac43:d9f1
+Name:	torrage.com
+Address: 2606:4700:3036::6815:4616
+
+884
+torrent.tm
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find torrent.tm: NXDOMAIN
+
+885
+torrent4you.me
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrent4you.me
+Address: 172.67.175.197
+Name:	torrent4you.me
+Address: 104.21.17.113
+Name:	torrent4you.me
+Address: 2606:4700:3030::ac43:afc5
+Name:	torrent4you.me
+Address: 2606:4700:3037::6815:1171
+
+886
+torrent720p.com
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrent720p.com
+Address: 103.224.182.246
+
+887
+torrentbit.ukunblock.pw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrentbit.ukunblock.pw
+Address: 209.99.40.222
+
+888
+torrentbit.unblocked.at
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrentbit.unblocked.at
+Address: 104.21.6.92
+Name:	torrentbit.unblocked.at
+Address: 172.67.154.215
+Name:	torrentbit.unblocked.at
+Address: 2606:4700:3032::ac43:9ad7
+Name:	torrentbit.unblocked.at
+Address: 2606:4700:3032::6815:65c
+
+889
+torrentbit.unblocked.bet
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrentbit.unblocked.bet
+Address: 104.21.38.221
+Name:	torrentbit.unblocked.bet
+Address: 172.67.139.105
+Name:	torrentbit.unblocked.bet
+Address: 2606:4700:3036::ac43:8b69
+Name:	torrentbit.unblocked.bet
+Address: 2606:4700:3033::6815:26dd
+
+890
+torrentbit.unblocked.cat
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrentbit.unblocked.cat
+Address: 104.21.49.227
+Name:	torrentbit.unblocked.cat
+Address: 172.67.153.3
+Name:	torrentbit.unblocked.cat
+Address: 2606:4700:3037::6815:31e3
+Name:	torrentbit.unblocked.cat
+Address: 2606:4700:3033::ac43:9903
+
+891
+torrentbit.unblocked.live
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrentbit.unblocked.live
+Address: 172.67.164.53
+Name:	torrentbit.unblocked.live
+Address: 104.21.34.195
+Name:	torrentbit.unblocked.live
+Address: 2606:4700:3034::6815:22c3
+Name:	torrentbit.unblocked.live
+Address: 2606:4700:3037::ac43:a435
+
+892
+torrentbit.unblocked.ltd
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+** server can't find torrentbit.unblocked.ltd: NXDOMAIN
+
+893
+torrentbit.unblocked.one
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrentbit.unblocked.one
+Address: 104.21.95.213
+Name:	torrentbit.unblocked.one
+Address: 172.67.148.160
+Name:	torrentbit.unblocked.one
+Address: 2606:4700:3032::6815:5fd5
+Name:	torrentbit.unblocked.one
+Address: 2606:4700:3033::ac43:94a0
+
+894
+torrentbit.unblocked.onl
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrentbit.unblocked.onl
+Address: 172.67.203.219
+Name:	torrentbit.unblocked.onl
+Address: 104.21.85.82
+Name:	torrentbit.unblocked.onl
+Address: 2606:4700:3036::ac43:cbdb
+Name:	torrentbit.unblocked.onl
+Address: 2606:4700:3035::6815:5552
+
+895
+torrentbit.unblocked.run
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrentbit.unblocked.run
+Address: 103.224.182.250
+
+896
+torrentbit.unblocked.tw
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrentbit.unblocked.tw
+Address: 185.53.177.10
+
+897
+torrentbit.unblocked.vip
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrentbit.unblocked.vip
+Address: 104.21.41.196
+Name:	torrentbit.unblocked.vip
+Address: 172.67.166.214
+Name:	torrentbit.unblocked.vip
+Address: 2606:4700:3037::ac43:a6d6
+Name:	torrentbit.unblocked.vip
+Address: 2606:4700:3034::6815:29c4
+
+898
+torrentbit.unblocked.world
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrentbit.unblocked.world
+Address: 185.53.178.52
+
+899
+torrentbit.unblockmy.host
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+Name:	torrentbit.unblockmy.host
+Address: 170.178.168.203
+

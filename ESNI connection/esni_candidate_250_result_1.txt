@@ -1,0 +1,627 @@
+0
+Google.com
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 16:14:25 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+1
+Youtube.com
+HTTP/1.1 301 Moved Permanently
+Content-Type: application/binary
+X-Content-Type-Options: nosniff
+Expires: Mon, 17 May 2021 16:14:26 GMT
+Date: Mon, 17 May 2021 16:14:26 GMT
+Cache-Control: private, max-age=31536000
+Location: https://www.youtube.com/cdn-cgi/trace
+Content-Length: 0
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+permissions-policy: ch-ua-full-version=*, ch-ua-platform=*, ch-ua-platform-version=*, ch-ua-arch=*, ch-ua-model=*
+Server: ESF
+X-XSS-Protection: 0
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+2
+Tmall.com
+HTTP/1.1 302 Found
+Server: Tengine
+Date: Mon, 17 May 2021 16:14:29 GMT
+Content-Type: text/html
+Content-Length: 258
+Connection: keep-alive
+Location: https://www.tmall.com/cdn-cgi/trace
+
+
+3
+Baidu.com
+HTTP/1.1 405 Not Allowed
+Server: bfe/1.0.8.18
+Date: Mon, 17 May 2021 16:14:31 GMT
+Content-Type: text/html
+Content-Length: 173
+Connection: keep-alive
+
+
+4
+Qq.com
+HTTP/1.1 302 Moved Temporarily
+Date: Mon, 17 May 2021 16:14:37 GMT
+Content-Type: text/html
+Content-Length: 161
+Connection: keep-alive
+Server: squid/3.5.24
+Location: https://www.qq.com/cdn-cgi/trace
+
+
+5
+Sohu.com
+HTTP/1.1 307 Temporary Redirect
+Content-Type: text/html
+Content-Length: 180
+Connection: keep-alive
+Server: nginx
+Date: Mon, 17 May 2021 16:14:44 GMT
+Location: https://www.sohu.com/cdn-cgi/trace
+FSS-Cache: from 4033458.6654908.4787162
+FSS-Proxy: Powered by 3378088.5344178.4131782
+FSS-Proxy: Powered by 5903434.9966676.7083656
+FSS-Proxy: Powered by 4658231.7476289.5838434
+
+
+6
+Facebook.com
+HTTP/1.1 301 Moved Permanently
+Location: https://www.facebook.com/cdn-cgi/trace
+Strict-Transport-Security: max-age=15552000; preload
+Content-Type: text/html; charset="utf-8"
+X-FB-Debug: 9HK92M/CUmwWg3PSECSNbFBH+25hNn147/zNkWc8BiWu4/GBXgwdy3ASwhggUkry85fmbgFBBC1Cq3CYxue75Q==
+Date: Mon, 17 May 2021 16:14:45 GMT
+Priority: u=3,i
+Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+Connection: keep-alive
+Content-Length: 0
+
+
+7
+Taobao.com
+HTTP/1.1 302 Found
+Server: Tengine
+Date: Mon, 17 May 2021 16:14:47 GMT
+Content-Type: text/html
+Content-Length: 258
+Connection: keep-alive
+Location: https://www.taobao.com/cdn-cgi/trace
+
+
+8
+360.cn
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 16:14:51 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: http://www.360.cn/cdn-cgi/trace
+
+
+9
+Jd.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 16:14:54 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: https://www.jd.com
+Server: jfe
+Cache-Control: no-cache
+
+
+10
+Amazon.com
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Mon, 17 May 2021 16:14:54 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://www.amazon.com/cdn-cgi/trace
+
+
+11
+Yahoo.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 16:14:56 GMT
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000
+Server: ATS
+Cache-Control: no-store, no-cache
+Content-Type: text/html
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+Expect-CT: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Location: https://www.yahoo.com/
+Content-Length: 8
+
+
+12
+Wikipedia.org
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 03:57:46 GMT
+Server: mw1331.eqiad.wmnet
+Location: https://www.wikipedia.org/cdn-cgi/trace
+Content-Length: 247
+Content-Type: text/html; charset=iso-8859-1
+Vary: X-Forwarded-Proto
+Age: 44231
+X-Cache: cp1085 miss, cp1085 hit/3
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front", host;desc="cp1085"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+Report-To: { "group": "wm_nel", "max_age": 86400, "endpoints": [{ "url": "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi.network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+NEL: { "report_to": "wm_nel", "max_age": 86400, "failure_fraction": 0.05, "success_fraction": 0.0}
+Permissions-Policy: interest-cohort=()
+Set-Cookie: WMF-Last-Access=17-May-2021;Path=/;HttpOnly;secure;Expires=Fri, 18 Jun 2021 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=17-May-2021;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Fri, 18 Jun 2021 12:00:00 GMT
+X-Client-IP: 173.79.208.109
+Set-Cookie: GeoIP=US:VA:Fairfax:38.86:-77.27:v4; Path=/; secure; Domain=.wikipedia.org
+Connection: keep-alive
+
+
+13
+Weibo.com
+HTTP/1.1 302 Found
+Date: Mon, 17 May 2021 16:14:59 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Expires: Sat, 26 Jul 1997 05:00:00 GMT
+Pragma: no-cache
+Cache-Control: no-cache, no-store
+Location: https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2Fcdn-cgi%2Ftrace&domain=.weibo.com&ua=php-sso_sdk_client-0.6.36&_rand=1621268099.2838
+DPOOL_HEADER: mweibo-10-13-113-205.bx.intra.weibo.cn
+LB_NODE: layer7-rpc-002.mweibo.dbl.intra.weibo.cn
+LB_NODE: mapi-bypass-yf-545fc8f4b6-sq94h
+LB: 47.254.92.5
+LB_NODE: layer7-001.mweibo.abroad-usa.intra.weibo.cn
+LB: 47.254.92.5
+
+
+14
+Sina.com.cn
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 16:15:01 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: https://www.sina.com.cn/cdn-cgi/trace
+Cache-Control: max-age=6
+X-Via-SSL: ssl.96.sinag1.bx.lb.sinanode.com
+Edge-Copy-Time: 1621268101682
+Age: 0
+Via: https/1.1 cnc.yizhuang.union.92 (ApacheTrafficServer/6.2.1 [cMs f ])
+X-Cache: MISS.unknown
+X-Via-CDN: f=edge,s=cnc.yizhuang.union.93.nb.sinaedge.com,c=10.39.245.33;f=Edge,s=cnc.yizhuang.union.92,c=172.16.56.93;f=edge,s=cnc.beixian.bsd-storage.235.nb.sinaedge.com,c=10.13.240.96;
+X-Via-Edge: 162126810167821f5270a5d3810ac75cced36
+
+
+15
+Zoom.us
+HTTP/1.1 404
+Date: Mon, 17 May 2021 16:15:02 GMT
+Content-Type: text/html;charset=utf-8
+Content-Length: 43983
+Connection: keep-alive
+x-zm-trackingid: WEB_4049b04d1679412eef0d69b5fae873ee
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us blob: 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: data: 'self'; object-src 'none'; base-uri 'none';script-src 'unsafe-eval' 'unsafe-inline' blob: about: https://ruanshi2.8686c.com https://ajax.aspnetcdn.com/ajax/3.5/MicrosoftAjax.js https://appsforoffice.microsoft.com  https://assets.zendesk.com https://autocomplete.demandbase.com https://cdn.wootric.com https://cdncache-a.akamaihd.net https://connect.facebook.net https://consent.trustarc.com https://d.adroll.mgr.consensu.org https://googleads.g.doubleclick.net https://pi.pardot.com https://s.dcbap.com https://s.ytimg.com https://s3.amazonaws.com https://scout-cdn.salesloft.com https://sealserver.trustwave.com https://secure-cdn.mplxtms.com https://serve2.cheqzone.com https://snap.licdn.com https://sp.analytics.yahoo.com  https://static.zdassets.com https://static2.sharepointonline.com https://tag.demandbase.com https://tpc.googlesyndication.com https://tracking.g2crowd.com https://trk.techtarget.com https://www.comeet.co https://www.dropbox.com https://www.google-analytics.com https://www.googleadservices.com/pagead/conversion_async.js https://www.googletagmanager.com https://optimize.google.com  https://tagmanager.google.com  https://google.com https://docs.google.com https://cse.google.com https://maps.google.com https://www.google.com https://apis.google.com https://linkedin.com https://platform.linkedin.com https://px.ads.linkedin.com https://ads.linkedin.com https://www.youtube.com https://www.gstatic.com https://www.gstatic.cn https://fonts.googleapis.com https://hcaptcha.com https://assets.hcaptcha.com https://newassets.hcaptcha.com https://www.recaptcha.net https://*.ada.support https://*.adroll.com https://*.hotjar.com https://*.zoom.us https://*.zoomcloudpbx.com https://*.zoomus.cn https://*.zoom.com.cn https://*.zoom.cn https://*.zopim.com https://adroll.com https://zoom.us 'self';
+X-FRAME-OPTIONS: SAMEORIGIN
+Set-Cookie: zm_aid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_haid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: web_zak=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: cred=966011A82A1F55CCC1B3F88559358614; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_page_auth=aw1_c_ANjZ-610RaGrxRTG4TpPbQ; Domain=.zoom.us; Path=/; Secure; HttpOnly
+p3p: CP="NOI ADM DEV PSAi COM NAV OUR OTR STP IND DEM"
+Set-Cookie: _zm_ssid=aw1_c_rLg7q1FKRlSJLkNYQpaEPg; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ctaid=_ssy6dPaTUqj2sBKn5Ws6w.1621268102886.2f74d7db0217354f2dd4202cf8f95b2b; Domain=.zoom.us; Expires=Mon, 17-May-2021 18:15:02 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_chtaid=481; Domain=.zoom.us; Expires=Mon, 17-May-2021 18:15:02 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ctaid=QJNStktMSnCe1q3wGLELxw.1621268102890.b55ed546eb33f1bf06c0ca7567591507; Domain=.zoom.us; Expires=Mon, 17-May-2021 18:15:02 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_chtaid=598; Domain=.zoom.us; Expires=Mon, 17-May-2021 18:15:02 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_csp_script_nonce=iqCFFRzcQWeaJe1gphv2RQ; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_currency=USD; Domain=.zoom.us; Expires=Tue, 18-May-2021 16:15:02 GMT; Path=/; Secure
+Set-Cookie: _zm_mtk_guid=61c44ad71a6043dca9b2fcf9ce8bacdc; Domain=.zoom.us; Expires=Wed, 17-May-2023 16:15:02 GMT; Path=/; Secure
+Content-Language: en-US
+
+
+16
+Xinhuanet.com
+
+17
+Live.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://outlook.live.com/owa/
+Server: Microsoft-IIS/10.0
+X-MSEdge-Ref: Ref A: BC05CB30C69447C8BB4A8FE6D2BCC177 Ref B: PHL30EDGE0212 Ref C: 2021-05-17T16:15:47Z
+Date: Mon, 17 May 2021 16:15:47 GMT
+
+
+18
+Reddit.com
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Retry-After: 0
+Location: https://www.reddit.com/cdn-cgi/trace
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 16:15:48 GMT
+Via: 1.1 varnish
+Cache-Control: private, max-age=3600
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Server: snooserv
+
+
+19
+Netflix.com
+HTTP/1.1 403 Forbidden
+transfer-encoding: chunked
+
+
+20
+Microsoft.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 16:15:51 GMT
+Server: Kestrel
+Location: https://www.microsoft.com/cdn-cgi/trace
+
+
+21
+Panda.tv
+HTTP/1.1 404 Not Found
+Connection: keep-alive
+Content-Length: 9339
+Server: GitHub.com
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Origin: *
+ETag: "5f99a0e5-247b"
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'
+x-proxy-cache: MISS
+X-GitHub-Request-Id: EDD8:1528:37AA4A:7FC50F:60A296B9
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 16:15:53 GMT
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-wdc5549-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1621268153.207401,VS0,VE6
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 428a6a2f5cd9ac4fb801f70664609b1e43498f33
+
+
+22
+Instagram.com
+HTTP/1.1 400 Bad Request
+Content-Type: text/plain
+Server: proxygen-bolt
+Date: Mon, 17 May 2021 16:15:54 GMT
+Connection: keep-alive
+Content-Length: 0
+
+
+23
+Office.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://www.office.com/cdn-cgi/trace
+Server: Microsoft-IIS/10.0
+X-MSEdge-Ref: Ref A: AFC4094C1EC6483E80442E36072A0A87 Ref B: BL2EDGE1916 Ref C: 2021-05-17T16:15:55Z
+Date: Mon, 17 May 2021 16:15:54 GMT
+
+
+24
+Zhanqi.tv
+HTTP/1.1 302 Moved Temporarily
+Server: nginx/1.6.3
+Date: Mon, 17 May 2021 16:15:57 GMT
+Content-Type: text/html
+Content-Length: 160
+Connection: keep-alive
+Location: https://www.zhanqi.tv/cdn-cgi/trace
+
+
+25
+Alipay.com
+
+26
+Google.com.hk
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 16:16:42 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+27
+Csdn.net
+HTTP/1.1 301 Moved Permanently
+Server: openresty
+Date: Mon, 17 May 2021 16:16:44 GMT
+Content-Type: text/html
+Content-Length: 182
+Connection: keep-alive
+Keep-Alive: timeout=20
+Location: https://www.csdn.net/cdn-cgi/trace
+
+
+28
+Vk.com
+HTTP/1.1 418
+Server: kittenx
+Date: Mon, 17 May 2021 16:16:46 GMT
+Content-Length: 0
+Connection: keep-alive
+X-Frontend: front512005
+Access-Control-Expose-Headers: X-Frontend
+
+
+29
+Myshopify.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 16:16:47 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650e26fa29e35e8a-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+30
+Bing.com
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Content-Length: 206
+Content-Type: text/html; charset=utf-8
+Location: https://www.bing.com:443/cdn-cgi/trace?toWww=1&redig=3EAAF1FD545C434DBC56C6A16FADE4A8
+Set-Cookie: MUID=39A3A14CCFF36E8931A4B176CEF46F6D; domain=bing.com; expires=Sat, 11-Jun-2022 16:16:48 GMT; path=/; secure; SameSite=None
+Set-Cookie: MUIDB=39A3A14CCFF36E8931A4B176CEF46F6D; expires=Sat, 11-Jun-2022 16:16:48 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=F=1&SID=3B8BBE72796D61592276AE48786A60A6; domain=bing.com; path=/; HttpOnly
+Set-Cookie: _EDGE_V=1; domain=bing.com; expires=Sat, 11-Jun-2022 16:16:48 GMT; path=/; HttpOnly
+X-SNR-Routing: 1
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 2DB3EE2A521B422DA22FB14C256CDD3B Ref B: BL2EDGE1711 Ref C: 2021-05-17T16:16:48Z
+Date: Mon, 17 May 2021 16:16:48 GMT
+
+
+31
+Microsoftonline.com
+
+32
+Yahoo.co.jp
+HTTP/1.1 200 OK
+Content-Length: 0
+Content-Type: text/html; charset=utf-8
+Date: Mon, 17 May 2021 16:16:51 GMT
+Etag: W/"0-2jmj7l5rSw0yVb/vlWAYkK/YBwk"
+Vary: Accept-Encoding
+X-Vcap-Request-Id: 5b6a85d1-d9f8-4541-4dfc-6c745a772479
+X-Xss-Protection: 1; mode=block
+Age: 0
+Connection: keep-alive
+
+
+33
+Okezone.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 16:16:52 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650e271b188859d4-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+34
+Twitch.tv
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.twitch.tv/cdn-cgi/trace
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 16:16:54 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5522-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+Strict-Transport-Security: max-age=31557600
+
+
+35
+Naver.com
+HTTP/1.1 301 Moved Permanently
+Server: NWS
+Date: Mon, 17 May 2021 16:16:55 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: http://www.naver.com/cdn-cgi/trace
+Vary: Accept-Encoding,User-Agent
+Referrer-Policy: unsafe-url
+
+
+36
+Bongacams.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 16:16:57 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650e27356de75cd7-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+37
+Twitter.com
+HTTP/1.1 200 OK
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+content-length: 0
+content-security-policy: connect-src 'self' blob: https://*.giphy.com https://*.pscp.tv https://*.video.pscp.tv https://*.twimg.com https://api.twitter.com https://api-stream.twitter.com https://ads-api.twitter.com https://aa.twitter.com https://caps.twitter.com https://media.riffsy.com https://pay.twitter.com https://sentry.io https://ton.twitter.com https://twitter.com https://upload.twitter.com https://www.google-analytics.com https://app.link https://api2.branch.io https://bnc.lt https://vmap.snappytv.com https://vmapstage.snappytv.com https://vmaprel.snappytv.com https://vmap.grabyo.com https://dhdsnappytv-vh.akamaihd.net https://pdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mpdhdsnappytv-vh.akamaihd.net https://mmdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mpdhdsnappytv-vh.akamaihd.net https://mmdhdsnappytv-vh.akamaihd.net https://dwo3ckksxlb0v.cloudfront.net ; default-src 'self'; form-action 'self' https://twitter.com https://*.twitter.com; font-src 'self' https://*.twimg.com; frame-src 'self' https://twitter.com https://mobile.twitter.com https://pay.twitter.com https://cards-frame.twitter.com ; img-src 'self' blob: data: https://*.cdn.twitter.com https://ton.twitter.com https://*.twimg.com https://analytics.twitter.com https://cm.g.doubleclick.net https://www.google-analytics.com https://www.periscope.tv https://www.pscp.tv https://media.riffsy.com https://*.giphy.com https://*.pscp.tv https://*.periscope.tv https://prod-periscope-profile.s3-us-west-2.amazonaws.com https://platform-lookaside.fbsbx.com https://scontent.xx.fbcdn.net https://scontent-sea1-1.xx.fbcdn.net https://*.googleusercontent.com; manifest-src 'self'; media-src 'self' blob: https://twitter.com https://*.twimg.com https://*.vine.co https://*.pscp.tv https://*.video.pscp.tv https://*.giphy.com https://media.riffsy.com https://dhdsnappytv-vh.akamaihd.net https://pdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mpdhdsnappytv-vh.akamaihd.net https://mmdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mpdhdsnappytv-vh.akamaihd.net https://mmdhdsnappytv-vh.akamaihd.net https://dwo3ckksxlb0v.cloudfront.net; object-src 'none'; script-src 'self' 'unsafe-inline' https://*.twimg.com   https://www.google-analytics.com https://twitter.com https://app.link  'nonce-NjE5YzU3ZmMtNDZiYy00OTRlLWI1NWMtZGUyZjhjYWVmNWEz'; style-src 'self' 'unsafe-inline' https://*.twimg.com; worker-src 'self' blob:; report-uri https://twitter.com/i/csp_report?a=O5RXE%3D%3D%3D&ro=false
+content-type: text/html; charset=utf-8
+cross-origin-opener-policy: same-origin
+date: Mon, 17 May 2021 16:16:58 GMT
+expiry: Tue, 31 Mar 1981 05:00:00 GMT
+last-modified: Mon, 17 May 2021 16:16:58 GMT
+pragma: no-cache
+server: tsa_b
+set-cookie: personalization_id="v1_orggN9iIj1bwGqqXoKgBhA=="; Max-Age=63072000; Expires=Wed, 17 May 2023 16:16:58 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+set-cookie: guest_id=v1%3A162126821842194212; Max-Age=63072000; Expires=Wed, 17 May 2023 16:16:58 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+strict-transport-security: max-age=631138519
+x-connection-hash: 82fda0cb42d305bfd5cd391132e86f10
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-powered-by: Express
+x-response-time: 62
+x-xss-protection: 0
+
+
+38
+Ebay.com
+HTTP/1.1 301 Moved Permanently
+Location: https://www.Ebay.com/cdn-cgi/trace
+
+
+39
+Adobe.com
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.adobe.com/cdn-cgi/trace
+Date: Mon, 17 May 2021 16:17:01 GMT
+Connection: keep-alive
+Strict-Transport-Security: max-age=86400
+
+
+40
+Tianya.cn
+HTTP/1.1 301 Moved Permanently
+Content-length: 0
+Location: http://www.tianya.cn
+Connection: close
+
+
+41
+Amazon.in
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Mon, 17 May 2021 16:17:04 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://www.amazon.in/cdn-cgi/trace
+
+
+42
+Huanqiu.com
+
+43
+Yy.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 16:17:08 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: https://www.yy.com/cdn-cgi/trace
+P3P: CP=CAO PSA OUR
+Access-Control-Allow-Headers: X-Requested-With
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET,POST
+
+
+44
+Aliexpress.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 16:17:10 GMT
+Content-Type: text/html
+Content-Length: 278
+Connection: keep-alive
+Set-Cookie: ali_apache_id=33.0.189.240.1621268230292.234521.8; path=/; domain=.aliexpress.com; expires=Wed, 30-Nov-2084 01:01:01 GMT
+Location: https://www.aliexpress.com/cdn-cgi/trace
+Server: Tengine/Aserver
+EagleEye-TraceId: 2100bdf016212682302928210e3031
+Strict-Transport-Security: max-age=0
+Timing-Allow-Origin: *
+
+
+45
+Amazon.co.jp
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Mon, 17 May 2021 16:17:11 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://www.amazon.co.jp/cdn-cgi/trace
+
+
+46
+Apple.com
+HTTP/1.1 301 Redirect
+Date: Mon, 17 May 2021 16:17:12 GMT
+Connection: keep-alive
+Via: http/1.1 usqas2-edge-bx-015.ts.apple.com (ApacheTrafficServer/8.1.2)
+Server: ATS/8.1.2
+Cache-Control: no-store
+Location: https://www.apple.com/cdn-cgi/trace
+Content-Type: text/html
+Content-Language: en
+CDNUUID: 32fbad38-408f-47f0-aaea-9c84734a5f8e-14168252600
+X-Cache: none
+Content-Length: 317
+
+
+47
+Canva.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 16:17:14 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650e279f3988c1c0-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+48
+Aparat.com
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://www.aparat.com/cdn-cgi/trace
+
+
+49
+17ok.com
+

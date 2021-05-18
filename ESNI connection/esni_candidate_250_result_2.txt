@@ -1,0 +1,664 @@
+0
+naver.com
+HTTP/1.1 301 Moved Permanently
+Server: NWS
+Date: Mon, 17 May 2021 04:47:41 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: http://www.naver.com/cdn-cgi/trace
+Vary: Accept-Encoding,User-Agent
+Referrer-Policy: unsafe-url
+
+
+1
+ebay.com
+HTTP/1.1 301 Moved Permanently
+Location: https://www.ebay.com/cdn-cgi/trace
+
+
+2
+chaturbate.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 04:47:44 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650a359e1ab25b3a-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+3
+adobe.com
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.adobe.com/cdn-cgi/trace
+Date: Mon, 17 May 2021 04:47:45 GMT
+Connection: keep-alive
+Strict-Transport-Security: max-age=86400
+
+
+4
+force.com
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.force.com/cdn-cgi/trace
+Expires: Mon, 17 May 2021 04:47:46 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 17 May 2021 04:47:46 GMT
+Connection: keep-alive
+
+
+5
+twitter.com
+HTTP/1.1 200 OK
+cache-control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+content-length: 0
+content-security-policy: connect-src 'self' blob: https://*.giphy.com https://*.pscp.tv https://*.video.pscp.tv https://*.twimg.com https://api.twitter.com https://api-stream.twitter.com https://ads-api.twitter.com https://aa.twitter.com https://caps.twitter.com https://media.riffsy.com https://pay.twitter.com https://sentry.io https://ton.twitter.com https://twitter.com https://upload.twitter.com https://www.google-analytics.com https://app.link https://api2.branch.io https://bnc.lt https://vmap.snappytv.com https://vmapstage.snappytv.com https://vmaprel.snappytv.com https://vmap.grabyo.com https://dhdsnappytv-vh.akamaihd.net https://pdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mpdhdsnappytv-vh.akamaihd.net https://mmdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mpdhdsnappytv-vh.akamaihd.net https://mmdhdsnappytv-vh.akamaihd.net https://dwo3ckksxlb0v.cloudfront.net ; default-src 'self'; form-action 'self' https://twitter.com https://*.twitter.com; font-src 'self' https://*.twimg.com; frame-src 'self' https://twitter.com https://mobile.twitter.com https://pay.twitter.com https://cards-frame.twitter.com ; img-src 'self' blob: data: https://*.cdn.twitter.com https://ton.twitter.com https://*.twimg.com https://analytics.twitter.com https://cm.g.doubleclick.net https://www.google-analytics.com https://www.periscope.tv https://www.pscp.tv https://media.riffsy.com https://*.giphy.com https://*.pscp.tv https://*.periscope.tv https://prod-periscope-profile.s3-us-west-2.amazonaws.com https://platform-lookaside.fbsbx.com https://scontent.xx.fbcdn.net https://scontent-sea1-1.xx.fbcdn.net https://*.googleusercontent.com; manifest-src 'self'; media-src 'self' blob: https://twitter.com https://*.twimg.com https://*.vine.co https://*.pscp.tv https://*.video.pscp.tv https://*.giphy.com https://media.riffsy.com https://dhdsnappytv-vh.akamaihd.net https://pdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mpdhdsnappytv-vh.akamaihd.net https://mmdhdsnappytv-vh.akamaihd.net https://mdhdsnappytv-vh.akamaihd.net https://mpdhdsnappytv-vh.akamaihd.net https://mmdhdsnappytv-vh.akamaihd.net https://dwo3ckksxlb0v.cloudfront.net; object-src 'none'; script-src 'self' 'unsafe-inline' https://*.twimg.com   https://www.google-analytics.com https://twitter.com https://app.link  'nonce-ZjdlMzliNjktODA3Zi00NjJhLTljZjQtOGZiZjJjYWIwMmNi'; style-src 'self' 'unsafe-inline' https://*.twimg.com; worker-src 'self' blob:; report-uri https://twitter.com/i/csp_report?a=O5RXE%3D%3D%3D&ro=false
+content-type: text/html; charset=utf-8
+cross-origin-opener-policy: same-origin
+date: Mon, 17 May 2021 04:47:47 GMT
+expiry: Tue, 31 Mar 1981 05:00:00 GMT
+last-modified: Mon, 17 May 2021 04:47:47 GMT
+pragma: no-cache
+server: tsa_b
+set-cookie: personalization_id="v1_ibieFSzYQvdtq3Nns1WDnw=="; Max-Age=63072000; Expires=Wed, 17 May 2023 04:47:47 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+set-cookie: guest_id=v1%3A162122686778390875; Max-Age=63072000; Expires=Wed, 17 May 2023 04:47:47 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+strict-transport-security: max-age=631138519
+x-connection-hash: dcf3492724b44e57be86a96cb74fc4a3
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-powered-by: Express
+x-response-time: 72
+x-xss-protection: 0
+
+
+6
+msn.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 156
+Content-Type: text/html; charset=UTF-8
+Location: https://www.msn.com/cdn-cgi/trace
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Date: Mon, 17 May 2021 04:47:49 GMT
+
+
+7
+ok.ru
+HTTP/1.1 404 Not Found
+Server: Apache
+Date: Mon, 17 May 2021 04:47:50 GMT
+Content-Length: 9594
+Connection: keep-alive
+Set-Cookie: bci=-5472075431396529613; Domain=.ok.ru; Expires=Sat, 04-Jun-2089 08:01:57 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _statid=6619cb8c-3a3f-4931-80c7-1ef2adcc963c; Domain=.ok.ru; Expires=Sat, 04-Jun-2089 08:01:57 GMT; Path=/; Secure; HttpOnly
+
+
+8
+detik.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:47:52 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: keep-alive
+Keep-Alive: timeout=10
+Location: https://www.detik.com/cdn-cgi/trace
+Server: dtk12
+X-Content-Type-Options: nosniff
+X-XSS-Protection: '1;mode=block'
+Access-Control-Allow-Origin: *
+
+
+9
+mail.ru
+HTTP/1.1 302 Found
+Server: nginx/1.14.1
+Date: Mon, 17 May 2021 04:47:54 GMT
+Content-Type: text/html
+Content-Length: 37
+Connection: keep-alive
+Location: https://mail.ru
+Set-Cookie: mrcu=903860A1F57A07A394486DD04FAD; expires=Thu, 15 May 2031 04:47:54 GMT; path=/; domain=.mail.ru; Secure; HttpOnly; SameSite=None
+X-Mru-Request-Id: b1642148
+Cache-Control: no-cache,no-store,must-revalidate
+Pragma: no-cache
+Expires: Sun, 17 May 2020 04:47:54 GMT
+Last-Modified: Mon, 17 May 2021 07:47:54 GMT
+X-XSS-Protection: 1; mode=block; report=https://cspreport.mail.ru/xxssprotection
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Host: lf6.m.smailru.net
+X-ETime: 0.001
+Content-Security-Policy-Report-Only: default-src *.adlooxtracking.com *.adsafeprotected.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.com mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz strm.yandex.ru yandex.ru yandex.st yastat.net yastatic.net; script-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleclick.net *.doubleverify.com *.dvtps.com *.googleapis.com *.googleadservices.com *.googlesyndication.com *.googletagservices.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.odnoklassniki.ru *.serving-sys.com *.vk.com an.yandex.ru cdn.ampproject.org cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org mail.ru mc.yandex.by mc.yandex.com mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandex.ru yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; connect-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com *.vk.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.com mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru strm.yandex.ru vk.com yandex.ru yandex.st yastat.net yastatic.net pagead2.googlesyndication.com; img-src data: blob: *; media-src *.imgsmail.ru *.mail.ru *.mradx.net *.ok.ru *.strm.yandex.ru *.vk.com *.yandex.net coub-anubis-a.akamaized.net data: mail.ru ok.ru strm.yandex.ru vk.com yandex.ru yandex.st yastat.net yastatic.net; style-src *.imgsmail.ru *.mail.ru *.mradx.net blob: cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; font-src *.imgsmail.ru *.mail.ru *.mradx.net an.yandex.ru blob: data: https: yastat.net yastatic.net 'self'; frame-src *.criteo.com *.doubleclick.net *.doubleverify.com *.mail.ru *.mradx.net *.ok.ru *.vk.com *.yandex.ru *.yandexadexchange.net awaps.yandex.net mail.ru mc.yandex.by mc.yandex.com mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandexadexchange.net yastat.net yastatic.net tpc.googlesyndication.com; report-uri https://cspreport.mail.ru/splash?v=14.05.21;
+Content-Security-Policy: default-src *.adlooxtracking.com *.adsafeprotected.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.com mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz strm.yandex.ru yandex.ru yandex.st yastat.net yastatic.net; script-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleclick.net *.doubleverify.com *.dvtps.com *.googleapis.com *.googleadservices.com *.googlesyndication.com *.googletagservices.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.odnoklassniki.ru *.serving-sys.com *.vk.com an.yandex.ru cdn.ampproject.org cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org mail.ru mc.yandex.by mc.yandex.com mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandex.ru yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; connect-src *.adlooxtracking.com *.adsafeprotected.com *.criteo.com *.doubleverify.com *.imgsmail.ru *.mail.ru *.moatads.com *.mradx.net *.serving-sys.com *.vk.com an.yandex.ru cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org jstracer.yandex.ru mail.ru mc.yandex.by mc.yandex.com mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru strm.yandex.ru vk.com yandex.ru yandex.st yastat.net yastatic.net pagead2.googlesyndication.com; img-src data: blob: *; media-src *.imgsmail.ru *.mail.ru *.mradx.net *.ok.ru *.strm.yandex.ru *.vk.com *.yandex.net coub-anubis-a.akamaized.net data: mail.ru ok.ru strm.yandex.ru vk.com yandex.ru yandex.st yastat.net yastatic.net; style-src *.imgsmail.ru *.mail.ru *.mradx.net blob: cdn.consentmanager.mgr.consensu.org consentmanager.mgr.consensu.org yandex.st yastat.net yastatic.net 'unsafe-eval' 'unsafe-inline'; font-src *.imgsmail.ru *.mail.ru *.mradx.net an.yandex.ru blob: data: https: yastat.net yastatic.net 'self'; frame-src *.criteo.com *.doubleclick.net *.doubleverify.com *.mail.ru *.mradx.net *.ok.ru *.vk.com *.yandex.ru *.yandexadexchange.net awaps.yandex.net mail.ru mc.yandex.by mc.yandex.com mc.yandex.fr mc.yandex.kz mc.yandex.md mc.yandex.ru mc.yandex.ua mc.yandex.uz ok.ru vk.com yandexadexchange.net yastat.net yastatic.net tpc.googlesyndication.com; report-uri https://cspreport.mail.ru/splash?v=14.05.21;
+Strict-Transport-Security: max-age=16070400
+
+
+10
+wordpress.com
+HTTP/1.1 404 Not Found
+Server: nginx
+Date: Mon, 17 May 2021 04:47:56 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Cookie
+X-hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+Host-Header: WordPress.com
+X-Frame-Options: SAMEORIGIN
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+X-ac: 1.dca _dca
+Strict-Transport-Security: max-age=15552000; preload
+
+
+11
+whatsapp.com
+HTTP/1.1 302 Found
+Location: https://www.whatsapp.com/cdn-cgi/trace
+Strict-Transport-Security: max-age=31536000; preload; includeSubDomains
+Content-Type: text/plain
+Server: proxygen-bolt
+X-FB-TRIP-ID: 1679558926
+Date: Mon, 17 May 2021 04:47:57 GMT
+Alt-Svc: h3-29=":443"; ma=3600,h3-27=":443"; ma=3600
+Connection: keep-alive
+Content-Length: 0
+
+
+12
+dropbox.com
+HTTP/1.1 301 Moved Permanently
+Location: https://www.dropbox.com/cdn-cgi/trace
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cache-Control: no-cache, no-store
+Vary: Accept-Encoding
+X-Dropbox-Response-Origin: local
+Date: Mon, 17 May 2021 04:47:57 GMT
+Server: envoy
+X-Dropbox-Request-Id: 67fab21a2a134ea18c3c6d27657e0344
+Transfer-Encoding: chunked
+
+
+13
+yandex.ru
+HTTP/1.1 404 Not Found
+Accept-CH: Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT
+Accept-CH-Lifetime: 31536000
+Cache-Control: no-cache,no-store,max-age=0,must-revalidate
+Content-Length: 16003
+Content-Security-Policy-Report-Only: connect-src https://mc.admetrica.ru https://mc.yandex.ru https://yandex.ru;default-src 'none';frame-src https://mc.yandex.md https://mc.yandex.ru;img-src 'self' data: https://*.verify.yandex.ru https://avatars.mds.yandex.net https://awaps.yandex.net https://favicon.yandex.net https://mc.admetrica.ru https://mc.yandex.com https://mc.yandex.ru https://yandex.ru https://yastatic.net;report-uri https://csp.yandex.net/csp?project=morda&from=morda.intercept404.ru&showid=1621226879.92235.95185.980319&h=stable-morda-any-man-yp-5&csp=new&date=20210517&yandexuid=1931395591621226879;script-src 'unsafe-inline' https://awaps.yandex.ru https://mc.yandex.ru https://yandex.ru https://yastatic.net;style-src 'unsafe-inline' https://yastatic.net
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 17 May 2021 04:47:59 GMT
+Expires: Mon, 17 May 2021 04:48:00 GMT
+Last-Modified: Mon, 17 May 2021 04:48:00 GMT
+NEL: {"report_to": "network-errors", "max_age": 86400, "success_fraction": 0.001, "failure_fraction": 0.1}
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Report-To: { "group": "network-errors", "max_age": 86400, "endpoints": [ { "url": "https://dr.yandex.net/nel"}]}
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+set-cookie: is_gdpr_b=CO2OPxD3LigC; Path=/; Domain=.yandex.ru; Expires=Wed, 17 May 2023 04:47:59 GMT
+set-cookie: is_gdpr=0; Path=/; Domain=.yandex.ru; Expires=Wed, 17 May 2023 04:47:59 GMT
+set-cookie: is_gdpr_b=CO2OPxD3Lg==; Path=/; Domain=.yandex.ru; Expires=Wed, 17 May 2023 04:47:59 GMT
+set-cookie: i=A0qjkTojNdUyJgKfOULxVvGVYQCzUOvyLhM1L3dgU3Fd47aGpw9aYyfiSK99uTimI24pBNckuTPSiGHL3qbxvm8gpxA=; Expires=Wed, 17-May-2023 04:47:59 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly
+
+
+14
+aparat.com
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://www.aparat.com/cdn-cgi/trace
+
+
+15
+kompas.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:48:03 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Server: nginx
+Location: https://www.kompas.com/cdn-cgi/trace
+
+
+16
+sogou.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 04:48:06 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: http://www.sogou.com/cdn-cgi/trace
+
+
+17
+yy.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 04:48:08 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: https://www.yy.com/cdn-cgi/trace
+P3P: CP=CAO PSA OUR
+Access-Control-Allow-Headers: X-Requested-With
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET,POST
+
+
+18
+imgur.com
+HTTP/1.1 404 Not Found
+Connection: keep-alive
+Content-Length: 0
+Content-Type: text/html; charset=utf-8
+Cache-Control: max-age=60, stale-while-revalidate=600, stale-if-error=86400, public
+Content-Security-Policy: upgrade-insecure-requests
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 04:48:09 GMT
+Age: 0
+X-Served-By: cache-bwi5127-BWI, cache-ewr18142-EWR
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1621226890.589033,VS0,VE12
+Vary: Accept-Encoding
+Server: cat factory 1.0
+Strict-Transport-Security: max-age=300
+X-Frame-Options: DENY
+Access-Control-Allow-Origin: https://imgur.com
+Access-Control-Allow-Credentials: false
+
+
+19
+linkedin.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://www.linkedin.com/cdn-cgi/trace
+X-Li-Pop: afd-prod-ltx1
+X-LI-Proto: http/1.1
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 43946E662F804691B5421323918324B8 Ref B: BL2EDGE1607 Ref C: 2021-05-17T04:48:10Z
+Date: Mon, 17 May 2021 04:48:10 GMT
+
+
+20
+grid.id
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Mon, 17 May 2021 04:48:12 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.grid.id:443/cdn-cgi/trace
+
+
+21
+google.com.br
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 04:48:14 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+22
+pornhub.com
+HTTP/1.1 301 Moved Permanently
+server: openresty
+date: Mon, 17 May 2021 04:48:15 GMT
+content-type: text/html
+content-length: 166
+location: https://www.pornhub.com/cdn-cgi/trace
+x-frame-options: SAMEORIGIN
+rating: RTA-5042-1996-1400-1577-RTA
+x-request-id: 60A1F58F-42FE722901BB14EF-38B78137
+
+
+23
+detail.tmall.com
+HTTP/1.1 302 Found
+Server: Tengine
+Date: Mon, 17 May 2021 04:48:17 GMT
+Content-Type: text/html
+Content-Length: 242
+Connection: keep-alive
+at_bucketid: sbucket_-1
+X-Bucket-Id: -1
+Location: https://login.taobao.com/jump?target=https%3a%2f%2fdetail.tmall.com%2fcdn-cgi%2ftrace%3ftbpm%3d1
+Via: cache13.cn785[,0]
+Timing-Allow-Origin: *
+EagleId: 3d9bde2116212268977942730e
+
+
+24
+instructure.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 04:48:19 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: close
+Location: https://www.instructure.com/cdn-cgi/trace
+Cache-Control: max-age=3600
+
+
+25
+google.co.jp
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 04:48:20 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+26
+huanqiu.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:48:21 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://www.huanqiu.com/cdn-cgi/trace
+Server: openresty+
+Req-ID: 0000b00000cc32c3dca83499
+
+
+27
+imdb.com
+HTTP/1.1 302 Found
+Server: Server
+Date: Mon, 17 May 2021 04:48:22 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Location: https://www.imdb.com/cdn-cgi/trace
+
+
+28
+amazonaws.com
+
+29
+worldometers.info
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 04:48:33 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650a36cfef6c5cef-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+30
+amazon.in
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Mon, 17 May 2021 04:48:34 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://www.amazon.in/cdn-cgi/trace
+
+
+31
+17ok.com
+
+32
+rakuten.co.jp
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:48:42 GMT
+Server: Apache
+Location: https://www.rakuten.co.jp/cdn-cgi/trace
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+33
+udemy.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 04:48:43 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650a3711589c5dce-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+34
+bilibili.com
+HTTP/1.1 301 Moved Permanently
+Server: Tengine
+Date: Mon, 17 May 2021 04:49:07 GMT
+Content-Type: text/html
+Content-Length: 239
+Connection: keep-alive
+Location: https://www.bilibili.com/cdn-cgi/trace
+
+
+35
+padlet.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 04:49:09 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650a37b04b52cf58-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+36
+jrj.com.cn
+
+37
+ettoday.net
+HTTP/1.0 301 Moved Permanently
+Location: https://www.ettoday.net/cdn-cgi/trace
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+38
+bbc.com
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 04:49:35 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5533-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1621226975.225471,VS0,VE0
+nel: {'report_to':'default','max_age': 2592000,'include_subdomains':true,'failure_fraction':0.05}
+report-to: {'group':'default','max_age':2592000,'endpoints':[ {'url':'https://europe-west1-bbc-otg-traf-mgr-bq-prod-4591.cloudfunctions.net/report-endpoint','priority':1} ],'include_subdomains':true}
+req-svc-chain: FASTLY
+Strict-Transport-Security: max-age= 2592000
+cache-control: public,max-age=604800,stale-while-revalidate=3600,stale-if-error=3600
+Location: https://www.bbc.com/cdn-cgi/trace
+
+
+39
+cnn.com
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Cache-Control: public, max-age=600
+Location: https://www.cnn.com/cdn-cgi/trace
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 04:49:36 GMT
+Via: 1.1 varnish
+Set-Cookie: countryCode=US; Domain=.cnn.com; Path=/; SameSite=Lax
+Set-Cookie: stateCode=VA; Domain=.cnn.com; Path=/; SameSite=Lax
+Set-Cookie: geoData=falls church|VA|22042|US|NA|-400|broadband|38.860|-77.200; Domain=.cnn.com; Path=/; SameSite=Lax
+X-Served-By: cache-wdc5537-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+
+
+40
+spotify.com
+HTTP/1.1 301 Moved Permanently
+location: https://www.spotify.com/cdn-cgi/trace
+strict-transport-security: max-age=31536000
+x-content-type-options: nosniff
+date: Mon, 17 May 2021 04:49:37 GMT
+server: envoy
+Via: HTTP/2 edgeproxy, 1.1 google
+Transfer-Encoding: chunked
+Alt-Svc: clear
+
+
+41
+alibaba.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:49:39 GMT
+Content-Type: text/html
+Content-Length: 278
+Connection: keep-alive
+Server: Tengine
+Set-Cookie: ali_apache_id=11.227.118.23.1621226979334.482169.2; path=/; domain=.alibaba.com; expires=Wed, 30-Nov-2084 01:01:01 GMT
+Location: https://www.alibaba.com/cdn-cgi/trace?__redirected__=1
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+EagleId: 0be3761716212269793328674e9bea
+server-timing: rt;dur=0.002,eagleid;desc=0be3761716212269793328674e9bea
+
+
+42
+fandom.com
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.fandom.com/cdn-cgi/trace
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 04:49:40 GMT
+X-Served-By: cache-wdc5575-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1621226981.545681,VS0,VE0
+Vary: Accept-Encoding
+
+
+43
+nytimes.com
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.nytimes.com/cdn-cgi/trace
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 04:49:41 GMT
+X-Served-By: cache-wdc5524-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+Set-Cookie: nyt-gdpr=0; Expires=Mon, 17 May 2021 10:49:41 GMT; Path=/; Domain=.nytimes.com
+x-gdpr: 0
+X-Frame-Options: DENY
+onion-location: https://www.nytimes3xbfgragh.onion/cdn-cgi/trace
+X-API-Version: F-0
+Content-Security-Policy: upgrade-insecure-requests; default-src data: 'unsafe-inline' 'unsafe-eval' https:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob:; style-src data: 'unsafe-inline' https:; img-src data: https: blob:; font-src data: https:; connect-src https: wss: blob:; media-src data: https: blob:; object-src https:; child-src https: data: blob:; form-action https:; report-uri https://csp.nytimes.com/report;
+Strict-Transport-Security: max-age=63072000; preload
+
+
+44
+google.fr
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 04:49:42 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+45
+1688.com
+HTTP/1.1 302 Found
+Server: Tengine
+Date: Mon, 17 May 2021 04:49:45 GMT
+Content-Type: text/html
+Content-Length: 258
+Connection: keep-alive
+Location: https://www.1688.com/cdn-cgi/trace
+
+
+46
+freepik.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 04:49:46 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.freepik.com/cdn-cgi/trace
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+
+47
+bbc.co.uk
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 04:49:47 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5548-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1621226988.673787,VS0,VE0
+nel: {'report_to':'default','max_age': 2592000,'include_subdomains':true,'failure_fraction':0.05}
+report-to: {'group':'default','max_age':2592000,'endpoints':[ {'url':'https://europe-west1-bbc-otg-traf-mgr-bq-prod-4591.cloudfunctions.net/report-endpoint','priority':1} ],'include_subdomains':true}
+req-svc-chain: FASTLY
+Strict-Transport-Security: max-age= 2592000
+cache-control: public,max-age=604800,stale-while-revalidate=3600,stale-if-error=3600
+Location: https://www.bbc.co.uk/cdn-cgi/trace
+
+
+48
+roblox.com
+HTTP/1.1 308 Permanent Redirect
+content-length: 0
+location: https://www.roblox.com/cdn-cgi/trace
+
+
+49
+google.de
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 04:49:49 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+

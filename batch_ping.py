@@ -25,7 +25,7 @@ def ping_ip(result):
 	while not Name_QUEUE.empty():
 		name = Name_QUEUE.get()
 		# res = subprocess.call('ping -n 3 -w 100 %s' % ip,stdout=subprocess.PIPE)  # linux 系统将 '-n' 替换成 '-c'
-		p = subprocess.Popen('ping -n 2 %s' % name, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+		p = subprocess.Popen('ping -n 2 %s' % name, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 		pingStatus = 'ok'
 		for line in p.stdout:
 			output = line.rstrip().decode('UTF-8')

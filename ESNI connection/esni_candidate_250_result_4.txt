@@ -1,0 +1,631 @@
+0
+google.com.sg
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 05:03:14 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+1
+uribank.ca
+
+2
+so.com
+HTTP/1.1 302 Moved Temporarily
+Server: openresty/1.15.8.3
+Date: Mon, 17 May 2021 05:04:00 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: https://www.so.com/cdn-cgi/trace
+Set-Cookie: QiHooGUID=; Max-Age=63072000; Domain=so.com; Path=/
+
+
+3
+vimeo.com
+HTTP/1.1 404 Not Found
+Connection: keep-alive
+Content-Length: 174353
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Expires: Sun, 16 May 2021 17:04:01 GMT
+X-Frame-Options: sameorigin
+X-BApp-Server: pweb-v10536-zmrvz
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+X-Varnish-Cache: 0
+X-VServer: infra-webproxy-a-4
+X-Vimeo-DC: ge
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 05:04:01 GMT
+Age: 0
+X-Served-By: cache-bwi5173-BWI, cache-wdc5541-WDC
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1621227841.462618,VS0,VE74
+Vary: Accept-Encoding
+
+
+4
+mediafire.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 05:04:02 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650a4d808f605b89-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+5
+tokopedia.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 05:04:04 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Location: https://www.tokopedia.com/cdn-cgi/trace
+Strict-Transport-Security: max-age=0
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Origin: https://www.tokopedia.com
+Access-Control-Allow-Credentials: true
+
+
+6
+tradingview.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 05:04:06 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.tradingview.com/cdn-cgi/trace
+Server: tv
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+
+
+7
+163.com
+
+8
+washingtonpost.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Mon, 17 May 2021 05:04:51 GMT
+Location: https://www.washingtonpost.com/cdn-cgi/trace
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 cde8060bf7a12c2736a86c5f19473b61.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C1
+X-Amz-Cf-Id: MghJ-laWCIhgHMYCTgy8nnBe2mZXQjDYAJmCgbHO2NVL-J4vNctKUQ==
+
+
+9
+wikihow.com
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Retry-After: 0
+Location: https://www.wikihow.com/cdn-cgi/trace
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 05:04:52 GMT
+X-Timer: S1621227892.158626,VS0,VE0
+Vary: Cookie, Accept-Encoding, User-Agent
+x-c: cache-wdc5528-WDC,M
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+
+10
+kapanlagi.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 05:04:54 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.kapanlagi.com/cdn-cgi/trace
+X-Content-Type-Options: nosniff
+
+
+11
+avito.ru
+HTTP/1.1 301 Moved Permanently
+Server: QRATOR
+Date: Mon, 17 May 2021 05:04:55 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Keep-Alive: timeout=15
+Location: https://www.avito.ru/cdn-cgi/trace
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+
+
+12
+mega.nz
+
+13
+wix.com
+HTTP/1.1 301 Moved Permanently
+Location: https://www.wix.com/cdn-cgi/trace
+Strict-Transport-Security: max-age=121 ; includeSubDomains
+Connection: close
+Content-Length: 0
+
+
+14
+bukalapak.com
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Location: https://www.bukalapak.com/cdn-cgi/trace
+Content-Length: 236
+Date: Mon, 17 May 2021 05:08:59 GMT
+Alt-Svc: clear
+
+
+15
+investing.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 05:09:00 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650a54c518b9062f-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+16
+office365.com
+HTTP/1.1 302 Found
+Cache-Control: public,max-age=30
+Content-Length: 0
+Location: https://www.microsoft.com/microsoft-365?ms.url=office365com&shorturl=cdn-cgi/trace
+Vary: User-Agent
+Server: Kestrel
+Request-Context: appId=cid-v1:27f0a7a8-dd10-4827-bbd3-5edd1d46ab25
+Strict-Transport-Security: max-age=7776000; includeSubDomains; preload
+X-Response-Cache-Status: True
+X-Powered-By: ASP.NET
+Set-Cookie: ARRAffinity=8eac1edc1afda8512a6fb9bbc52a14208cdc9ad5a6ed84e03773350542730482;Path=/;HttpOnly;Secure;Domain=office365.com
+Set-Cookie: ARRAffinitySameSite=8eac1edc1afda8512a6fb9bbc52a14208cdc9ad5a6ed84e03773350542730482;Path=/;HttpOnly;SameSite=None;Secure;Domain=office365.com
+Date: Mon, 17 May 2021 05:09:00 GMT
+
+
+17
+metropoles.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 05:09:02 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650a54d41c00cf00-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+18
+espn.com
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Date: Mon, 17 May 2021 05:09:03 GMT
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16 OpenSSL/1.0.2k-fips
+Location: https://www.espn.com/cdn-cgi/trace
+Via: 1.1 varnish-v4, 1.1 814e6200dbb5865e94b7b0c1ba6129fe.cloudfront.net (CloudFront)
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: tCEeIjMF8EV80GfZRFMKOa7rkAT3uM95081WDJJdOdeAsML5_aERkg==
+
+
+19
+daum.net
+HTTP/1.1 302 Found
+Date: Mon, 17 May 2021 05:09:05 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: http://www.daum.net/cdn-cgi/trace
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+20
+zillow.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Mon, 17 May 2021 05:09:07 GMT
+Location: https://www.zillow.com/cdn-cgi/trace
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 96bbdd3a7f25156daf49a9ffc457edcc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C1
+X-Amz-Cf-Id: cj3E218WqkK1J-AWBlgycC5Iz-NOSuTBCdpY-nf_KrZb7TbezkVupg==
+
+
+21
+skype.com
+HTTP/1.1 301 Moved Permanently
+Keep-Alive: timeout=3
+Content-Length: 158
+Content-Type: text/html; charset=UTF-8
+Location: https://www.skype.com/cdn-cgi/trace
+Vary: Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Link: <https://secure.skypeassets.com>; rel=preconnect
+X-XSS-Protection: 1; mode=block
+Date: Mon, 17 May 2021 05:09:07 GMT
+
+
+22
+webex.com
+HTTP/1.1 302 Found : Moved Temporarily
+Location: https://www.webex.com/cdn-cgi/trace
+Connection: close
+Cache-Control: no-cache
+Pragma: no-cache
+
+
+23
+scol.com.cn
+HTTP/1.1 301 Moved Permanently
+Content-Length: 160
+Content-Type: text/html; charset=UTF-8
+Location: https://www.scol.com.cn/cdn-cgi/trace
+Server: Microsoft-IIS/8.5
+Date: Mon, 17 May 2021 05:09:07 GMT
+
+
+24
+walmart.com
+HTTP/1.1 301 Moved Permanently
+Accept-Ranges: bytes
+Content-Length: 54
+Content-Type: text/html; charset=utf-8
+Location: https://www.walmart.com/cdn-cgi/trace
+Via: HTTP/1.1 odnd
+Date: Mon, 17 May 2021 05:09:13 GMT
+Set-Cookie: TS011baee6=01c5a4e2f9f9e8769bcf8cbc2751494ec516c26c671d2482c448576b57952ce836127b3c7ccb80dd9814789df151c3c505aba6234c; Path=/; Secure
+
+
+25
+iqoption.com
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 17 May 2021 05:09:14 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 43913
+Connection: keep-alive
+Set-Cookie: platform=15; Max-Age=31536000; Domain=.iqoption.com; Path=/; Expires=Tue, 17 May 2022 05:09:14 GMT
+Set-Cookie: geo=en; Max-Age=2592000; Domain=.iqoption.com; Path=/; Expires=Wed, 16 Jun 2021 05:09:14 GMT
+Accept-Ranges: bytes
+Cache-Control: public, max-age=0
+Last-Modified: Wed, 12 May 2021 13:01:48 GMT
+ETag: W/"ab89-17960ab4800"
+enable-vts-status: true
+proxy-add-original-uri-header: false
+Strict-Transport-Security: max-age=15555600
+X-Content-Type-Options: nosniff
+
+
+26
+patria.org.ve
+HTTP/1.0 302 Moved Temporarily
+Location: https://mantenimiento.patria.org.ve/
+Server: nginx
+Connection: Keep-Alive
+Content-Length: 0
+
+
+27
+google.com.sa
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 05:09:17 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+28
+ebc.net.tw
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=utf-8
+Content-Length: 581
+Connection: keep-alive
+Cache-Control: private
+Server: Microsoft-IIS/8.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Frame-Options: SAMEORIGIN
+Date: Mon, 17 May 2021 05:09:21 GMT
+X-Cache: Error from cloudfront
+Via: 1.1 ba82151bf51e4c722c5305c983d8b71e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C3
+X-Amz-Cf-Id: WErNV8M2O0QjGvByyBJCJR1tUMC5NQM5Jy_Yf_ifehct9m1tDq7rLw==
+
+
+29
+momoshop.com.tw
+
+30
+zhihu.com
+HTTP/1.1 301 Moved Permanently
+Server: CLOUD ELB 1.0.0
+Date: Mon, 17 May 2021 05:09:24 GMT
+Content-Type: text/html
+Content-Length: 182
+Connection: keep-alive
+Location: https://www.zhihu.com/cdn-cgi/trace
+X-Backend-Response: 0.000
+Vary: Accept-Encoding
+Referrer-Policy: no-referrer-when-downgrade
+X-SecNG-Response: 0.00099992752075195
+x-lb-timing: 0.001
+x-idc-id: 2
+Set-Cookie: KLBRSID=2177cbf908056c6654e972f5ddc96dc2|1621228164|1621228164; Path=/
+
+
+31
+nicovideo.jp
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 05:09:26 GMT
+Server: Apache
+Location: https://www.nicovideo.jp/cdn-cgi/trace
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+32
+flipkart.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 05:09:28 GMT
+Content-Type: text/html
+Content-Length: 178
+Location: https://www.flipkart.com/cdn-cgi/trace
+
+
+33
+suara.com
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Date: Mon, 17 May 2021 05:09:29 GMT
+Server: nginx
+s-device-type: desktop
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 93db32d5347403a3ab35b40dbb40e860.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C1
+X-Amz-Cf-Id: jidWafBLS7gGrDjS1zznLLZtnJ4-X19uDo1r0MF1QYYWt0mYhsbw7w==
+
+
+34
+soso.com
+
+35
+cnblogs.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 05:09:34 GMT
+Connection: keep-alive
+Location: https://www.cnblogs.com/cdn-cgi/trace
+Strict-Transport-Security: max-age=2592000; includeSubDomains; preload
+
+
+36
+forbes.com
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.forbes.com/cdn-cgi/trace
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 05:09:35 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5533-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1621228176.907524,VS0,VE0
+X-Country-Code: US
+X-Postal-Code: 22042
+X-Region: VA
+X-City-Code: falls church
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Credentials: true
+Content-Security-Policy: upgrade-insecure-requests
+state: HIT-SYNTH
+
+
+37
+coursera.org
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Date: Mon, 17 May 2021 05:09:37 GMT
+Location: https://www.coursera.org/cdn-cgi/trace
+Set-Cookie: CSRF3-Token=1622092177.rDIKTZEFVts89Pvi; Max-Age=864000; Expires=Thu, 27 May 2021 05:09:37 GMT; Path=/; Domain=.coursera.org
+Set-Cookie: __204u=6169657986-1621228177109; Max-Age=31536000; Expires=Tue, 17 May 2022 05:09:37 GMT; Path=/; Domain=.coursera.org
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Coursera-Request-Id: E3f6P7bOEeu71g5Lq2mwVw
+X-Coursera-Trace-Id-Hex: e95e8a5419ce8d2c
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Cache: Miss from cloudfront
+Via: 1.1 c9bc0840da506c3f9fd4715a063463a7.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: UXXvsfYyKZ9IwItsWbfOd1fdCCzD4ljN6aCDDgewELx_NzTmzDUKFA==
+
+
+38
+cnet.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 178
+Content-Type: text/html
+Date: Mon, 17 May 2021 05:09:38 GMT
+Location: https://www.cnet.com/cdn-cgi/trace
+Server: nginx
+Via: 1.1 google
+Alt-Svc: clear
+
+
+39
+ilovepdf.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 05:09:39 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650a55b9d8b65a45-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+40
+businessinsider.com
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 718
+Server: Varnish
+Retry-After: 0
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 05:09:40 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5569-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1621228181.635121,VS0,VE0
+Strict-Transport-Security: max-age=31536000
+Location: https://www.businessinsider.com/cdn-cgi/trace
+
+
+41
+line.me
+HTTP/1.1 404 Not Found
+Server: nginx
+Date: Mon, 17 May 2021 05:09:42 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 7863
+Connection: keep-alive
+Last-Modified: Fri, 28 Aug 2020 08:34:39 GMT
+Accept-Ranges: bytes
+Vary: Accept-Encoding,User-Agent
+P3P: CP="ALL CURa ADMa DEVa TAIa OUR BUS IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC OTC"
+
+
+42
+healthline.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Mon, 17 May 2021 05:09:44 GMT
+Location: https://www.healthline.com/cdn-cgi/trace
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 6bc1c280aeef9bbdeb102c7f4e4f773e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C1
+X-Amz-Cf-Id: K6nXWhuCzXAgirp_w2WfNyKnxl14bRCw8eG47IzNtromtlQcYh_fBQ==
+
+
+43
+amazon.ca
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Mon, 17 May 2021 05:09:45 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://www.amazon.ca/cdn-cgi/trace
+
+
+44
+godaddy.com
+
+45
+manoramaonline.com
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.manoramaonline.com/cdn-cgi/trace
+Expires: Mon, 17 May 2021 05:09:47 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Mon, 17 May 2021 05:09:47 GMT
+Connection: keep-alive
+
+
+46
+idntimes.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 05:08:16 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.idntimes.com/cdn-cgi/trace
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: frame-ancestors https://ads.idntimes.com https://fyi.idntimes.com
+Cache-Control: no-transform
+
+
+47
+indeed.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 05:09:50 GMT
+Content-Length: 0
+Connection: keep-alive
+location: https://www.indeed.com/cdn-cgi/trace
+
+
+48
+namnak.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 05:09:52 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650a5608ba955a6a-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+49
+chase.com
+HTTP/1.0 301 Moved Permanently
+Location: https://www.chase.com/cdn-cgi/trace
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+

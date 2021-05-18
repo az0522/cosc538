@@ -1,0 +1,672 @@
+0
+pixnet.net
+HTTP/1.1 302 Moved Temporarily
+Date: Mon, 17 May 2021 04:50:19 GMT
+Location: https://www.pixnet.net/
+Vary: User-Agent,Accept-Encoding
+P3P: CP="CURa ADMa DEVa PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+X-FarmId: dd8368c44b5df7692f083d2035bf7309156d175cb5ecdc0a2981275a582ac61a
+Content-Type: text/html
+
+
+1
+google.ru
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 04:50:20 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+2
+google.it
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 04:50:21 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+3
+amazon.co.uk
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Mon, 17 May 2021 04:50:22 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://www.amazon.co.uk/cdn-cgi/trace
+
+
+4
+google.es
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 04:50:24 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+5
+soundcloud.com
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Content-Length: 12246
+Connection: keep-alive
+x-pants: distant-towel
+x-xss-protection: 1; mode=block
+cache-control: private, max-age=0, no-cache, no-store
+x-frame-options: SAMEORIGIN
+date: Mon, 17 May 2021 04:50:25 GMT
+strict-transport-security: max-age=63072000; includeSubdomains; preload
+server: am/2
+X-Cache: Error from cloudfront
+Via: 1.1 12f59ea0cc8b3c4c54373b702216110b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C1
+X-Amz-Cf-Id: Df8FntNhBWcZKUIBmIViPkbRHUYZKxsXW2zgMzCXMQKEZd2-5TSnSA==
+
+
+6
+github.com
+HTTP/1.1 404 Not Found
+Server: GitHub.com
+Date: Mon, 17 May 2021 04:50:26 GMT
+Content-Type: text/html; charset=utf-8
+Vary: X-PJAX, Accept-Encoding, Accept, X-Requested-With
+permissions-policy: interest-cohort=()
+Cache-Control: no-cache
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 0
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Expect-CT: max-age=2592000, report-uri="https://api.github.com/_private/browser/errors"
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; connect-src 'self' uploads.github.com www.githubstatus.com collector.githubapp.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; frame-src render.githubusercontent.com; img-src 'self' data: github.githubassets.com identicons.github.com collector.githubapp.com github-cloud.s3.amazonaws.com secured-user-images.githubusercontent.com/ *.githubusercontent.com; manifest-src 'self'; media-src 'none'; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/socket-worker-3f088aa2.js gist.github.com/socket-worker-3f088aa2.js
+Set-Cookie: _gh_sess=9htz4cadZ2PhW6TPDY3ANyhcPJIZMIbBIoFcQhsLhun4ZGpHnxz6qtwvIXyfiwrsc81cqy%2FxJ5LyGihiucBgCnKXJcnE8Uigwb1QXH0BN3nAMZ4XETtPCQwONu%2BWmqtRYz3jQHMdEUsVGnfx5YOmHo%2BH%2B44TugBzokbXUDZ4Y2jZteu5BDx3zr%2FYod9DkQNKjaJ5IhtVfJBoA%2BZmYHiRm%2Br4pAnaDPBgpcslz7c8HxfqLeRP%2FGjMEXrHUSU6dQ16kRgythFiPFXjvhwqW8rNcw%3D%3D--t2qeq1VPnO4ru%2BEF--2qh%2BKDjX3oJZ49jyKjeEbA%3D%3D; Path=/; HttpOnly; Secure; SameSite=Lax
+Set-Cookie: _octo=GH1.1.1608656485.1621227026; Path=/; Domain=github.com; Expires=Tue, 17 May 2022 04:50:26 GMT; Secure; SameSite=Lax
+Set-Cookie: logged_in=no; Path=/; Domain=github.com; Expires=Tue, 17 May 2022 04:50:26 GMT; HttpOnly; Secure; SameSite=Lax
+X-GitHub-Request-Id: 1CFD:2FDF:F3FC3D:15B1EF9:60A1F612
+
+
+7
+liputan6.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:50:28 GMT
+Content-Length: 0
+Connection: keep-alive
+Server: Varnish
+X-Varnish: 64304065
+Location: http://www.liputan6.com/cdn-cgi/trace
+
+
+8
+stackexchange.com
+HTTP/1.1 404 Not Found
+Connection: keep-alive
+cache-control: private
+content-type: text/html
+strict-transport-security: max-age=15552000
+x-frame-options: SAMEORIGIN
+x-request-guid: c4be5278-b969-4ce5-bc87-54386a154f7a
+content-security-policy: upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 04:50:29 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5525-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1621227030.898739,VS0,VE10
+Vary: Fastly-SSL
+X-DNS-Prefetch-Control: off
+Set-Cookie: prov=35a1d5b9-babd-30d1-f870-9132f522eab5; domain=.stackexchange.com; expires=Fri, 01-Jan-2055 00:00:00 GMT; path=/; HttpOnly
+
+
+9
+indiatimes.com
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.indiatimes.com/cdn-cgi/trace
+Cache-Control: max-age=0
+Expires: Mon, 17 May 2021 04:50:31 GMT
+Date: Mon, 17 May 2021 04:50:31 GMT
+Connection: keep-alive
+
+
+10
+globo.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:50:33 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: keep-alive
+Cache-Control: max-age=600
+Location: https://www.globo.com/cdn-cgi/trace
+X-Request-ID: a7f61438-9f18-447f-9370-8bdc02f0fd9d
+X-Thanos: 0AB5C042
+
+
+11
+etsy.com
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 04:50:34 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5558-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1621227034.194178,VS0,VE0
+Location: https://www.etsy.com/cdn-cgi/trace
+
+
+12
+google.cn
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 04:50:35 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+13
+hao123.com
+
+14
+paypal.com
+HTTP/1.1 302 Moved Temporarily
+Content-Type: text/html
+Content-Length: 161
+Connection: keep-alive
+Location: https://www.paypal.com/cdn-cgi/trace
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+
+15
+xvideos.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:50:39 GMT
+P3p: policyref="/p3p.xml", CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
+Vary: Accept-Encoding,User-Agent,Accept-Language,Cookie
+Location: https://www.xvideos.com/cdn-cgi/trace
+Content-Type: text/html; charset=utf-8
+Server: nginx
+
+
+16
+gome.com.cn
+HTTP/1.1 301 Moved Permanently
+Server: GOMEWS
+Date: Mon, 17 May 2021 04:50:41 GMT
+Content-Type: text/html
+Connection: keep-alive
+Location: http://www.gome.com.cn/cdn-cgi/trace
+X-Info: spa-37-106-105
+Vary: Accept-Encoding
+Set-Cookie: uid=CmlqJWCh9iFvp4+6N2b9Ag==; expires=Sat, 22-May-21 04:50:41 GMT; domain=gome.com.cn; path=/
+P3P: policyref="/w3c/p3p.xml", CP="CUR ADM OUR NOR STA NID"
+
+
+17
+amazon.de
+HTTP/1.1 301 Moved Permanently
+Server: Server
+Date: Mon, 17 May 2021 04:50:43 GMT
+Content-Type: text/html
+Content-Length: 179
+Connection: keep-alive
+Location: https://www.amazon.de/cdn-cgi/trace
+
+
+18
+yao.tmall.com
+HTTP/1.1 302 Found
+Server: Tengine
+Date: Mon, 17 May 2021 04:50:47 GMT
+Content-Type: text/html
+Content-Length: 258
+Connection: keep-alive
+Location: http://err.tmall.com/error1.html?c=404&u=http://yao.tmall.com/cdn-cgi/trace&r=
+
+
+19
+onlinesbi.com
+HTTP/1.1 404 Not Found
+Connection: Close
+Content-Type: text/html
+Set-Cookie: imc10=ad4fd06dfdd67b250052; Path=/; Domain=onlinesbi.com; Secure; HttpOnly
+
+
+20
+primevideo.com
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Mon, 17 May 2021 04:03:15 GMT
+Location: https://www.primevideo.com/cdn-cgi/trace
+Server: AmazonS3
+X-Cache: Hit from cloudfront
+Via: 1.1 9317f1a4c7320bdeb8f38066b985748b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C2
+X-Amz-Cf-Id: 61DN23PpqZ5tTI08nfOGOMI8Lpl3yij96pvMYtEIaBnp2tgeeS07XQ==
+Age: 2857
+
+
+21
+nih.gov
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 04:50:52 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 241
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Location: https://www.nih.gov/cdn-cgi/trace
+Cache-Control: max-age=1209600
+Expires: Mon, 31 May 2021 04:03:16 GMT
+X-Request-ID: v-ce9a6992-b6c4-11eb-89b6-07e383be81b9
+Age: 2856
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 1
+
+
+22
+thestartmagazine.com
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 34464
+Content-Type: text/html; charset=utf-8
+ETag: "c76057d7d1bd6f84cabfa966831cbb8d"
+Last-Modified: Mon, 17 May 2021 04:03:17 GMT
+Server: nginx/1.12.1
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: ALLOWALL
+X-XSS-Protection: 1; mode=block
+XUA: desktop
+Cache-Control: max-age=86400
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 04:50:53 GMT
+Via: 1.1 varnish
+Age: 2856
+X-Served-By: cache-wdc5543-WDC
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1621227053.289779,VS0,VE1
+Vary: X-UA-Device, X-AB
+
+
+23
+tumblr.com
+HTTP/1.1 301 Moved Permanently
+Server: openresty
+Date: Mon, 17 May 2021 04:50:54 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: keep-alive
+Location: https://www.tumblr.com/cdn-cgi/trace
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+
+
+24
+uol.com.br
+HTTP/1.0 301 Moved Permanently
+Location: https://www.uol.com.br/cdn-cgi/trace
+Cache-Control: max-age=60
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+25
+google.com.tw
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 04:50:57 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+26
+wetransfer.com
+HTTP/1.1 404 Not Found
+Date: Mon, 17 May 2021 04:50:58 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 836
+Connection: keep-alive
+X-Request-Id: 3cff57e6-394e-4c71-aed4-104f6999ee08
+X-Opaque: 0135c16aa29699533ee744dfd795aeccfdae3505-04807b1d9fc07aafd-26329
+X-Runtime: 0.001443
+Vary: Origin
+Strict-Transport-Security: max-age=15552000; includeSubDomains;
+
+
+27
+mercadolivre.com.br
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Content-Length: 278
+Connection: keep-alive
+Date: Mon, 17 May 2021 04:51:00 GMT
+Server: Tengine
+Location: https://www.mercadolivre.com.br/cdn-cgi/trace
+X-Request-Id: 53d0c877-c176-44ab-b966-a3772c1c75c1
+X-D2id: 53d0c877-c176-44ab-b966-a3772c1c75c1
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Cache: Miss from cloudfront
+Via: 1.1 c974a69619205281e0e6b8e73f95e4b5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD89-C3
+X-Amz-Cf-Id: 0m1CfUmZZ6jcsAKyxqq2YDh-3RqgNJuu4H_3hhrb3sZg5XEF5P9X6A==
+
+
+28
+youm7.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 04:51:01 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650a3a6caa38067c-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+29
+sindonews.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:51:03 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.sindonews.com/cdn-cgi/trace
+
+
+30
+digikala.com
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 04:51:10 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.digikala.com/cdn-cgi/trace
+
+
+31
+theguardian.com
+HTTP/1.1 301
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.theguardian.com/cdn-cgi/trace
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 04:51:07 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5574-WDC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1621227067.043277,VS0,VE0
+Strict-Transport-Security: max-age=31536000
+
+
+32
+6.cn
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:51:09 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 536
+Connection: keep-alive
+X-Varnish: 113775710
+Location: https://www.6.cn
+Server: 6.cn Web Server
+XHOST: 172-16-235-6:80
+X-Cache: MISS
+
+
+33
+rednet.cn
+
+34
+telegram.org
+HTTP/1.1 501 Not Implemented
+Server: nginx/1.18.0
+Date: Mon, 17 May 2021 04:51:54 GMT
+Content-Type: text/html
+Content-Length: 181
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+
+35
+google.com.mx
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 04:51:55 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+36
+canva.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 04:51:56 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650a3bc69acd5a94-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+37
+slideshare.net
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:51:57 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Server: nginx
+Location: https://www.slideshare.net/cdn-cgi/trace
+P3P: CP="OTI DSP COR CUR ADM DEV PSD IVD CONo OUR IND"
+X-Content-Type-Options: nosniff
+
+
+38
+google.co.uk
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 04:51:58 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+39
+savefrom.net
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 04:52:00 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Keep-Alive: timeout=25
+Location: https://us.savefrom.net
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+
+40
+xhamster.com
+HTTP/1.1 200 OK
+Date: Mon, 17 May 2021 04:52:01 GMT
+Content-Type: text/plain
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Server: cloudflare
+CF-RAY: 650a3be5bb320593-IAD
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: no-cache
+
+
+41
+grammarly.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:52:02 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 114
+Connection: keep-alive
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Cache-Control: max-age=0, no-store, no-cache
+Content-Security-Policy: frame-ancestors 'self' *.grammarly.com
+X-Content-Type-Options: nosniff
+Location: https://www.grammarly.com/cdn-cgi/trace
+
+
+42
+shutterstock.com
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Mon, 17 May 2021 04:52:03 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.shutterstock.com:443/cdn-cgi/trace
+
+
+43
+researchgate.net
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Mon, 17 May 2021 04:52:05 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.researchgate.net/cdn-cgi/trace
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+
+
+44
+3c.tmall.com
+HTTP/1.1 302 Moved Temporarily
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+Content-Length: 211
+Connection: keep-alive
+Date: Mon, 17 May 2021 04:52:08 GMT
+Vary: Origin, Ali-Detector-Type
+x-server-id: 28c3d6b2523ca52cb704b8b5dcd976772fac0fd47f30cf9ba5598adfe20c811f8bb00e660f25c2b1
+X-Wormhole-Error: 404
+x-air-content-status: 404
+Cache-Control: max-age=0, s-maxage=120
+Location: https://err.tmall.com/error1.html?c=404&u=https%3A%2F%2F3c.tmall.com%2Fcdn-cgi%2Ftrace
+x-readtime: 5
+x-via: us9.l1, cache4.us9, l2ot7.l2, cache28.l2ot7, wormholesource011001121105.center.na61
+EagleEye-TraceId: 2ff6189f16212271277917580e
+Strict-Transport-Security: max-age=0
+Timing-Allow-Origin: *, *
+Ali-Swift-Global-Savetime: 1621227128
+Via: cache28.l2ot7[332,302-0,M], cache45.l2ot7[334,0], cache4.us9[612,612,302-0,M], cache11.us9[615,0]
+X-Cache: MISS TCP_REFRESH_MISS dirn:10:417380588
+X-Swift-SaveTime: Mon, 17 May 2021 04:52:08 GMT
+X-Swift-CacheTime: 120
+EagleId: 2ff6189f16212271277917580e
+
+
+45
+google.com.tr
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1574
+Date: Mon, 17 May 2021 04:52:09 GMT
+Alt-Svc: h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+46
+pinterest.com
+HTTP/1.1 308 Permanent Redirect
+Connection: close
+Content-Length: 273
+Retry-After: 0
+Content-Type: text/html
+Location: https://www.pinterest.com/cdn-cgi/trace
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 04:52:10 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+
+47
+speedtest.net
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Content-Type:
+Accept-Ranges: bytes
+Date: Mon, 17 May 2021 04:52:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-wdc5544-WDC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1621227132.906553,VS0,VE0
+location: https://www.speedtest.net/cdn-cgi/trace
+
+
+48
+okta.com
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 17 May 2021 04:52:13 GMT
+Server: Apache
+Location: https://www.okta.com/cdn-cgi/trace
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+
+49
+kumparan.com
+HTTP/1.1 404 Not Found
+Date: Mon, 17 May 2021 04:52:15 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 62709
+Connection: keep-alive
+Server: openresty
+Vary: Accept-Encoding
+Vary: Origin, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Service-Worker-Allowed: *
+Content-Language: id
+Set-Cookie: web_tracker_userId=; Max-Age=63071; Domain=kumparan.com; Path=/; Expires=Mon, 17 May 2021 22:23:26 GMT
+Set-Cookie: web_tracker_cookieId=ecfad423-54ba-4e40-bac4-8dc99ac71173; Max-Age=31536000; Domain=kumparan.com; Path=/; Expires=Tue, 17 May 2022 04:52:14 GMT
+Set-Cookie: web_tracker_userAliasId=2c7babae-00ef-4265-ad57-4f6235926ae5; Max-Age=31536000; Domain=kumparan.com; Path=/; Expires=Tue, 17 May 2022 04:52:14 GMT
+ETag: W/"f4f5-0TqkePuukyNWVSr/XFHg+msOExE"
+X-Content-Type-Options: nosniff
+x-xss-protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+
